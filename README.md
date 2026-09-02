@@ -8,7 +8,7 @@ It was built to answer one question: **as Bangalore's infrastructure explodes ov
 
 ## Demo
 
-![Demo](docs/demo.gif)
+![Demo](demo.gif)
 
 <sub>▶️ For a full-quality clip with playback controls, drag `docs/demo.mp4` into any GitHub PR/issue or the README editor and GitHub will embed a player — or host it on YouTube/Loom and link it here.</sub>
 
