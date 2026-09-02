@@ -6,13 +6,13 @@ It was built to answer one question: **as Bangalore's infrastructure explodes ov
 
 > ⚠️ **Not investment or real-estate advice.** Station/road alignments are approximate (DPR-level), project pins are locality-level unless marked verified, and *timelines are the author's realistic estimates, not official promises*. Always verify RERA, exact GPS, and current price before making any decision. See [Data & accuracy](#data--accuracy).
 
-## Live demo
+## Demo
 
-Once GitHub Pages is enabled: **`https://<your-username>.github.io/bangalore-connectivity-map/`**
+![Demo](docs/demo.gif)
 
-_(Replace `<your-username>` after you publish. Add a screenshot to `docs/screenshot.png` and it will show below.)_
+<sub>▶️ For a full-quality clip with playback controls, drag `docs/demo.mp4` into any GitHub PR/issue or the README editor and GitHub will embed a player — or host it on YouTube/Loom and link it here.</sub>
 
-<!-- ![Screenshot](docs/screenshot.png) -->
+**Try it live** (after you enable GitHub Pages): `https://<your-username>.github.io/bangalore-connectivity-map/`
 
 ## Why this exists
 
