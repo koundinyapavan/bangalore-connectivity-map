@@ -12,7 +12,7 @@ It was built to answer one question: **as Bangalore's infrastructure explodes ov
 
 <sub>▶️ For a full-quality clip with playback controls, drag `docs/demo.mp4` into any GitHub PR/issue or the README editor and GitHub will embed a player — or host it on YouTube/Loom and link it here.</sub>
 
-**Try it live** (after you enable GitHub Pages): `https://<your-username>.github.io/bangalore-connectivity-map/`
+**Try it live** (after you enable GitHub Pages): `[[https://<your-username>.github.io/bangalore-connectivity-map/](https://koundinyapavan.github.io/bangalore-connectivity-map/)](https://koundinyapavan.github.io/bangalore-connectivity-map/)`
 
 ## Why this exists
 
