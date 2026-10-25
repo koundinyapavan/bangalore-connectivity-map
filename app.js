@@ -23,56 +23,46 @@ BaseCtl.addTo(map);
 
 /* ---------------- PROPERTIES ---------------- */
 
-const TYPECOLOR={villa:'#C0392B',apartment:'#2E86C1',plot:'#8E44AD'};
+const TYPECOLOR={villa:'#C0392B',apartment:'#2E86C1',plot:'#8E44AD',unknown:'#87939f'};
+const esc=PropertyUtils.escapeHtml;
+const STATUS_LABEL={ready:'Reported ready / resale',uc:'Reported under construction',mixed:'Mixed phases / towers',unknown:'Stage not confirmed'};
 const CORR_TRANSIT={
-  East:'ORR/Whitefield tech belt — Purple metro (live) + Blue ORR (~2027) + Kanaka suburban (~2029). Sarjapur end: no near-term metro (Red 3A ~2033+).',
-  North:'Airport/Manyata corridor — Blue airport metro (2028–29) + Sampige/Kanaka suburban (~2029). Devanahalli is not an ORR commute.',
-  South:'Bannerghatta / E-City / Kanakapura — Pink (elevated ~Nov 2026, Bannerghatta Rd) · Yellow (live, E-City/Hosur Rd) · Green (live, Kanakapura).',
-  Central:'Central Bengaluru — Purple/Green (live) + Pink (elevated ~Nov 2026, UG 2027–28).',
-  West:'West Bengaluru — Purple/Green metro (live).'
+  East:'Purple operates through Whitefield. Blue ORR is under construction; Red Hebbal–Sarjapur remains a proposal with Union approval unverified.',
+  North:'Blue airport corridor is under construction. Compare station access and interchange time separately from airport-road proximity.',
+  South:'Green and Yellow operate. Pink is under construction. Check the station and section relevant to the property.',
+  Central:'Purple and Green operate; Pink is under construction.',
+  West:'Purple and Green operate. Orange and Grey form Union-approved Phase 3; approval is not an opening guarantee.'
 };
-function upcomingSchedule(p){
-  if(!p.upcoming) return '';
-  return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><span class="rn">Upcoming project</span> — usually sold on a construction-linked payment plan (pay in slabs as it is built), so you can enter before completion while the metro / suburban-rail / ring-road network matures around it.</div>';
-}
-const METRO_STATUS={op:'running',uc:'under construction',pl:'planned'};
+function upcomingSchedule(p){return p.upcoming?'<div style="margin-top:5px"><small>Reported upcoming project. Confirm the registered phase, construction stage and payment terms.</small></div>':'';}
 function nearestMetro(p){
-  const here=L.latLng(p.lat,p.lng), best={};
-  METRO.forEach(l=>l.pts.forEach(s=>{
-    const k=l.status==='op'?'op':'up', d=here.distanceTo(L.latLng(s[1],s[2]));
-    if(!best[k]||d<best[k].d||(d===best[k].d&&l.status==='uc'))best[k]={d:d,stn:s[0],line:l.name.replace(/ \(.*\)$/,'').replace(/ — .*$/,''),status:l.status};
-  }));
-  const row=(label,b)=>b?'<div>'+label+' <b>'+b.stn+'</b> ('+b.line+(b.status!=='op'?', '+METRO_STATUS[b.status]:'')+') — '+(b.d/1000).toFixed(1)+' km</div>':'';
-  return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Nearest metro</b> <small>(straight-line)</small>'+row('Running:',best.op)+row('Upcoming:',best.up)+'</div>';
+  const best=PropertyUtils.nearestStations(p,METRO,(a,b,c,d)=>L.latLng(a,b).distanceTo(L.latLng(c,d)));
+  const labels={op:'Operating',uc:'Under construction',approved:'Union-approved Phase 3',proposed:'Other proposal (Union approval unverified)'};
+  return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Nearest metro by stage</b> <small>(straight-line to station point; not walking distance)</small>'+Object.keys(labels).map(k=>best[k]?'<div>'+labels[k]+': <b>'+esc(best[k].station)+'</b> ('+esc(best[k].line)+') — '+(best[k].d/1000).toFixed(1)+' km</div>':'').join('')+'</div>';
 }
 function priceStr(p){return p.min==null?'not confirmed':'₹'+p.min+(p.max==null?'+':'–'+p.max)+' Cr';}
-const META_NOTE={partial:'Price/possession partly unverified (listing sites disagree)',est:'Price/possession largely unverified',none:'No price/possession details found'};
+function sourceLink(url,label){return /^https:\/\//.test(url||'')?'<a target="_blank" rel="noopener noreferrer" href="'+esc(url)+'">'+esc(label)+'</a>':'';}
 function popup(p){
-  const st=p.status==='uc'?'<span class="pill uc">Under construction</span>':'<span class="pill op">Ready / resale</span>';
-  const geo=p.geo==='verified'?'<span style="color:#2ec27e">GPS-verified (site visit)</span>':p.geo==='csv'?'<span style="color:#7fbfff">coordinates from your project list (Oct 2026)</span>':p.geo==='osm'?'<span style="color:#7fbfff">OpenStreetMap project footprint (Oct 2026)</span>':p.geo==='geocoded'?'<span style="color:#7fbfff">geocoded via Google Places (project-level)</span>':'<span style="color:#e6b800">approx (locality-level)</span>';
-  return '<b>'+p.name+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+p.dev+' · '+p.corr+' · '+p.area+'</small>'+
-    '<div style="margin-top:4px">'+cap(p.type)+' · '+p.config+'</div>'+
-    '<div>Price <b>'+priceStr(p)+'</b> · '+st+'</div>'+
-    '<div><b>Completion:</b> '+p.poss+'</div>'+
+  const sources=(p.sources||[]).map((u,i)=>sourceLink(u,'Source '+(i+1))).join(' · ');
+  const fields=p.fieldReview||{};
+  return '<b>'+esc(p.name)+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+esc(p.dev)+' · '+esc(p.corr)+' · '+esc(p.area)+'</small>'+
+    '<div style="margin-top:4px">'+esc(cap(p.type))+' · '+esc(p.config)+'</div>'+
+    '<div>Project-wide asking range <b>'+priceStr(p)+'</b> (unverified; not a 3 BHK quote)</div>'+
+    '<div><b>'+esc(STATUS_LABEL[p.status]||STATUS_LABEL.unknown)+'</b></div>'+
+    '<div><b>Completion / target:</b> '+esc(p.poss)+'</div>'+
     nearestMetro(p)+
-    '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Transit (by ~2030)</b><br>'+(CORR_TRANSIT[p.corr]||'')+'</div>'+
-    '<div style="margin-top:4px"><small>Pin: '+geo+' — verify exact plot</small></div>'+(META_NOTE[p.meta]?'<div style="margin-top:4px;color:#e6b800"><small>⚠ '+META_NOTE[p.meta]+' — confirm on RERA</small></div>':'')+
-    upcomingSchedule(p);
+    '<div style="margin-top:5px"><b>Corridor context</b><br>'+esc(CORR_TRANSIT[p.corr]||'Compare the individual station connections.')+'</div>'+
+    '<div style="margin-top:5px"><small>Pin: '+esc(p.coordinateQuality||p.geo)+'<br>'+esc(p.coordinateSource||'Source not recorded')+'</small></div>'+
+    '<div style="margin-top:4px;color:#e6b800"><small>Stage evidence: '+esc(fields.stage||'Not checked')+'<br>Price: '+esc(fields.price||'Not checked')+'<br>3 BHK availability, gate-to-station walk and all-in price: not checked.</small></div>'+
+    (p.auditNote?'<p>'+esc(p.auditNote)+'</p>':'')+
+    '<div><small>Catalogue reviewed '+esc(p.checkedDate||'date unknown')+'; inherited fields may be older. '+sources+' · <a href="research.html">Full catalogue &amp; coverage gaps</a></small></div>'+upcomingSchedule(p);
 }
-function cap(s){return s.charAt(0).toUpperCase()+s.slice(1);}
-
-function bandOverlap(sel,min,max){
-  if(min==null) return true;
-  if(max==null) max=999;
-  const R={lo:[0,3],mid:[3,6],hi:[6,999]};
-  return sel.some(k=>R[k][0]<=max && min<=R[k][1]);
-}
-function projYear(p){const m=(p.poss||'').match(/20\d\d/g);if(m)return Math.max.apply(null,m.map(Number));return p.status==='ready'?2025:2030;}
-function compBucket(p){const y=projYear(p);if(p.status==='ready'||y<=2026)return 'ready';if(y<=2028)return 'y2728';if(y<=2031)return 'y2931';return 'y32';}
+function cap(s){return s==='unknown'?'Product not confirmed':s.charAt(0).toUpperCase()+s.slice(1);}
+const bandOverlap=PropertyUtils.bandOverlap;
+const projYear=PropertyUtils.projectYear;
+const compBucket=PropertyUtils.completionBucket;
 function getChecked(cls){return Array.from(document.querySelectorAll('.'+cls+':checked')).map(e=>e.value);}
 let shownMarkers=[];
 function activeChips(id){var c=document.getElementById(id);if(!c)return [];return Array.from(c.querySelectorAll('.chip.active')).map(x=>x.getAttribute('data-val'));}
-function projDate(p){var m=(p.poss||'').match(/20\d\d/g);return m?Math.max.apply(null,m.map(Number)):(p.status==='ready'?2025:2030);}
 function highlightRow(i){document.querySelectorAll('.lrow.active').forEach(r=>r.classList.remove('active'));var r=document.getElementById('lrow-'+i);if(r){r.classList.add('active');r.scrollIntoView({block:'nearest'});}}
 function focusProp(i){var s=shownMarkers[i];if(!s)return;highlightRow(i);if(propLayer.zoomToShowLayer&&s.marker){propLayer.zoomToShowLayer(s.marker,function(){if(s.marker.openPopup)s.marker.openPopup();});}else{map.setView([s.lat,s.lng],15);if(s.marker&&s.marker.openPopup)s.marker.openPopup();}}
 function renderProps(){
@@ -82,13 +72,13 @@ function renderProps(){
   const sEl=document.getElementById('search'),q=(sEl&&sEl.value?sEl.value:'').trim().toLowerCase();
   const srtEl=document.getElementById('sort'),sort=srtEl?srtEl.value:'def';
   const showLabels=document.getElementById('lLabels').checked;
-  let list=PROPS.filter(p=>types.includes(p.type)&&stats.includes(p.status)&&bandOverlap(bands,p.min,p.max)&&comps.includes(compBucket(p))
+  let list=PROPS.filter(p=>PropertyUtils.validPin(p)&&types.includes(p.type)&&stats.includes(p.status)&&bandOverlap(bands,p.min,p.max)&&comps.includes(compBucket(p))
     &&(devs.length===0||devs.includes(p.dev))&&(corrs.length===0||corrs.includes(p.corr))
     &&(q===''||(p.name+' '+p.dev+' '+p.area+' '+p.corr).toLowerCase().indexOf(q)>=0));
   if(sort==='pmin')list.sort((a,b)=>(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
   else if(sort==='pmax')list.sort((a,b)=>(b.max==null?(b.min==null?-1:b.min):b.max)-(a.max==null?(a.min==null?-1:a.min):a.max));
-  else if(sort==='soon')list.sort((a,b)=>projDate(a)-projDate(b)||(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
-  else if(sort==='late')list.sort((a,b)=>projDate(b)-projDate(a));
+  else if(sort==='soon')list.sort((a,b)=>PropertyUtils.dateCompare(a,b)||(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
+  else if(sort==='late')list.sort((a,b)=>PropertyUtils.dateCompare(a,b,true));
   else if(sort==='name')list.sort((a,b)=>a.name.localeCompare(b.name));
   let rows='';
   list.forEach(p=>{
@@ -99,7 +89,7 @@ function renderProps(){
     mk.on('popupopen',function(){highlightRow(i);});
     propLayer.addLayer(mk);
     shownMarkers.push({lat:p.lat,lng:p.lng,marker:mk});
-    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+p.name+'</b><br><span class="lmeta">'+p.dev+' · '+p.area+' · '+priceStr(p)+' · '+(p.status==='uc'?('UC '+p.poss):'Ready')+'</span></div>';
+    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+esc(p.name)+'</b><br><span class="lmeta">'+esc(p.dev)+' · '+esc(p.area)+' · '+priceStr(p)+' · '+esc(STATUS_LABEL[p.status]||STATUS_LABEL.unknown)+'</span></div>';
   });
   document.getElementById('count').textContent=shownMarkers.length+' of '+PROPS.length+' shown'+((devs.length||corrs.length||q)?' · filtered':'');
   var lb=document.getElementById('listBody'); if(lb) lb.innerHTML=rows;
@@ -109,11 +99,14 @@ function renderProps(){
 /* build builder + corridor chips */
 function buildChips(id,vals){var c=document.getElementById(id);if(!c)return;c.innerHTML=vals.map(v=>'<span class="chip active" data-val="'+v+'">'+v+'</span>').join('');c.addEventListener('click',function(e){if(e.target&&e.target.classList&&e.target.classList.contains('chip')){e.target.classList.toggle('active');renderProps();}});}
 buildChips('devChips',Array.from(new Set(PROPS.map(p=>p.dev))).sort());
-buildChips('corrChips',['East','North','South','Central','West']);
+buildChips('corrChips',['East','North','South','Central','West','Unknown']);
 
 /* default layers on */
 [metroLayer,krideLayer,propLayer].forEach(l=>l.addTo(map));
+const requestedProject=new URLSearchParams(window.location.search).get('project');
+if(requestedProject)document.getElementById('search').value=requestedProject;
 renderProps();
+if(requestedProject&&shownMarkers.length===1)focusProp(0);
 
 /* wire filters */
 document.querySelectorAll('.fType,.fStatus,.fBand,.fComplete').forEach(el=>el.addEventListener('change',renderProps));

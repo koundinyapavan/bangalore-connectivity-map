@@ -1,0 +1,876 @@
+[
+  {
+    "builder": "Brigade",
+    "url": "https://www.brigadegroup.com/residential/projects/bengaluru",
+    "resolved_url": "https://www.brigadegroup.com/residential/projects/bengaluru",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "3aeb8b98f17a0d3a4c444441e1ae427ae05e19d9dff1fb39ae5c2a2dea936ac4",
+    "text_characters": 16390,
+    "heading_count": 60
+  },
+  {
+    "builder": "Brigade",
+    "url": "https://www.brigadegroup.com/residential/delivered-projects",
+    "resolved_url": "https://www.brigadegroup.com/residential/delivered-projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "4fe9c91bdb52814456a41d53cf8d9660f7eb8862bf925800525af95fcccc6fc4",
+    "text_characters": 23058,
+    "heading_count": 167
+  },
+  {
+    "builder": "Prestige",
+    "url": "https://www.prestigeconstructions.com/residential-projects/bangalore",
+    "resolved_url": "https://www.prestigeconstructions.com/residential-projects/bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "da6086c4d87f98230e10418d27f299c63a57e8a9b59765048e6b6fbb29834a7d",
+    "text_characters": 4368,
+    "heading_count": 28
+  },
+  {
+    "builder": "Sobha",
+    "url": "https://www.sobha.com/city/bengaluru/",
+    "resolved_url": "https://www.sobha.com/city/bengaluru/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "c09438213240f0ba6c8db8e5a5afdc3184698a7bcfa45e501428522c092fbeeb",
+    "text_characters": 35674,
+    "heading_count": 221
+  },
+  {
+    "builder": "Godrej",
+    "url": "https://www.godrejproperties.com/Bangalore_projects/corporate",
+    "resolved_url": "https://www.godrejproperties.com/Bangalore_projects/corporate",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "82c8a5e4da99e21dc97fc4848fb07660d72eaeaedd746622a528e11e6108473a",
+    "text_characters": 7315,
+    "heading_count": 11
+  },
+  {
+    "builder": "Puravankara",
+    "url": "https://www.puravankara.com/residential/bengaluru",
+    "resolved_url": "https://www.puravankara.com/residential/bengaluru",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "b849542dc3248410307ae62ea5d8f68f4741c4d61cb487e4ef48f4ce7438a5e9",
+    "text_characters": 25060,
+    "heading_count": 66
+  },
+  {
+    "builder": "Assetz",
+    "url": "https://www.assetzproperty.com/projects/bangalore",
+    "resolved_url": "https://www.assetzproperty.com/projects/bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "cb6902ec1b8db0c80e2f9dd67baf9112d70d461ee749e1740099290b37046d59",
+    "text_characters": 20744,
+    "heading_count": 21
+  },
+  {
+    "builder": "Sattva",
+    "url": "https://sattvagroup.com/residential/apartments-in-bengaluru/",
+    "resolved_url": "https://sattvagroup.com/residential/apartments-in-bengaluru/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "5d045b4e2dcc16b54f2a2b5f29fa866e8e9e1274eb0a67ee3a16d119019e37c0",
+    "text_characters": 37540,
+    "heading_count": 60
+  },
+  {
+    "builder": "Sumadhura",
+    "url": "https://sumadhuragroup.com/residential",
+    "resolved_url": "https://sumadhuragroup.com/residential",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "262f22e09d7207e312a3c4763eabf2f3410601f4042014f982fa1ef5bb313dca",
+    "text_characters": 1406,
+    "heading_count": 6
+  },
+  {
+    "builder": "Birla Estates",
+    "url": "https://www.birlaestates.com/bengaluru.aspx",
+    "resolved_url": "https://www.birlaestates.com/bengaluru.aspx",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "50794eb375ddf3417c2cc1370caa8d70037e85cd5902e382c1e2cafdedfaaaa4",
+    "text_characters": 3030,
+    "heading_count": 13
+  },
+  {
+    "builder": "Lodha",
+    "url": "https://www.lodhagroup.com/all-projects",
+    "resolved_url": "https://www.lodhagroup.com/all-projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "67b11deda27161008699a6a2b8e5dab08add39fe7251dc6d7ac61d6467cfe7f4",
+    "text_characters": 7029,
+    "heading_count": 26
+  },
+  {
+    "builder": "L and T Realty",
+    "url": "https://www.lntrealty.com/residences/",
+    "resolved_url": "https://www.lntrealty.com/residences/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "36dcb06f73d781e528f66be791d3d488298fbc718ad944c4ef7917f7428d9622",
+    "text_characters": 9119,
+    "heading_count": 52
+  },
+  {
+    "builder": "Mahindra",
+    "url": "https://www.mahindralifespaces.com/residential/flats-in-bangalore/",
+    "resolved_url": "https://www.mahindralifespaces.com/residential/flats-in-bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "3bfb1cdb171a6f1a88dfff7b7ee5067cbcb3f6d98e05a3051c5331c90150e5aa",
+    "text_characters": 11758,
+    "heading_count": 26
+  },
+  {
+    "builder": "Embassy",
+    "url": "https://embassyindia.com/projects/",
+    "resolved_url": "https://embassyindia.com/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "74c0c7609b07ca081b99db3b324f1d08266ea44899409c426c10d058ecbd977b",
+    "text_characters": 4004,
+    "heading_count": 35
+  },
+  {
+    "builder": "Adarsh",
+    "url": "https://www.adarshdevelopers.com/",
+    "resolved_url": "https://www.adarshdevelopers.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "3bf97c436f45f069ccbb301c340834e1d2f5f5ed6ed47ce89ee2167294ddd579",
+    "text_characters": 7911,
+    "heading_count": 54
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "url": "https://bricksandmilestones.com/residential-property/",
+    "resolved_url": "https://bricksandmilestones.com/residential-property/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "fcc49dea2f88ae708eb2e9d72f059075eda35be7774a13828fdf4ec18410b197",
+    "text_characters": 6643,
+    "heading_count": 22
+  },
+  {
+    "builder": "Trifecta",
+    "url": "https://trifectaprojects.com/projects-in-bangalore/",
+    "resolved_url": "https://trifectaprojects.com/projects-in-bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "d7c7c3a224977e6444e4a55b24a26e3f5362d71dc3bc17b5d08300b3ac12c6a1",
+    "text_characters": 2925,
+    "heading_count": 14
+  },
+  {
+    "builder": "Rohan",
+    "url": "https://rohanbuilders.com/homes/bangalore-homes/",
+    "resolved_url": "https://rohanbuilders.com/homes/bangalore-homes/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "14d3acab6aa675ff708426fad24c910880d2ad4014e843b4190d975bad2fea33",
+    "text_characters": 1679,
+    "heading_count": 13
+  },
+  {
+    "builder": "DNR",
+    "url": "https://dnrgroup.in/residential-projects/",
+    "resolved_url": "https://dnrgroup.in/residential-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "a8d15d2f0f32032ed39bfc74c87d425c32b213054944f98f2bd0cf04615fe4f0",
+    "text_characters": 4995,
+    "heading_count": 50
+  },
+  {
+    "builder": "Century",
+    "url": "https://www.centuryrealestate.in/residential/projects",
+    "resolved_url": "https://www.centuryrealestate.in/residential/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "1debc9eaa23016cba1fd0424a7aaca6f39d4727401410ad638da7dc68f2df046",
+    "text_characters": 7422,
+    "heading_count": 72
+  },
+  {
+    "builder": "Provident",
+    "url": "https://www.providenthousing.com/projects/bangalore/",
+    "resolved_url": "https://www.providenthousing.com/projects/bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "65338f559c16b36051282b85add536b0a22cc78bf106ed3774c193686c5616f1",
+    "text_characters": 9429,
+    "heading_count": 30
+  },
+  {
+    "builder": "Casagrand",
+    "url": "https://www.casagrand.co.in/apartments-villas-plots/ongoing-projects-bangalore/",
+    "resolved_url": "https://www.casagrand.co.in/apartments-villas-plots/ongoing-projects-bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "3141da9d5dcc07b4c32a614fdb09df87eda31fc96825771a8792a082f3a7b36b",
+    "text_characters": 22655,
+    "heading_count": 74
+  },
+  {
+    "builder": "Goyal",
+    "url": "https://goyalco.com/project/residential/",
+    "resolved_url": "https://goyalco.com/project/residential/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "e4ac55dc67af15eafd6ab887f115ea6c2a4dc98800abfe4a229fc5c6251f39d9",
+    "text_characters": 3162,
+    "heading_count": 64
+  },
+  {
+    "builder": "Aratt",
+    "url": "https://aratt.in/",
+    "resolved_url": "https://aratt.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "9d84527416e596ea7d9ed0a529c3b4a6bb086d1340c08eca802be63525c32ca2",
+    "text_characters": 5,
+    "heading_count": 0
+  },
+  {
+    "builder": "Bren",
+    "url": "https://bren.com/",
+    "resolved_url": "https://bren.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "756da6eb79354bd0920d8fbd89815f8c2f99606610f9775da2954db0173eb54f",
+    "text_characters": 3826,
+    "heading_count": 8
+  },
+  {
+    "builder": "Gopalan",
+    "url": "https://www.gopalanenterprises.com/residential-completed-projects.html",
+    "resolved_url": "https://www.gopalanenterprises.com/residential-completed-projects.html",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "86c33fb46b41d0474c9597c2a7e7d20624c1d433c3527fff3f3eff6b54423d52",
+    "text_characters": 1881,
+    "heading_count": 55
+  },
+  {
+    "builder": "Gopalan",
+    "url": "https://www.gopalanenterprises.com/our-projects.html",
+    "resolved_url": "https://www.gopalanenterprises.com/our-projects.html",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "2ef83e0630511e798a5b3e4d18e30967eb346fe8ad7aef3ce3f91cd0e3617ee5",
+    "text_characters": 1051,
+    "heading_count": 9
+  },
+  {
+    "builder": "Habitat",
+    "url": "https://habitatventures.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 406: Not Acceptable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "SMR",
+    "url": "https://www.smrholdings.in/residential-projects.php",
+    "resolved_url": "https://www.smrholdings.in/residential-projects.php",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "791c077cada4671bc0f391a790a03f5b1fc1545f58da7112d58de177ce97bee4",
+    "text_characters": 4172,
+    "heading_count": 145
+  },
+  {
+    "builder": "Skylark",
+    "url": "https://www.squareyards.com/projects-by-skylark-in-bangalore",
+    "resolved_url": "https://www.squareyards.com/projects-by-skylark-in-bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "7722b0474303514137301a6b4fed43a6022886ddd94ce50efc5729a673c09e9b",
+    "text_characters": 42413,
+    "heading_count": 56
+  },
+  {
+    "builder": "SBR",
+    "url": "https://sbrgroup.in/residential.php",
+    "resolved_url": "https://sbrgroup.in/residential.php",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "b6d571642ea7e9619009367f33b590edd42daf6dff8d51fe629371a313ef5436",
+    "text_characters": 2354,
+    "heading_count": 72
+  },
+  {
+    "builder": "Keya",
+    "url": "https://keyahomes.in/",
+    "resolved_url": "https://keyahomes.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "301c931260335f5d783d6dfefa65260523085f8c52448b8d92a8a61c15636ad9",
+    "text_characters": 7222,
+    "heading_count": 33
+  },
+  {
+    "builder": "Alpine",
+    "url": "https://www.alpinehousing.com/",
+    "resolved_url": "https://www.alpinehousing.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "5274449212ef6231917abd740e83f821ba8e1940e8eac1b89e5e940aa81ae806",
+    "text_characters": 59,
+    "heading_count": 0
+  },
+  {
+    "builder": "Alembic",
+    "url": "https://www.alembicrealestate.com/projects",
+    "resolved_url": "https://www.alembicrealestate.com/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "ca23afff37bd865db6d11b639549971497e3eb0f8c449c10db0c05ab35d23e95",
+    "text_characters": 5194,
+    "heading_count": 7
+  },
+  {
+    "builder": "Pride",
+    "url": "https://www.pridegroup.net/bangalore/residential/ongoing-projects",
+    "resolved_url": "https://www.pridegroup.net/bangalore/residential/ongoing-projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "d4774a2a65f0b93eb59dc34eb926f5489993cff2932fdf96083d42f7309af3ca",
+    "text_characters": 6349,
+    "heading_count": 12
+  },
+  {
+    "builder": "RJ",
+    "url": "https://www.rjbuilders.in/residential-property-in-bangalore.php",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Durga",
+    "url": "https://www.durgaprojects.in/",
+    "resolved_url": "https://www.durgaprojects.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "c39770d8610de8dd11946b10e31d0087acfda05513df4899ad34ed2a5361b77b",
+    "text_characters": 8222,
+    "heading_count": 27
+  },
+  {
+    "builder": "Keerthi",
+    "url": "https://keerthiestates.in/",
+    "resolved_url": "https://keerthiestates.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "be2342de9db984266fde7fe4486ed62efdb6e4b25f58c39aaedc58d8001b5e69",
+    "text_characters": 1793,
+    "heading_count": 13
+  },
+  {
+    "builder": "Trendsquares",
+    "url": "https://www.trendsquares.com/projects/",
+    "resolved_url": "https://www.trendsquares.com/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "ff537a19b0f11aadb7cec3b84335c36279d4c9fddd94d059f01bfa7a90435ca0",
+    "text_characters": 4981,
+    "heading_count": 35
+  },
+  {
+    "builder": "Sowparnika",
+    "url": "https://www.sowparnika.com/residential-projects-in-bengaluru/",
+    "resolved_url": "https://www.sowparnika.com/residential-projects-in-bengaluru/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "c0e21102150d3f6d3192a60cb5d932c1b4945d81e0b2f9ae22297a7d5bc15a89",
+    "text_characters": 9730,
+    "heading_count": 31
+  },
+  {
+    "builder": "Vaswani",
+    "url": "https://vaswanigroup.com/?city=bangalore",
+    "resolved_url": "https://vaswanigroup.com/?city=bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "53ca6ef436b2f0342c32ef6da480f7e343026e383a1a0745bf170f8954f1da82",
+    "text_characters": 4979,
+    "heading_count": 0
+  },
+  {
+    "builder": "Candeur",
+    "url": "https://candeur.in/projects",
+    "resolved_url": "https://candeur.in/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "fe6b39ce198276c90bb781eb9537224e9a37e4769c354db6fe1c0a60280bf202",
+    "text_characters": 1003,
+    "heading_count": 2
+  },
+  {
+    "builder": "2getherments",
+    "url": "https://www.2gtula.com/",
+    "resolved_url": "https://www.2gtula.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "43c31f88b2a7a24f9f107d0b495aa3082336e558896eb2428e35773bb78e6bf8",
+    "text_characters": 7873,
+    "heading_count": 30
+  },
+  {
+    "builder": "Address Maker",
+    "url": "https://addressmaker.in/",
+    "resolved_url": "https://addressmaker.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "c43efecf497e656d3abf2893c264076ea04f9eee052fe0a0e65888ffa717edea",
+    "text_characters": 2735,
+    "heading_count": 111
+  },
+  {
+    "builder": "Akme",
+    "url": "https://www.squareyards.com/projects-by-akme-projects-in-bangalore",
+    "resolved_url": "https://www.squareyards.com/projects-by-akme-projects-in-bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "42f803fb102e4bb2d6155e25d78d00853cf69c982441152d7b1e9fcc206dfb16",
+    "text_characters": 34569,
+    "heading_count": 42
+  },
+  {
+    "builder": "Mahaveer",
+    "url": "https://mahaveergroup.in/projects/",
+    "resolved_url": "https://mahaveergroup.in/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "92edd506d549b8b0b480500649faab81b933f17703b16dc2de3abe841cb5d534",
+    "text_characters": 3178,
+    "heading_count": 51
+  },
+  {
+    "builder": "NCC Urban",
+    "url": "https://www.nccurban.com/ongoing-projects-in-bengaluru.html",
+    "resolved_url": "https://www.nccurban.com/ongoing-projects-in-bengaluru.html",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "3364dbef375f6b6fb375a1e118957ae7275242ad567ff40e7ae03fecafc6d0b1",
+    "text_characters": 2127,
+    "heading_count": 12
+  },
+  {
+    "builder": "Shriram",
+    "url": "https://www.shriramproperties.com/residential-property/bangalore",
+    "resolved_url": "https://www.shriramproperties.com/residential-property/bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "29e5827108c266bedda92fdfcbe46e9ccb75e8fc9b49ff11180517845bca3af4",
+    "text_characters": 16257,
+    "heading_count": 51
+  },
+  {
+    "builder": "SJR",
+    "url": "https://sjrprime.com/project",
+    "resolved_url": "https://sjrprime.com/project",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "1ab5ee50aebe7642e51f36223348f4cce81a74950f833f3fe759a69828f7c4de",
+    "text_characters": 4176,
+    "heading_count": 33
+  },
+  {
+    "builder": "Bhartiya",
+    "url": "https://nikoohomes.com/our-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Karle",
+    "url": "https://karleinfra.com/bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Phoenix",
+    "url": "https://www.phoenixmills.com/residential",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Tata Housing",
+    "url": "https://www.tatahousing.com/residential-property-in-bangalore",
+    "resolved_url": "https://www.tatahousing.com/residential-property-in-bangalore",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "a177793fbfea1fa48679b8c334f84979c98fa3d1fb56b0d1acbb535ff6f7978c",
+    "text_characters": 5574,
+    "heading_count": 13
+  },
+  {
+    "builder": "Shapoorji Pallonji",
+    "url": "https://shapoorjirealestate.com/residential/parkwest-20/",
+    "resolved_url": "https://shapoorjirealestate.com/residential/parkwest-20/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "cfc7bd124c00de60e86a85f10151bc7c631d275530be505a417eaf1dbefe913e",
+    "text_characters": 17128,
+    "heading_count": 83
+  },
+  {
+    "builder": "House of Hiranandani",
+    "url": "https://www.houseofhiranandani.com/residential-projects/properties-in-bengaluru",
+    "resolved_url": "https://www.houseofhiranandani.com/residential-projects/properties-in-bengaluru",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "ada046d593bc99b17f32750473836b496bc962c891b70d2d9728ea4b815a431b",
+    "text_characters": 24780,
+    "heading_count": 18
+  },
+  {
+    "builder": "Nambiar",
+    "url": "https://nambiarbuilders.com/",
+    "resolved_url": "https://nambiarbuilders.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "08aa1fc2eef7aafa4c5ca2013fad9f49060da13b10b533ea97f2c439412463e2",
+    "text_characters": 9877,
+    "heading_count": 42
+  },
+  {
+    "builder": "SNN",
+    "url": "https://snnestates.com/projects/",
+    "resolved_url": "https://snnestates.com/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "baa92fba068832d611fe2944234828b49eb880240969e05e7b2aa9f59231b0fc",
+    "text_characters": 4048,
+    "heading_count": 26
+  },
+  {
+    "builder": "SNN",
+    "url": "https://snnrajcorp.com/projects/",
+    "resolved_url": "https://snnrajcorp.com/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "4245d20aba9d70c2962eb53a271e6a1443ed80b8e16408600a3a8a7dd57c23df",
+    "text_characters": 2276,
+    "heading_count": 19
+  },
+  {
+    "builder": "Abhee",
+    "url": "https://abheeventures.com/bangalore/projects/",
+    "resolved_url": "https://abheeventures.com/bangalore/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "6f60ab3e96089c0cf9447a373638bcec0725998771d2c523b538914566bbb53e",
+    "text_characters": 11917,
+    "heading_count": 45
+  },
+  {
+    "builder": "Concorde",
+    "url": "https://www.concorde.in/",
+    "resolved_url": "https://www.concorde.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "331c5366e0b64ec3f4705db60b566f5999614ee479bec168ee0c645c29aeaf18",
+    "text_characters": 9547,
+    "heading_count": 29
+  },
+  {
+    "builder": "Mana",
+    "url": "https://www.manaprojects.com/residential/",
+    "resolved_url": "https://www.manaprojects.com/residential/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "7b520a8b1dc37b459a59c1a3aa65b67cfc9f349c295356abf20530feb48d5a71",
+    "text_characters": 3443,
+    "heading_count": 19
+  },
+  {
+    "builder": "DSR",
+    "url": "https://www.dsrinfra.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Arvind",
+    "url": "https://www.arvindsmartspaces.com/location/properties-in-bangalore/",
+    "resolved_url": "https://www.arvindsmartspaces.com/location/properties-in-bangalore/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "bb5166de6b78c6c9db910c1babe0bec6de9a4b911a325eb73f642e52ea29d791",
+    "text_characters": 7883,
+    "heading_count": 25
+  },
+  {
+    "builder": "Reliaable",
+    "url": "https://www.magicbricks.com/Reliaable-Developers-buid-4d423536383335",
+    "resolved_url": "https://www.magicbricks.com/Reliaable-Developers-buid-4d423536383335",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "7ef31df1de4454a1940d39b1acbffd494b8262e109d141440041be2752956747",
+    "text_characters": 12052,
+    "heading_count": 5
+  },
+  {
+    "builder": "Sizzle",
+    "url": "https://www.sizzleproperties.com/on-going-projects.html",
+    "resolved_url": "https://www.sizzleproperties.com/on-going-projects.html",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "f0c4272ce65cfb8e8398153b5a2e53e77268fcdc0a2e60ed004a0abcca2b4397",
+    "text_characters": 1622,
+    "heading_count": 22
+  },
+  {
+    "builder": "Total Environment",
+    "url": "https://www.totalenvironment.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Bren",
+    "url": "https://bren.com/residential.php",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "NCC Urban",
+    "url": "https://www.nccurban.com/completed-projects-in-bengaluru.html",
+    "resolved_url": "https://www.nccurban.com/completed-projects-in-bengaluru.html",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "b731742a18687c006e9c9794d892b830722629f7b9025736b71c02a3f195c88a",
+    "text_characters": 2327,
+    "heading_count": 11
+  },
+  {
+    "builder": "DSR",
+    "url": "https://www.dsrinfra.com/bengaluru/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 403: Forbidden",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Keerthi",
+    "url": "https://keerthiestates.in/k_bangalore-projects/",
+    "resolved_url": "https://keerthiestates.in/k_bangalore-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "891f17f0884c8f60830666ceebe89f670df1df1946a002ed959105951e4b32eb",
+    "text_characters": 1210,
+    "heading_count": 15
+  },
+  {
+    "builder": "Puravankara",
+    "url": "https://www.puravankara.com/campaigns/completed-projects/",
+    "resolved_url": "https://www.puravankara.com/campaigns/completed-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "a944637956440f1b01c30ccd3378cbbf7816ea93b151f8d3fe29f37963b3616e",
+    "text_characters": 25005,
+    "heading_count": 35
+  },
+  {
+    "builder": "Trifecta",
+    "url": "https://trifectaprojects.com/completed-projects/",
+    "resolved_url": "https://trifectaprojects.com/completed-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "83606852cc38eada5ce0f84fe516eb988f9aa77bb444287dbb72604f0302386d",
+    "text_characters": 2792,
+    "heading_count": 17
+  },
+  {
+    "builder": "Vaswani",
+    "url": "https://vaswanigroup.com/about-us/",
+    "resolved_url": "https://vaswanigroup.com/about-us/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "95d8ac1defb6b784528e49b75203583fd85dee1b762f0199a60493cdbc48d650",
+    "text_characters": 6649,
+    "heading_count": 0
+  },
+  {
+    "builder": "Total Environment",
+    "url": "https://www.total-environment.com/",
+    "resolved_url": "https://www.total-environment.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "077380d0bb0a77624bd82ae330e6b55dc469b85a1472e9b14d1a5d9479c4a533",
+    "text_characters": 47,
+    "heading_count": 0
+  },
+  {
+    "builder": "Prestige",
+    "url": "https://www.prestigeconstructions.com/residential-projects",
+    "resolved_url": "https://www.prestigeconstructions.com/residential-projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "85d70ac7189d7a67b4f4094a15e288ca8f0a75db7f78315575dc905652446517",
+    "text_characters": 5677,
+    "heading_count": 30
+  },
+  {
+    "builder": "Sattva",
+    "url": "https://sattvagroup.com/our-business-verticals/residential/",
+    "resolved_url": "https://sattvagroup.com/our-business-verticals/residential/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "9d16dc4a71ab69e0ca19730ebd99beab42722e6bae4e43b73abd0e552df24a9f",
+    "text_characters": 27114,
+    "heading_count": 24
+  },
+  {
+    "builder": "Prestige",
+    "url": "https://www.dosl.in/builders/prestige",
+    "resolved_url": "https://www.dosl.in/builders/prestige",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "2c815c62d02a5bb2bf9bafaf9ee69eb00888a04fa3a1f207e06a1206e2a5772a",
+    "text_characters": 14969,
+    "heading_count": 12
+  },
+  {
+    "builder": "Godrej",
+    "url": "https://www.dosl.in/builders/godrej-properties",
+    "resolved_url": "https://www.dosl.in/builders/godrej-properties",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "32bc4c114500b0a02b769aeeba76f48d178b1b9f07433141fccf0bdf02d5ab10",
+    "text_characters": 8815,
+    "heading_count": 12
+  },
+  {
+    "builder": "Puravankara",
+    "url": "https://www.dosl.in/builders/puravankara",
+    "resolved_url": "https://www.dosl.in/builders/puravankara",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "2be50a057bcee1f236c23c307ad77a05d07481a4f1054ce76b9cde1ecc04ccc3",
+    "text_characters": 10413,
+    "heading_count": 12
+  },
+  {
+    "builder": "Bren",
+    "url": "https://www.dosl.in/builders/bren-corporation-private-limited",
+    "resolved_url": "https://www.dosl.in/builders/bren-corporation-private-limited",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "422ac930282216ec2bf21d6457a7164a29a4635e9f104caa94db552f207eb063",
+    "text_characters": 5301,
+    "heading_count": 9
+  },
+  {
+    "builder": "Alpine",
+    "url": "https://www.alpinehousing.com/projects",
+    "resolved_url": "https://www.alpinehousing.com/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "5274449212ef6231917abd740e83f821ba8e1940e8eac1b89e5e940aa81ae806",
+    "text_characters": 59,
+    "heading_count": 0
+  },
+  {
+    "builder": "Aratt",
+    "url": "https://www.aratt.in/",
+    "resolved_url": "https://www.aratt.in/",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "9d84527416e596ea7d9ed0a529c3b4a6bb086d1340c08eca802be63525c32ca2",
+    "text_characters": 5,
+    "heading_count": 0
+  },
+  {
+    "builder": "Durga",
+    "url": "https://durgaprojects.in/projects/",
+    "resolved_url": "https://durgaprojects.in/projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "2c19350a9202b277be261d0790f347a5fa95c378308717dd5ef17ac716c3a173",
+    "text_characters": 5458,
+    "heading_count": 22
+  },
+  {
+    "builder": "Candeur",
+    "url": "https://www.candeur.in/projects",
+    "resolved_url": "https://www.candeur.in/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "limited text / dynamic shell",
+    "html_sha256": "fe6b39ce198276c90bb781eb9537224e9a37e4769c354db6fe1c0a60280bf202",
+    "text_characters": 1003,
+    "heading_count": 2
+  },
+  {
+    "builder": "Total Environment",
+    "url": "https://www.totalenvironment.in/homes-projects/",
+    "checked_date": "2026-10-25",
+    "retrieval": "failed",
+    "error": "HTTP Error 503: Service Unavailable",
+    "text_characters": 0,
+    "heading_count": 0
+  },
+  {
+    "builder": "Sumadhura",
+    "url": "https://sumadhuragroup.com/projects",
+    "resolved_url": "https://sumadhuragroup.com/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "substantive text",
+    "html_sha256": "c6cd5ea17f9338bf826d9bcc318a922af940b5dbaa3982fcccf8dd0e6964bced",
+    "text_characters": 2721,
+    "heading_count": 12
+  },
+  {
+    "builder": "Alpine",
+    "url": "https://www.alpinehousing.com/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "Read recent and completed names from public JS bundle"
+  },
+  {
+    "builder": "Candeur",
+    "url": "https://www.candeur.in/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "Read all embedded project records; filtered city Bengaluru and residential"
+  },
+  {
+    "builder": "Sumadhura",
+    "url": "https://sumadhuragroup.com/projects",
+    "checked_date": "2026-10-25",
+    "retrieval": "Read all 32 embedded records; filtered city Bengaluru and residential/plotted"
+  },
+  {
+    "builder": "Habitat",
+    "url": "https://habitatventures.com/",
+    "checked_date": "2026-10-25",
+    "retrieval": "Direct fetch failed; official completed-residential names recovered via search index"
+  }
+]

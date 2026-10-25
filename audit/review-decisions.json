@@ -1,0 +1,826 @@
+[
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Belfort",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: EOI Phase, Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Elysium",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: EOI Phase,Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Shikharam",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Silver Ripples",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Pranavam",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Soham",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Solea",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Nandanam",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Eden Garden",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Aspire Aurum",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Aspire Amber",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: SOLD OUT; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Epitome",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Pramoda",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Sarang",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Capitol Residences",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Folium",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Panorama",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Ongoing; occupancy not independently checked",
+    "type": "plot"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Sushantham",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: Sold Out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Edition",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: New Launched; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sumadhura",
+    "name": "Sumadhura Solace",
+    "source": "https://sumadhuragroup.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer sales stage: New Launched; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Iris",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Vistula",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Pyramid",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Fiesta",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Viva",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Eco",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Regency",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Park",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Court",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Manor",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Arch",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Point",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine View",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Tulip",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Apartments",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Annex",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Kensignton",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Alpine",
+    "name": "Alpine Place",
+    "source": "https://www.alpinehousing.com/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Novo Gardenia",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer reports ongoing; completion not verified",
+    "type": "apartment"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Rise",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Landmark",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Carlisle",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Signature",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Candeur",
+    "name": "Candeur Sunshine",
+    "source": "https://www.candeur.in/projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Crest",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Aster",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Mayflower",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Cedar",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Greens",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Habitat",
+    "name": "Habitat Orchid",
+    "source": "https://habitatventures.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Durga",
+    "name": "Durga Waves",
+    "source": "https://durgaprojects.in/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Durga",
+    "name": "Durga Coral",
+    "source": "https://durgaprojects.in/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Durga",
+    "name": "Durga Saffron Square",
+    "source": "https://durgaprojects.in/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Durga",
+    "name": "Durga Rainbow",
+    "source": "https://durgaprojects.in/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Keya",
+    "name": "The Lake Promenade",
+    "source": "https://keyahomes.in/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists upcoming; construction and possession not verified",
+    "type": "apartment"
+  },
+  {
+    "builder": "Keya",
+    "name": "Keya Signature Tower",
+    "source": "https://keyahomes.in/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists upcoming; construction and possession not verified",
+    "type": "apartment"
+  },
+  {
+    "builder": "Keya",
+    "name": "The Green Sky",
+    "source": "https://keyahomes.in/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists upcoming; construction and possession not verified",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Estella",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Harmony",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Vatika",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Regency",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Castle",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Heritage",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Casacades",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Endeavour",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Vatika",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Galaxy",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Estate",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Meenakshi",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Crescent",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Sapphire",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Cascades",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SMR",
+    "name": "SMR Vinay Serene",
+    "source": "https://www.smrholdings.in/residential-projects.php",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Varnam Phase I",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/varnam",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont Phase II",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont-ii",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata New Haven",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-new-haven",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Raagam",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-raagam",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Riva",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-riva",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Swaram",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-swaram",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont Terrace Hillside Residences Banashankari, South Bengaluru Explore",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata New Haven",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-new-haven",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Raagam",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-raagam",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Riva",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-riva",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Swaram",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-swaram",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata Varnam Phase I",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/varnam",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont Phase II",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont-ii",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "Not checked"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata The Promont",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-the-promont",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Tata Housing",
+    "name": "Tata New Haven",
+    "source": "https://www.tatahousing.com/residential-property-in-bangalore/tata-new-haven",
+    "identity": "Matched to developer catalogue",
+    "stage": "Mixed: official city page says both OC-received and under-construction towers",
+    "type": "apartment"
+  },
+  {
+    "builder": "2getherments",
+    "name": "2G Tula",
+    "source": "https://www.2gtula.com/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Mixed: Block A ready; Block B developer target December 2027; OC per unit unverified",
+    "type": "apartment"
+  },
+  {
+    "builder": "Brigade",
+    "name": "Brigade Woods",
+    "source": "https://www.brigadegroup.com/residential/delivered-projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Brigade",
+    "name": "Brigade Caladium",
+    "source": "https://www.brigadegroup.com/residential/delivered-projects",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Brigade",
+    "name": "Brigade Lumina",
+    "source": "https://www.brigadegroup.com/residential/projects/bengaluru",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Arvind",
+    "name": "Arvind Expansia",
+    "source": "https://www.arvindsmartspaces.com/projects/arvind-expansia/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists sold out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Arvind",
+    "name": "Arvind Oasis",
+    "source": "https://www.arvindsmartspaces.com/location/properties-in-bangalore/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists sold out; occupancy not independently checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sattva",
+    "name": "Sattva Aaranya",
+    "source": "https://sattvagroup.com/residential/sattva-aaranya/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Developer lists new launch; construction not verified",
+    "type": "apartment"
+  },
+  {
+    "builder": "Puravankara",
+    "name": "Purva Blubelle",
+    "source": "https://www.puravankara.com/residential/bengaluru",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Godrej",
+    "name": "Godrej Platinum",
+    "source": "https://www.godrejproperties.com/bangalore/residential/godrej-platinum/landingpage",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sattva",
+    "name": "Sattva City",
+    "source": "https://sattvagroup.com/residential/sattva-city/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "Sattva",
+    "name": "Sattva Park Cubix",
+    "source": "https://sattvagroup.com/residential/park-cubix/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SNN",
+    "name": "SNN Lakeview Phase 1 by SNN Builders",
+    "source": "https://snnestates.com/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  },
+  {
+    "builder": "SNN",
+    "name": "SNN Lakeview Phase II by SNN Builders",
+    "source": "https://snnestates.com/projects/",
+    "identity": "Matched to developer catalogue",
+    "stage": "Completed on developer catalogue; resale availability not checked",
+    "type": "apartment"
+  }
+]
