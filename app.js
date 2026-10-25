@@ -129,3 +129,34 @@ if(window.innerWidth<820){var _v=document.getElementById('verdict');if(_v){_v.cl
 
 function bind(id,layer){document.getElementById(id).addEventListener('change',e=>{e.target.checked?layer.addTo(map):map.removeLayer(layer);});}
 bind('lMetro',metroLayer);bind('lKride',krideLayer);bind('lRoads',roadsLayer);bind('lBott',bottLayer);bind('lRings',ringsLayer);bind('lSchools',schoolLayer);bind('lHosp',hospLayer);
+
+/* per-line filters for the transit layers */
+function lineFilters(containerId,items,parentLayer,labelOf,swatch){
+  const box=document.getElementById(containerId); if(!box) return [];
+  return items.map(it=>{
+    const lab=document.createElement('label'), cb=document.createElement('input');
+    cb.type='checkbox'; cb.checked=true;
+    const sw=document.createElement('span'); sw.className='sw'; sw.style.borderTopColor=swatch(it);
+    if(it.status&&it.status!=='op') sw.style.borderTopStyle=it.status==='uc'?'dashed':'dotted';
+    lab.appendChild(cb); lab.appendChild(sw); lab.appendChild(document.createTextNode(labelOf(it)));
+    function set(on){ cb.checked=on; lab.classList.toggle('off',!on); on?parentLayer.addLayer(it.grp):parentLayer.removeLayer(it.grp); }
+    cb.addEventListener('change',()=>set(cb.checked));
+    box.appendChild(lab);
+    return {it:it,set:set};
+  });
+}
+const shortName=n=>n.replace(/\s*\(.*?\)/g,'').replace(/ — .*$/,'').replace(/ · .*$/,'');
+const metroCtl=lineFilters('metroSub',METRO,metroLayer,l=>shortName(l.name)+({op:'',uc:' · under construction',pl:' · planned'}[l.status]),l=>l.color);
+lineFilters('krideSub',KRIDE,krideLayer,l=>shortName(l.name),l=>l.color);
+lineFilters('roadsSub',ROADS,roadsLayer,r=>shortName(r.name).replace(/ \/ .*$/,'').replace(/^Proposed /,''),r=>r.color);
+(function(){
+  const q=document.getElementById('metroQuick'); if(!q) return;
+  [['All',()=>true],['Running',l=>l.status==='op'],['Upcoming',l=>l.status!=='op'],['None',()=>false]].forEach(([t,fn])=>{
+    const b=document.createElement('span'); b.className='chip'; b.textContent=t;
+    b.addEventListener('click',()=>{
+      metroCtl.forEach(c=>c.set(fn(c.it)));
+      const m=document.getElementById('lMetro'); if(t!=='None'&&!m.checked){m.checked=true;metroLayer.addTo(map);}
+    });
+    q.appendChild(b);
+  });
+})();

@@ -195,16 +195,18 @@ const DASH={op:null,uc:'8,7',pl:'3,7'};
 const metroLayer=L.layerGroup(),krideLayer=L.layerGroup(),roadsLayer=L.layerGroup(),bottLayer=L.layerGroup(),ringsLayer=L.layerGroup(),schoolLayer=L.layerGroup(),hospLayer=L.layerGroup(),propLayer=L.markerClusterGroup({chunkedLoading:true,maxClusterRadius:46,spiderfyOnMaxZoom:true,showCoverageOnHover:false,disableClusteringAtZoom:15});
 
 METRO.forEach(l=>{
-  L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:5,opacity:l.status==='pl'?0.6:0.9,dashArray:DASH[l.status]}).bindTooltip(l.name,{sticky:true}).addTo(metroLayer);
-  l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3.4,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(metroLayer));
+  l.grp=L.layerGroup().addTo(l.grp);
+  L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:5,opacity:l.status==='pl'?0.6:0.9,dashArray:DASH[l.status]}).bindTooltip(l.name,{sticky:true}).addTo(l.grp);
+  l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3.4,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(l.grp));
 });
 KRIDE.forEach(l=>{
-  L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:4,opacity:0.85,dashArray:'6,6'}).bindTooltip(l.name,{sticky:true}).addTo(krideLayer);
-  l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(krideLayer));
+  l.grp=L.layerGroup().addTo(l.grp);
+  L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:4,opacity:0.85,dashArray:'6,6'}).bindTooltip(l.name,{sticky:true}).addTo(l.grp);
+  l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(l.grp));
 });
-ROADS.forEach(r=>L.polyline(r.pts,{color:r.color,weight:4,opacity:0.9,dashArray:r.dash}).bindTooltip(r.name,{sticky:true}).addTo(roadsLayer));
+ROADS.forEach(r=>{r.grp=L.layerGroup().addTo(roadsLayer);L.polyline(r.pts,{color:r.color,weight:4,opacity:0.9,dashArray:r.dash}).bindTooltip(r.name,{sticky:true}).addTo(r.grp);});
 const PRR_IC=[['IC1 · Tumkur Rd / Madavara (start · NICE jn)',13.0550,77.4750],['IC2 · Hesaraghatta Rd',13.0950,77.5100],['IC3 · Doddaballapur Rd',13.1220,77.5530],['IC4 · Bellary Rd (NH-44)',13.1190,77.6050],['IC5 · Hennur Rd (Byrathi)',13.0680,77.6560],['IC6 · Old Madras Rd (NH-75)',13.0190,77.7180],['IC7 · Whitefield (Kannamangala)',13.0030,77.7460],['IC8 · Channasandra / Seegehalli',12.9850,77.7620],['IC9 · Sarjapur Rd (Sulikunte)',12.8880,77.7760],['IC10 · Hosur Rd / Dodda Thogur (end · NICE jn)',12.8420,77.6600]];
-PRR_IC.forEach(x=>L.circleMarker([x[1],x[2]],{radius:4,color:'#fff',weight:1,fillColor:'#8d99ae',fillOpacity:1}).bindTooltip(x[0]+' — PRR interchange',{direction:'top'}).addTo(roadsLayer));
+PRR_IC.forEach(x=>L.circleMarker([x[1],x[2]],{radius:4,color:'#fff',weight:1,fillColor:'#8d99ae',fillOpacity:1}).bindTooltip(x[0]+' — PRR interchange',{direction:'top'}).addTo(ROADS[0].grp));
 BOTTLE.forEach(b=>L.marker([b[1],b[2]],{icon:L.divIcon({className:'',html:'<div style="width:14px;height:14px;background:#e63946;border:2px solid #fff;border-radius:50%;text-align:center;color:#fff;font-size:10px;line-height:12px;font-weight:900">!</div>',iconSize:[14,14],iconAnchor:[7,7]})}).bindPopup('<b>'+b[0]+'</b><br>Severe peak-hour choke point').addTo(bottLayer));
 HUBS.forEach(h=>{
   L.circle([h[1],h[2]],{radius:5000,color:'#4a9eff',weight:1,fill:true,fillOpacity:0.05,dashArray:'4,5'}).addTo(ringsLayer);
