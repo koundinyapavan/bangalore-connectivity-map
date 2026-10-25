@@ -1199,6 +1199,37 @@
   },
   {
     "builder": "Adarsh",
+    "property_name": "Adarsh Palm Retreat / Lakefront",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Bellandur / ORR",
+    "property_type": "apartment",
+    "stage_reported": "ready (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 12.919821,
+    "longitude": 77.691624,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Adarsh Palm Retreat / Lakefront",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
+  },
+  {
+    "builder": "Adarsh",
     "property_name": "Adarsh Palm Retreat Mayberry",
     "aliases": [
       "Adarsh Mayberry"
@@ -4478,10 +4509,10 @@
     "area": "Hoodi",
     "property_type": "apartment",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.71928,
+    "latitude": 12.995923,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "Identity recovered from official page bundle; current sales and phase status not established.",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -4493,8 +4524,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Alpine Viva",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Aratt",
@@ -5437,6 +5469,37 @@
   },
   {
     "builder": "Arvind",
+    "property_name": "Arvind Sylva / Orchards",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Mullur / Devanahalli",
+    "property_type": "apartment",
+    "stage_reported": "uc (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 13.270446,
+    "longitude": 77.652512,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Arvind Sylva / Orchards",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
+  },
+  {
+    "builder": "Arvind",
     "property_name": "Arvind The Park",
     "aliases": [],
     "record_origin": "Official catalogue",
@@ -5696,6 +5759,37 @@
     "exhaustive": false,
     "map_name": "Assetz 63 East",
     "map_admission": "Mapped: sourced identity and project-level point; fields may be unknown"
+  },
+  {
+    "builder": "Assetz",
+    "property_name": "Assetz 63 East / Leaves & Lives",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Sarjapur Rd",
+    "property_type": "apartment",
+    "stage_reported": "ready (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 12.885339,
+    "longitude": 77.704448,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Assetz 63 East / Leaves & Lives",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
   },
   {
     "builder": "Assetz",
@@ -6646,7 +6740,7 @@
     "walk_route": "Not checked",
     "exhaustive": false,
     "map_name": "Assetz Mizu & Ki",
-    "map_admission": "Mapped: sourced identity and project-level point; fields may be unknown"
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Assetz",
@@ -7437,10 +7531,10 @@
     "area": "Thanisandra / Kogilu",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: osm",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.641232,
+    "latitude": 13.082065,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -7452,8 +7546,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Bhartiya City (Nikoo Homes)",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Bhartiya",
@@ -7551,10 +7646,10 @@
     "area": "Sadahalli",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.647022,
+    "latitude": 13.211109,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -7566,8 +7661,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Nikoo Homes 7 - Garden Estate",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Bhartiya",
@@ -7581,10 +7677,10 @@
     "area": "Bellahalli",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.642715,
+    "latitude": 13.099768,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -7596,8 +7692,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Nikoo Homes 8 - Garden Enclave",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Bhartiya",
@@ -7611,10 +7708,10 @@
     "area": "Huvinayakanahalli",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.693229,
+    "latitude": 13.153188,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -7626,8 +7723,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Nikoo Homes 9 Alpine - Bhartiya Garden Hill",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Bhartiya",
@@ -8428,10 +8526,10 @@
     "area": "Krishnarajapura",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.67767,
+    "latitude": 12.999902,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -8443,8 +8541,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Bren Aspera",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Bren",
@@ -15259,10 +15358,10 @@
     "area": "Bellahalli",
     "property_type": "apartment",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.642715,
+    "latitude": 13.099768,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -15274,8 +15373,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Casagrand Lorenza",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Casagrand",
@@ -17755,10 +17855,10 @@
     "area": "Whitefield",
     "property_type": "apartment",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.757949,
+    "latitude": 12.995743,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -17770,8 +17870,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "DNR Atmosphere",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "DNR",
@@ -19804,10 +19905,10 @@
     "area": "Yelahanka (200-acre twp)",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: geocoded",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.599527,
+    "latitude": 13.188601,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -19819,8 +19920,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Embassy Knowledge Park",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Embassy",
@@ -24382,10 +24484,10 @@
     "area": "Thanisandra / Whitefield",
     "property_type": "apartment",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: osm",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.634347,
+    "latitude": 13.090226,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -24397,8 +24499,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Goyal Orchid",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Goyal",
@@ -25837,8 +25940,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Karle Zenith Residences",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Keerthi",
@@ -26549,7 +26652,7 @@
     "walk_route": "Not checked",
     "exhaustive": false,
     "map_name": "Keerthi Surya Shakti Towers",
-    "map_admission": "Mapped: sourced identity and project-level point; fields may be unknown"
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Keya",
@@ -26563,10 +26666,10 @@
     "area": "Krishnarajapura",
     "property_type": "apartment",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.67767,
+    "latitude": 12.999902,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -26578,8 +26681,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Keya Around the Life",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Keya",
@@ -27079,10 +27183,10 @@
     "area": "Thanisandra / Chokkanahalli Lake",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: geocoded",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.631473,
+    "latitude": 13.085217,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -27094,8 +27198,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "L&T Jakkur (Chokkanahalli Lake)",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "L and T Realty",
@@ -27531,10 +27636,10 @@
     "area": "Sadahalli / Tharabanahalli (Beaumont Estate)",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: geocoded",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.629075,
+    "latitude": 13.190874,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Possible alias / earlier marketing name for Sadahalli project. Official current name is Lodha Beaumont Estate; no equivalence assumed.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -27546,8 +27651,39 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
+    "map_name": "Lodha Fiorana (Sadahalli)",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
+  },
+  {
+    "builder": "Lodha",
+    "property_name": "Lodha Fiorenza",
+    "aliases": [],
+    "record_origin": "PR base",
+    "evidence": "Developer confirms another city",
+    "sources": [
+      "https://www.lodhagroup.com/projects/residential-property-in-goregaon/lodha-fiorenza/location"
+    ],
+    "area": "Mumbai",
+    "property_type": "apartment",
+    "stage_reported": "Not checked",
+    "record_kind": "Excluded wrong-city",
+    "review_note": "Original Bengaluru pin was incorrect. Preserved as an excluded catalogue record; no equivalence assumed with similarly named Bengaluru projects.",
+    "latitude": null,
+    "longitude": null,
+    "coordinate_source": "",
+    "coordinate_quality": "Incorrect Bengaluru pin withheld",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Developer city confirmed",
+    "buyer_fit": "Outside Bengaluru",
     "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_admission": "Excluded from Bengaluru map: developer confirms Mumbai"
   },
   {
     "builder": "Lodha",
@@ -30037,6 +30173,37 @@
   },
   {
     "builder": "Mana",
+    "property_name": "Mana Dale / Capitol",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Sarjapur / Kodathi",
+    "property_type": "apartment",
+    "stage_reported": "uc (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 12.886962,
+    "longitude": 77.706887,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Mana Dale / Capitol",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
+  },
+  {
+    "builder": "Mana",
     "property_name": "Mana Foresta",
     "aliases": [],
     "record_origin": "PR #3",
@@ -31025,8 +31192,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "NCC Aster Park",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "NCC Urban",
@@ -31141,8 +31308,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "NCC Urban Ivory Heights",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "NCC Urban",
@@ -31569,6 +31736,37 @@
     "exhaustive": false,
     "map_name": null,
     "map_admission": "Not mapped: identity requires primary-source review"
+  },
+  {
+    "builder": "Phoenix",
+    "property_name": "Phoenix One Bangalore West / Kessaku",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Rajajinagar",
+    "property_type": "apartment",
+    "stage_reported": "ready (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 13.009237,
+    "longitude": 77.552944,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Phoenix One Bangalore West / Kessaku",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
   },
   {
     "builder": "Prestige",
@@ -34198,10 +34396,10 @@
     "area": "Whitefield",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.757949,
+    "latitude": 12.995743,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -34213,8 +34411,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Prestige Grove Hills",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Prestige",
@@ -34312,10 +34511,10 @@
     "area": "Thalaghattapura",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.535669,
+    "latitude": 12.869817,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -34327,8 +34526,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Prestige Highland Hideaway",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Prestige",
@@ -35363,10 +35563,10 @@
     "area": "Koramangala East (per OSM; sources conflict)",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: osm",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.637932,
+    "latitude": 12.931664,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -35378,8 +35578,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Prestige Oakville",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Prestige",
@@ -36254,10 +36455,10 @@
     "area": "Varthur",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: osm",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.752039,
+    "latitude": 12.955194,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -36269,8 +36470,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Prestige Rosewood (Raintree Ph3)",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Prestige",
@@ -37714,10 +37916,10 @@
     "area": "Battarahalli",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.709447,
+    "latitude": 13.008339,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -37729,8 +37931,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Pride Euphora",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Pride",
@@ -38628,10 +38831,10 @@
     "area": "Vajarahalli / Kanakapura",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.547,
+    "latitude": 12.863,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -38643,8 +38846,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Purva Aurum",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Puravankara",
@@ -38804,10 +39008,10 @@
     "area": "Vajarahalli / Kanakapura",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.542,
+    "latitude": 12.872,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -38819,8 +39023,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Purva Eminora",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Puravankara",
@@ -41147,10 +41352,10 @@
     "area": "HSR / Sarjapur",
     "property_type": "plot",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.66,
+    "latitude": 12.905,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -41162,8 +41367,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Reliaable Developers",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Reliaable",
@@ -43135,6 +43341,37 @@
     "exhaustive": false,
     "map_name": null,
     "map_admission": "Not mapped: no resolved project point"
+  },
+  {
+    "builder": "Sattva",
+    "property_name": "Sattva City / Park Cubix",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Doddajala / Devanahalli",
+    "property_type": "apartment",
+    "stage_reported": "uc (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 13.241575,
+    "longitude": 77.719774,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Sattva City / Park Cubix",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
   },
   {
     "builder": "Sattva",
@@ -47425,10 +47662,10 @@
     "area": "Hoskote",
     "property_type": "plot",
     "stage_reported": "ready (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: geocoded",
-    "coordinate_quality": "Withheld: unresolved identity or non-residential record",
+    "longitude": 77.746376,
+    "latitude": 13.089805,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored unresolved legacy identity / location; original coordinates retained, not a verified project entrance",
     "review_note": "Do not use for buying or metro-distance claims until project identity and parcel are verified.",
     "record_kind": "Unresolved / umbrella",
     "line_distances": [],
@@ -47440,8 +47677,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: excluded commercial / unresolved identity"
+    "map_name": "Sizzle Properties",
+    "map_admission": "Restored legacy listing for review: unresolved legacy identity / location. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Sizzle",
@@ -57128,10 +57366,10 @@
     "area": "Thanisandra, North Bangalore",
     "property_type": "apartment",
     "stage_reported": "Developer sales stage: Ongoing; occupancy not independently checked",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.631615,
+    "latitude": 13.05225,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "Full embedded catalogue checked; advertised target: Dec 2029. Target is not completion evidence.",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -57143,8 +57381,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Sumadhura Solea",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Sumadhura",
@@ -57229,6 +57468,36 @@
     "exhaustive": false,
     "map_name": "Sumadhura Sushantham",
     "map_admission": "Mapped: sourced identity and project-level point; fields may be unknown"
+  },
+  {
+    "builder": "Sumadhura",
+    "property_name": "Sumadhura The Olympus",
+    "aliases": [],
+    "record_origin": "PR base",
+    "evidence": "Developer confirms another city",
+    "sources": [
+      "https://sumadhuragroup.com/residential/hyderabad/the-olympus"
+    ],
+    "area": "Hyderabad",
+    "property_type": "apartment",
+    "stage_reported": "Not checked",
+    "record_kind": "Excluded wrong-city",
+    "review_note": "Original Bengaluru pin was incorrect. Preserved as an excluded catalogue record; no equivalence assumed with similarly named Bengaluru projects.",
+    "latitude": null,
+    "longitude": null,
+    "coordinate_source": "",
+    "coordinate_quality": "Incorrect Bengaluru pin withheld",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Developer city confirmed",
+    "buyer_fit": "Outside Bengaluru",
+    "map_name": null,
+    "map_admission": "Excluded from Bengaluru map: developer confirms Hyderabad"
   },
   {
     "builder": "Tata Housing",
@@ -57343,6 +57612,37 @@
     "exhaustive": false,
     "map_name": null,
     "map_admission": "Not mapped: identity requires primary-source review"
+  },
+  {
+    "builder": "Tata Housing",
+    "property_name": "Tata Carnatica (Varnam/Carnasa)",
+    "aliases": [],
+    "record_origin": "PR #3",
+    "evidence": "Inherited combined listing; distinct projects require separate checks",
+    "sources": [
+      "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js"
+    ],
+    "area": "Shettigere / Devanahalli",
+    "property_type": "plot",
+    "stage_reported": "uc (inherited; unverified)",
+    "record_kind": "Legacy combined listing",
+    "review_note": "Original combined listing restored for continuity. This point and price range must not be assigned to each named project.",
+    "line_distances": [],
+    "nearest_running_or_uc": null,
+    "buyer_fit": "Not established",
+    "checked_date": "2026-10-25",
+    "availability": "Not checked",
+    "three_bhk": "Not checked",
+    "walk_route": "Not checked",
+    "exhaustive": false,
+    "identity_review": "Inherited listing; identity and parcel need review",
+    "latitude": 13.185206,
+    "longitude": 77.663879,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored combined legacy listing; original coordinates retained, not a verified project entrance",
+    "legacy_restoration": true,
+    "map_name": "Tata Carnatica (Varnam/Carnasa)",
+    "map_admission": "Restored legacy listing for review: combined legacy listing. Metro distances withheld."
   },
   {
     "builder": "Tata Housing",
@@ -57805,8 +58105,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "After The Rain",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -57891,8 +58191,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Down by the Water",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -57977,8 +58277,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "In That Quiet Earth",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -58147,8 +58447,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Magic Faraway Tree",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -58233,8 +58533,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Pursuit of a Radical Rhapsody",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -58319,8 +58619,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Tangled Up in Green",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Total Environment",
@@ -58405,8 +58705,8 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: identity requires primary-source review"
+    "map_name": "Windmills of Your Mind",
+    "map_admission": "Mapped: inherited data, fields need verification"
   },
   {
     "builder": "Trendsquares",
@@ -58860,10 +59160,10 @@
     "area": "Chikkakannalli",
     "property_type": "apartment",
     "stage_reported": "Completed on developer catalogue; resale availability not checked",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.708131,
+    "latitude": 12.893703,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -58875,8 +59175,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Trifecta Bueno",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Trifecta",
@@ -59433,10 +59734,10 @@
     "area": "Chikkakannalli",
     "property_type": "apartment",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.708131,
+    "latitude": 12.893703,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -59448,8 +59749,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Trifecta Veranza",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Trifecta",
@@ -59463,10 +59765,10 @@
     "area": "Budigere Cross",
     "property_type": "villa",
     "stage_reported": "uc (inherited PR; not revalidated)",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.750412,
+    "latitude": 13.046213,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -59478,8 +59780,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Trifecta Verde en Resplandor",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Trifecta",
@@ -59674,10 +59977,10 @@
     "area": "Kodathi",
     "property_type": "apartment",
     "stage_reported": "Completed on developer catalogue; resale availability not checked",
-    "longitude": null,
-    "latitude": null,
-    "coordinate_source": "PR #3 head 2ec1fcc: approx",
-    "coordinate_quality": "Approximate PR pin withheld",
+    "longitude": 77.713343,
+    "latitude": 12.890513,
+    "coordinate_source": "https://github.com/projectescape/bangalore-connectivity-map/blob/4ac25831fd277c15d9e7d9f962e621a7d2fff10d/data.js",
+    "coordinate_quality": "Restored approximate legacy point; original coordinates retained, not a verified project entrance",
     "review_note": "",
     "record_kind": "Project / society",
     "line_distances": [],
@@ -59689,8 +59992,9 @@
     "three_bhk": "Not checked",
     "walk_route": "Not checked",
     "exhaustive": false,
-    "map_name": null,
-    "map_admission": "Not mapped: no resolved project point"
+    "map_name": "Trifecta Verdure",
+    "map_admission": "Restored legacy listing for review: approximate legacy point. Metro distances withheld.",
+    "legacy_restoration": true
   },
   {
     "builder": "Vaswani",

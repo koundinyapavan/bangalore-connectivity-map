@@ -5,7 +5,7 @@
     "mapped_as": [
       "Prestige Park Grove"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "The Willows @ Park Grove",
@@ -13,7 +13,7 @@
     "mapped_as": [
       "Prestige Park Grove - The Willows"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige White Meadows",
@@ -21,7 +21,7 @@
     "mapped_as": [
       "Prestige White Meadows"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Lakeside Habitat",
@@ -29,7 +29,7 @@
     "mapped_as": [
       "Prestige Lakeside Habitat"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Serenity Shores",
@@ -37,7 +37,7 @@
     "mapped_as": [
       "Prestige Serenity Shores"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Raintree Park",
@@ -45,13 +45,15 @@
     "mapped_as": [
       "Prestige Raintree Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Rosewood (Raintree Ph3)",
     "builder": "Prestige",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Prestige Rosewood (Raintree Ph3)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Avalon Park",
@@ -59,7 +61,7 @@
     "mapped_as": [
       "Prestige City - Avalon Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Eden Park",
@@ -67,7 +69,7 @@
     "mapped_as": [
       "Prestige City - Eden Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Meridian Park",
@@ -75,7 +77,7 @@
     "mapped_as": [
       "Prestige City - Meridian Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Eaton Park",
@@ -83,7 +85,7 @@
     "mapped_as": [
       "Prestige City - Eaton Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Fernvale",
@@ -91,7 +93,7 @@
     "mapped_as": [
       "Prestige City - Fernvale"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Aspen Greens",
@@ -99,7 +101,7 @@
     "mapped_as": [
       "Prestige City - Aspen Greens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige City - Great Acres",
@@ -107,7 +109,7 @@
     "mapped_as": [
       "Prestige City - Great Acres"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Waterford",
@@ -115,7 +117,7 @@
     "mapped_as": [
       "Prestige Waterford"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Shantiniketan",
@@ -123,7 +125,7 @@
     "mapped_as": [
       "Prestige Shantiniketan"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Sanctuary",
@@ -131,7 +133,7 @@
     "mapped_as": [
       "Prestige Sanctuary"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Dew Drops",
@@ -139,7 +141,7 @@
     "mapped_as": [
       "Prestige Dew Drops"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Golfshire",
@@ -147,7 +149,7 @@
     "mapped_as": [
       "Prestige Golfshire"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Finsbury Park",
@@ -155,7 +157,7 @@
     "mapped_as": [
       "Prestige Finsbury Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Southern Star",
@@ -163,7 +165,7 @@
     "mapped_as": [
       "Prestige Southern Star"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Suncrest",
@@ -171,7 +173,7 @@
     "mapped_as": [
       "Prestige Suncrest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Falcon City",
@@ -179,7 +181,7 @@
     "mapped_as": [
       "Prestige Falcon City"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Kingfisher Towers",
@@ -187,7 +189,7 @@
     "mapped_as": [
       "Prestige Kingfisher Towers"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Leela Residences",
@@ -195,7 +197,7 @@
     "mapped_as": [
       "Prestige Leela Residences"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Neopolis",
@@ -203,7 +205,7 @@
     "mapped_as": [
       "Sobha Neopolis"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Altair",
@@ -211,7 +213,7 @@
     "mapped_as": [
       "Sobha Altair"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha OneWorld",
@@ -219,7 +221,7 @@
     "mapped_as": [
       "Sobha OneWorld"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Galera",
@@ -227,7 +229,7 @@
     "mapped_as": [
       "Sobha Galera"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Royal Pavilion",
@@ -235,7 +237,7 @@
     "mapped_as": [
       "Sobha Royal Pavilion"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Dream Acres",
@@ -243,7 +245,7 @@
     "mapped_as": [
       "Sobha Dream Acres"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Dream Gardens",
@@ -251,7 +253,7 @@
     "mapped_as": [
       "Sobha Dream Gardens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Oakshire",
@@ -259,7 +261,7 @@
     "mapped_as": [
       "Sobha Oakshire"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha HRC Pristine",
@@ -267,7 +269,7 @@
     "mapped_as": [
       "Sobha HRC Pristine"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Lifestyle Legacy",
@@ -275,7 +277,7 @@
     "mapped_as": [
       "Sobha Lifestyle Legacy"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha City (Athena)",
@@ -283,7 +285,7 @@
     "mapped_as": [
       "Sobha City"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Town Park",
@@ -291,7 +293,7 @@
     "mapped_as": [
       "Sobha Town Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Arena",
@@ -299,7 +301,7 @@
     "mapped_as": [
       "Sobha Arena"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Indraprastha",
@@ -307,7 +309,7 @@
     "mapped_as": [
       "Sobha Indraprastha"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Cornerstone Utopia",
@@ -315,7 +317,7 @@
     "mapped_as": [
       "Brigade Cornerstone Utopia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Avalon",
@@ -323,7 +325,7 @@
     "mapped_as": [
       "Brigade Avalon"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Sanctuary",
@@ -331,7 +333,7 @@
     "mapped_as": [
       "Brigade Sanctuary"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Cosmopolis",
@@ -339,7 +341,7 @@
     "mapped_as": [
       "Brigade Cosmopolis"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Exotica",
@@ -347,7 +349,7 @@
     "mapped_as": [
       "Brigade Exotica"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Lakecrest",
@@ -355,7 +357,7 @@
     "mapped_as": [
       "Brigade Lakecrest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Citrine",
@@ -363,7 +365,7 @@
     "mapped_as": [
       "Brigade Citrine"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Belvedere",
@@ -371,7 +373,7 @@
     "mapped_as": [
       "Brigade Belvedere"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Orchards",
@@ -379,7 +381,7 @@
     "mapped_as": [
       "Brigade Orchards"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Eternia",
@@ -387,7 +389,7 @@
     "mapped_as": [
       "Brigade Eternia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Insignia",
@@ -395,7 +397,7 @@
     "mapped_as": [
       "Brigade Insignia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade El Dorado",
@@ -403,7 +405,7 @@
     "mapped_as": [
       "Brigade El Dorado"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Northridge",
@@ -411,7 +413,7 @@
     "mapped_as": [
       "Brigade Northridge"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Valencia",
@@ -419,7 +421,7 @@
     "mapped_as": [
       "Brigade Valencia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Meadows",
@@ -427,7 +429,7 @@
     "mapped_as": [
       "Brigade Meadows"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Gateway",
@@ -435,7 +437,7 @@
     "mapped_as": [
       "Brigade Gateway"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Woodscapes",
@@ -443,7 +445,7 @@
     "mapped_as": [
       "Godrej Woodscapes"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Park Retreat",
@@ -451,7 +453,7 @@
     "mapped_as": [
       "Godrej Park Retreat"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Regent Park",
@@ -459,7 +461,7 @@
     "mapped_as": [
       "Godrej Regent Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Splendour",
@@ -467,7 +469,7 @@
     "mapped_as": [
       "Godrej Splendour"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Reserve",
@@ -475,7 +477,7 @@
     "mapped_as": [
       "Godrej Reserve"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Ananda",
@@ -483,7 +485,7 @@
     "mapped_as": [
       "Godrej Ananda"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Royale Woods",
@@ -491,7 +493,7 @@
     "mapped_as": [
       "Godrej Royale Woods"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Eternity",
@@ -499,7 +501,7 @@
     "mapped_as": [
       "Godrej Eternity"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Sound of Water",
@@ -507,7 +509,7 @@
     "mapped_as": [
       "Purva Sound of Water"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Smiling Willows",
@@ -515,7 +517,7 @@
     "mapped_as": [
       "Purva Smiling Willows"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Meraki",
@@ -523,7 +525,7 @@
     "mapped_as": [
       "Purva Meraki"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Zenium",
@@ -531,7 +533,7 @@
     "mapped_as": [
       "Purva Zenium"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Aerocity",
@@ -539,7 +541,7 @@
     "mapped_as": [
       "Purva Aerocity"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Atmosphere",
@@ -547,19 +549,23 @@
     "mapped_as": [
       "Purva Atmosphere"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Eminora",
     "builder": "Puravankara",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Purva Eminora"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Aurum",
     "builder": "Puravankara",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Purva Aurum"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Park Hill",
@@ -567,7 +573,7 @@
     "mapped_as": [
       "Purva Park Hill"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Provident Park Square",
@@ -575,7 +581,7 @@
     "mapped_as": [
       "Provident Park Square"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Provident Sunworth",
@@ -583,7 +589,7 @@
     "mapped_as": [
       "Provident Sunworth"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Provident Ecopolitan",
@@ -591,7 +597,7 @@
     "mapped_as": [
       "Provident Ecopolitan"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Boulevard",
@@ -599,7 +605,7 @@
     "mapped_as": [
       "Embassy Boulevard"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Springs",
@@ -607,7 +613,7 @@
     "mapped_as": [
       "Embassy Springs"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Edge",
@@ -615,7 +621,7 @@
     "mapped_as": [
       "Embassy Edge"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Grove",
@@ -623,7 +629,7 @@
     "mapped_as": [
       "Embassy Grove"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Lake Terraces",
@@ -631,7 +637,7 @@
     "mapped_as": [
       "Embassy Lake Terraces"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Pristine",
@@ -639,7 +645,7 @@
     "mapped_as": [
       "Embassy Pristine"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Aqua Vista",
@@ -647,13 +653,15 @@
     "mapped_as": [
       "Sattva Aqua Vista"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva City / Park Cubix",
     "builder": "Sattva",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Sattva City / Park Cubix"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Vasanta Skye",
@@ -661,7 +669,7 @@
     "mapped_as": [
       "Sattva Vasanta Skye"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Greenage",
@@ -669,49 +677,63 @@
     "mapped_as": [
       "Sattva Greenage"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE Pursuit of a Radical Rhapsody",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Pursuit of a Radical Rhapsody"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE Windmills of Your Mind",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Windmills of Your Mind"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE In That Quiet Earth",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "In That Quiet Earth"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE After The Rain",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "After The Rain"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE Down by the Water",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Down by the Water"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE Tangled Up in Green",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Tangled Up in Green"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "TE Magic Faraway Tree",
     "builder": "Total Environment",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Magic Faraway Tree"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Marq",
@@ -719,7 +741,7 @@
     "mapped_as": [
       "Assetz Marq"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Bloom & Dell",
@@ -727,7 +749,7 @@
     "mapped_as": [
       "Assetz Bloom & Dell"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Sun & Sanctum",
@@ -735,7 +757,7 @@
     "mapped_as": [
       "Assetz Sun & Sanctum"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Soul & Soil",
@@ -743,31 +765,39 @@
     "mapped_as": [
       "Assetz Soul & Soil"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz 63 East / Leaves & Lives",
     "builder": "Assetz",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Assetz 63 East / Leaves & Lives"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Bhartiya City (Nikoo Homes)",
     "builder": "Bhartiya",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Bhartiya City (Nikoo Homes)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Karle Town Centre (Zenith)",
     "builder": "Karle",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Karle Zenith Residences"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Phoenix One Bangalore West / Kessaku",
     "builder": "Phoenix",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Phoenix One Bangalore West / Kessaku"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "L&T Raintree Boulevard",
@@ -775,13 +805,15 @@
     "mapped_as": [
       "L&T Raintree Boulevard"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "L&T Jakkur (Chokkanahalli Lake)",
     "builder": "L and T Realty",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "L&T Jakkur (Chokkanahalli Lake)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Birla Trimaya",
@@ -789,7 +821,7 @@
     "mapped_as": [
       "Birla Trimaya"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Birla Ojasvi",
@@ -797,7 +829,7 @@
     "mapped_as": [
       "Birla Ojasvi"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Birla Evara",
@@ -805,7 +837,7 @@
     "mapped_as": [
       "Birla Evara"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Mirabelle",
@@ -813,7 +845,7 @@
     "mapped_as": [
       "Lodha Mirabelle"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Azur",
@@ -821,13 +853,15 @@
     "mapped_as": [
       "Lodha Azur"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Fiorana (Sadahalli)",
     "builder": "Lodha",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Lodha Fiorana (Sadahalli)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Mahindra Zen",
@@ -835,7 +869,7 @@
     "mapped_as": [
       "Mahindra Zen"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Mahindra Blossom",
@@ -843,13 +877,15 @@
     "mapped_as": [
       "Mahindra Blossom"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Tata Carnatica (Varnam/Carnasa)",
     "builder": "Tata Housing",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Tata Carnatica (Varnam/Carnasa)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Shapoorji Parkwest",
@@ -857,7 +893,7 @@
     "mapped_as": [
       "Shapoorji Parkwest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Century Ethos",
@@ -865,7 +901,7 @@
     "mapped_as": [
       "Century Ethos"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Century Wintersun",
@@ -873,7 +909,7 @@
     "mapped_as": [
       "Century Wintersun"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Century Immencity (Astoria)",
@@ -881,7 +917,7 @@
     "mapped_as": [
       "Century Immencity (Astoria)"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Century Central",
@@ -889,7 +925,7 @@
     "mapped_as": [
       "Century Central"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "House of Hiranandani",
@@ -897,13 +933,15 @@
     "mapped_as": [
       "House of Hiranandani Devanahalli"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Palm Retreat / Lakefront",
     "builder": "Adarsh",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Adarsh Palm Retreat / Lakefront"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Welkin Park",
@@ -911,7 +949,7 @@
     "mapped_as": [
       "Adarsh Welkin Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Welkin Park Villas",
@@ -919,7 +957,7 @@
     "mapped_as": [
       "Adarsh Welkin Park Villas"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Palm Meadows",
@@ -927,7 +965,7 @@
     "mapped_as": [
       "Adarsh Palm Meadows"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Stratuss",
@@ -935,7 +973,7 @@
     "mapped_as": [
       "Adarsh Stratuss"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Savana",
@@ -943,7 +981,7 @@
     "mapped_as": [
       "Adarsh Savana"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nambiar Bellezea",
@@ -951,7 +989,7 @@
     "mapped_as": [
       "Nambiar Bellezea"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nambiar Ellegenza",
@@ -959,7 +997,7 @@
     "mapped_as": [
       "Nambiar Ellegenza"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nambiar Bannerghatta",
@@ -967,7 +1005,7 @@
     "mapped_as": [
       "Nambiar Bannerghatta"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SNN Raj Viviente",
@@ -975,7 +1013,7 @@
     "mapped_as": [
       "SNN Raj Viviente"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SNN Clermont",
@@ -983,7 +1021,7 @@
     "mapped_as": [
       "SNN Clermont"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Folium",
@@ -991,7 +1029,7 @@
     "mapped_as": [
       "Sumadhura Folium"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Elysium",
@@ -999,7 +1037,7 @@
     "mapped_as": [
       "Sumadhura Elysium"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Abhee Silicon Shine",
@@ -1007,7 +1045,7 @@
     "mapped_as": [
       "Abhee Silicon Shine"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Habitat Iluminar",
@@ -1015,7 +1053,7 @@
     "mapped_as": [
       "Habitat Iluminar"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Rohan Upavan",
@@ -1023,7 +1061,7 @@
     "mapped_as": [
       "Rohan Upavan"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Rohan Ekanta",
@@ -1031,7 +1069,7 @@
     "mapped_as": [
       "Rohan Ekanta"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Concorde Abode 99",
@@ -1039,7 +1077,7 @@
     "mapped_as": [
       "Concorde Abode 99"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Concorde Napa Valley",
@@ -1047,13 +1085,15 @@
     "mapped_as": [
       "Concorde Napa Valley"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Mana Dale / Capitol",
     "builder": "Mana",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Mana Dale / Capitol"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Mana Foresta",
@@ -1061,7 +1101,7 @@
     "mapped_as": [
       "Mana Foresta"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DSR Parkway",
@@ -1069,19 +1109,23 @@
     "mapped_as": [
       "DSR Parkway"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Goyal Orchid",
     "builder": "Goyal",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Goyal Orchid"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "NCC Urban (Aster Park)",
     "builder": "NCC Urban",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "NCC Aster Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Casagrand Aquene",
@@ -1089,25 +1133,31 @@
     "mapped_as": [
       "Casagrand Aquene"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Arvind Sylva / Orchards",
     "builder": "Arvind",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Arvind Sylva / Orchards"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Reliaable Developers",
     "builder": "Reliaable",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Reliaable Developers"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sizzle Properties",
     "builder": "Sizzle",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Sizzle Properties"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "L&T Elara Celestia",
@@ -1115,7 +1165,7 @@
     "mapped_as": [
       "L&T Elara Celestia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Woods",
@@ -1123,7 +1173,7 @@
     "mapped_as": [
       "Godrej Woods"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Astra",
@@ -1131,7 +1181,7 @@
     "mapped_as": [
       "Embassy Astra"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Avaline",
@@ -1139,19 +1189,23 @@
     "mapped_as": [
       "Godrej Aveline"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy Knowledge Park",
     "builder": "Embassy",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Embassy Knowledge Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Mizu & Ki (Codename Paradise)",
     "builder": "Assetz",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Assetz Mizu & Ki"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva La Vita",
@@ -1159,7 +1213,7 @@
     "mapped_as": [
       "Sattva La Vita"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Tranquille",
@@ -1167,7 +1221,7 @@
     "mapped_as": [
       "Adarsh Tranquille"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Greens",
@@ -1175,7 +1229,7 @@
     "mapped_as": [
       "Adarsh Greens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "2G Tula",
@@ -1183,7 +1237,7 @@
     "mapped_as": [
       "2G Tula"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Palm Retreat Mayberry",
@@ -1191,7 +1245,7 @@
     "mapped_as": [
       "Adarsh Palm Retreat Mayberry"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Adarsh Park Heights",
@@ -1199,7 +1253,7 @@
     "mapped_as": [
       "Adarsh Park Heights"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "The Grand Strand Address",
@@ -1207,7 +1261,7 @@
     "mapped_as": [
       "The Grand Strand Address"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Akme Ballet",
@@ -1215,7 +1269,7 @@
     "mapped_as": [
       "Akme Ballet"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Alembic Cloud Forest",
@@ -1223,7 +1277,7 @@
     "mapped_as": [
       "Alembic Cloud Forest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Alembic Urban Forest",
@@ -1231,7 +1285,7 @@
     "mapped_as": [
       "Alembic Urban Forest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Alpine Eco",
@@ -1239,13 +1293,15 @@
     "mapped_as": [
       "Alpine Eco"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Alpine Viva",
     "builder": "Alpine",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Alpine Viva"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Aratt Premier",
@@ -1253,7 +1309,7 @@
     "mapped_as": [
       "Aratt Premier"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz 66 & Shibui",
@@ -1261,7 +1317,7 @@
     "mapped_as": [
       "Assetz 66 & Shibui"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Mizumi Reserve",
@@ -1269,7 +1325,7 @@
     "mapped_as": [
       "Assetz Mizumi Reserve"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Soho & Sky",
@@ -1277,7 +1333,7 @@
     "mapped_as": [
       "Assetz Soho & Sky"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Sora & Saki",
@@ -1285,7 +1341,7 @@
     "mapped_as": [
       "Assetz Sora & Saki"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Assetz Trees & Tandem",
@@ -1293,7 +1349,7 @@
     "mapped_as": [
       "Assetz Trees & Tandem"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes 6",
@@ -1301,19 +1357,23 @@
     "mapped_as": [
       "Nikoo Homes 6"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes 7 - Garden Estate",
     "builder": "Bhartiya",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Nikoo Homes 7 - Garden Estate"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes 8 - Garden Enclave",
     "builder": "Bhartiya",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Nikoo Homes 8 - Garden Enclave"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes I",
@@ -1321,7 +1381,7 @@
     "mapped_as": [
       "Nikoo Homes I"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes II",
@@ -1329,7 +1389,7 @@
     "mapped_as": [
       "Nikoo Homes II"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes IV",
@@ -1337,7 +1397,7 @@
     "mapped_as": [
       "Nikoo Homes IV"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes V",
@@ -1345,19 +1405,23 @@
     "mapped_as": [
       "Nikoo Homes V"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Nikoo Homes 9 Alpine - Bhartiya Garden Hill",
     "builder": "Bhartiya",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Nikoo Homes 9 Alpine - Bhartiya Garden Hill"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Bren Aspera",
     "builder": "Bren",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Bren Aspera"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Felicity",
@@ -1365,7 +1429,7 @@
     "mapped_as": [
       "Felicity"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lagos",
@@ -1373,7 +1437,7 @@
     "mapped_as": [
       "Lagos"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "New Dawn",
@@ -1381,7 +1445,7 @@
     "mapped_as": [
       "New Dawn"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Solcrest",
@@ -1389,7 +1453,7 @@
     "mapped_as": [
       "Solcrest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "The Earthscape",
@@ -1397,7 +1461,7 @@
     "mapped_as": [
       "The Earthscape"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Wonderwall",
@@ -1405,7 +1469,7 @@
     "mapped_as": [
       "Wonderwall"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Golden Triangle",
@@ -1413,7 +1477,7 @@
     "mapped_as": [
       "Brigade Golden Triangle"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Granada",
@@ -1421,7 +1485,7 @@
     "mapped_as": [
       "Brigade Granada"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Lakefront",
@@ -1429,7 +1493,7 @@
     "mapped_as": [
       "Brigade Lakefront"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Brigade Metropolis",
@@ -1437,7 +1501,7 @@
     "mapped_as": [
       "Brigade Metropolis"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Candeur Carlisle",
@@ -1445,7 +1509,7 @@
     "mapped_as": [
       "Candeur Carlisle"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Candeur Landmark",
@@ -1453,7 +1517,7 @@
     "mapped_as": [
       "Candeur Landmark"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Candeur Novo Gardenia",
@@ -1461,7 +1525,7 @@
     "mapped_as": [
       "Candeur Novo Gardenia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Candeur Signature",
@@ -1469,7 +1533,7 @@
     "mapped_as": [
       "Candeur Signature"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Casagrand Keatsway",
@@ -1477,13 +1541,15 @@
     "mapped_as": [
       "Casagrand Keatsway"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Casagrand Lorenza",
     "builder": "Casagrand",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Casagrand Lorenza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Casagrand Orlena",
@@ -1491,7 +1557,7 @@
     "mapped_as": [
       "Casagrand Orlena"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Century Mirai",
@@ -1499,7 +1565,7 @@
     "mapped_as": [
       "Century Mirai"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DNR Arista",
@@ -1507,13 +1573,15 @@
     "mapped_as": [
       "DNR Arista"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DNR Atmosphere",
     "builder": "DNR",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "DNR Atmosphere"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DNR Casablanca",
@@ -1521,7 +1589,7 @@
     "mapped_as": [
       "DNR Casablanca"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DNR Highline",
@@ -1529,7 +1597,7 @@
     "mapped_as": [
       "DNR Highline"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "DNR Parklink",
@@ -1537,7 +1605,7 @@
     "mapped_as": [
       "DNR Parklink"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Durga Petals",
@@ -1545,7 +1613,7 @@
     "mapped_as": [
       "Durga Petals"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Embassy East Avenue",
@@ -1553,7 +1621,7 @@
     "mapped_as": [
       "Embassy East Avenue"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Air",
@@ -1561,7 +1629,7 @@
     "mapped_as": [
       "Godrej Air"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Air NXT",
@@ -1569,7 +1637,7 @@
     "mapped_as": [
       "Godrej Air NXT"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Athena",
@@ -1577,7 +1645,7 @@
     "mapped_as": [
       "Godrej Athena"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Lakeside Orchard",
@@ -1585,7 +1653,7 @@
     "mapped_as": [
       "Godrej Lakeside Orchard"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej MSR City",
@@ -1593,7 +1661,7 @@
     "mapped_as": [
       "Godrej MSR City"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej Tiara",
@@ -1601,7 +1669,7 @@
     "mapped_as": [
       "Godrej Tiara"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Godrej United",
@@ -1609,7 +1677,7 @@
     "mapped_as": [
       "Godrej United"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Gopalan Celestial Greens",
@@ -1617,7 +1685,7 @@
     "mapped_as": [
       "Gopalan Celestial Greens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Gopalan Grandeur",
@@ -1625,7 +1693,7 @@
     "mapped_as": [
       "Gopalan Grandeur"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Orchid Platinum",
@@ -1633,7 +1701,7 @@
     "mapped_as": [
       "Orchid Platinum"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Habitat Eden Heights",
@@ -1641,19 +1709,23 @@
     "mapped_as": [
       "Habitat Eden Heights"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Keerthi Surya Shakthi Towers",
     "builder": "Keerthi",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Keerthi Surya Shakti Towers"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Keya Around the Life",
     "builder": "Keya",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Keya Around the Life"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Elanza",
@@ -1661,7 +1733,7 @@
     "mapped_as": [
       "Lodha Elanza"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Haven",
@@ -1669,7 +1741,7 @@
     "mapped_as": [
       "Lodha Haven"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Lodha Whitefield",
@@ -1677,7 +1749,7 @@
     "mapped_as": [
       "Lodha Whitefield"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Mahaveer Tuscan",
@@ -1685,13 +1757,15 @@
     "mapped_as": [
       "Mahaveer Tuscan"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "NCC Ivory Heights",
     "builder": "NCC Urban",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "NCC Urban Ivory Heights"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Camden Gardens",
@@ -1699,7 +1773,7 @@
     "mapped_as": [
       "Prestige Camden Gardens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Elm Park",
@@ -1707,7 +1781,7 @@
     "mapped_as": [
       "Prestige Elm Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Evergreen at Raintree Park",
@@ -1715,7 +1789,7 @@
     "mapped_as": [
       "Prestige Evergreen at Raintree Park"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Glenbrook",
@@ -1723,7 +1797,7 @@
     "mapped_as": [
       "Prestige Glenbrook"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Green Gables",
@@ -1731,19 +1805,23 @@
     "mapped_as": [
       "Prestige Green Gables"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Grove Hills",
     "builder": "Prestige",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Prestige Grove Hills"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Highland Hideaway",
     "builder": "Prestige",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Prestige Highland Hideaway"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Lavender Fields",
@@ -1751,13 +1829,15 @@
     "mapped_as": [
       "Prestige Lavender Fields"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Oakville",
     "builder": "Prestige",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Prestige Oakville"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Pine Forest",
@@ -1765,7 +1845,7 @@
     "mapped_as": [
       "Prestige Pine Forest"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Prestige Somerville",
@@ -1773,13 +1853,15 @@
     "mapped_as": [
       "Prestige Somerville"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Pride Euphora",
     "builder": "Pride",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Pride Euphora"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Fountain Square",
@@ -1787,7 +1869,7 @@
     "mapped_as": [
       "Purva Fountain Square"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Midtown",
@@ -1795,7 +1877,7 @@
     "mapped_as": [
       "Purva Midtown"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Riviera",
@@ -1803,7 +1885,7 @@
     "mapped_as": [
       "Purva Riviera"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Purva Whitehall",
@@ -1811,7 +1893,7 @@
     "mapped_as": [
       "Purva Whitehall"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "RJ Lake Gardenia",
@@ -1819,7 +1901,7 @@
     "mapped_as": [
       "RJ Lake Gardenia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Rohan Avriti",
@@ -1827,7 +1909,7 @@
     "mapped_as": [
       "Rohan Avriti"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Rohan Vasantha",
@@ -1835,7 +1917,7 @@
     "mapped_as": [
       "Rohan Vasantha"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Celesta",
@@ -1843,7 +1925,7 @@
     "mapped_as": [
       "Sattva Celesta"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Divinity",
@@ -1851,7 +1933,7 @@
     "mapped_as": [
       "Sattva Divinity"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Magnificia",
@@ -1859,7 +1941,7 @@
     "mapped_as": [
       "Sattva Magnificia"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Songbird",
@@ -1867,13 +1949,15 @@
     "mapped_as": [
       "Sattva Songbird"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sattva Songbird Phase II",
     "builder": "Sattva",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Sattva Songbird"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SBR One Residence",
@@ -1881,7 +1965,7 @@
     "mapped_as": [
       "SBR One Residence"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Shriram Greenfield",
@@ -1889,7 +1973,7 @@
     "mapped_as": [
       "Shriram Greenfield"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SJR Vogue",
@@ -1897,7 +1981,7 @@
     "mapped_as": [
       "SJR Vogue"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Skylark Esta",
@@ -1905,7 +1989,7 @@
     "mapped_as": [
       "Skylark Esta"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SMR Vinay Endeavour",
@@ -1913,7 +1997,7 @@
     "mapped_as": [
       "SMR Vinay Endeavour"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "SMR Vinay Galaxy",
@@ -1921,7 +2005,7 @@
     "mapped_as": [
       "SMR Vinay Galaxy"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Ayana",
@@ -1929,7 +2013,7 @@
     "mapped_as": [
       "Sobha Ayana"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Iris",
@@ -1937,7 +2021,7 @@
     "mapped_as": [
       "Sobha Iris"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sobha Magnus",
@@ -1945,7 +2029,7 @@
     "mapped_as": [
       "Sobha Magnus"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sowparnika Indradhanush",
@@ -1953,7 +2037,7 @@
     "mapped_as": [
       "Sowparnika Indradhanush"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sriram Samruddhi",
@@ -1961,7 +2045,7 @@
     "mapped_as": [
       "Shriram Samruddhi"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Capitol Residences",
@@ -1969,7 +2053,7 @@
     "mapped_as": [
       "Sumadhura Capitol Residences"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Edition",
@@ -1977,7 +2061,7 @@
     "mapped_as": [
       "Sumadhura Edition"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Epitome",
@@ -1985,7 +2069,7 @@
     "mapped_as": [
       "Sumadhura Epitome"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Nandanam",
@@ -1993,7 +2077,7 @@
     "mapped_as": [
       "Sumadhura Nandanam"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Sarang",
@@ -2001,7 +2085,7 @@
     "mapped_as": [
       "Sumadhura Sarang"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Solace",
@@ -2009,13 +2093,15 @@
     "mapped_as": [
       "Sumadhura Solace"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Sumadhura Solea",
     "builder": "Sumadhura",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Sumadhura Solea"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trendsquares World of Gardens",
@@ -2023,13 +2109,15 @@
     "mapped_as": [
       "Trendsquares World of Gardens"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Bueno",
     "builder": "Trifecta",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Trifecta Bueno"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Esplanade",
@@ -2037,7 +2125,7 @@
     "mapped_as": [
       "Trifecta Esplanade"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Joli",
@@ -2045,7 +2133,7 @@
     "mapped_as": [
       "Trifecta Joli"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Retto",
@@ -2053,7 +2141,7 @@
     "mapped_as": [
       "Trifecta Retto"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Sollievo",
@@ -2061,7 +2149,7 @@
     "mapped_as": [
       "Trifecta Sollievo"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Starlight",
@@ -2069,7 +2157,7 @@
     "mapped_as": [
       "Trifecta Starlight"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Vanto",
@@ -2077,25 +2165,31 @@
     "mapped_as": [
       "Trifecta Vanto"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Veranza",
     "builder": "Trifecta",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Trifecta Veranza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Verde en Resplandor",
     "builder": "Trifecta",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Trifecta Verde en Resplandor"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Trifecta Verdure",
     "builder": "Trifecta",
-    "mapped_as": [],
-    "outcome": "withheld or split: original approximate, compound or unresolved identity; see full catalogue"
+    "mapped_as": [
+      "Trifecta Verdure"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Vaswani Exquisite",
@@ -2103,7 +2197,7 @@
     "mapped_as": [
       "Vaswani Exquisite"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   },
   {
     "original_name": "Vaswani Starlight",
@@ -2111,6 +2205,6 @@
     "mapped_as": [
       "Vaswani Starlight"
     ],
-    "outcome": "retained / corrected"
+    "outcome": "retained / corrected (including explicit aliases)"
   }
 ]

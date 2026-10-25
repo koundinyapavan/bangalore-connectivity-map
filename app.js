@@ -35,6 +35,7 @@ const CORR_TRANSIT={
 };
 function upcomingSchedule(p){return p.upcoming?'<div style="margin-top:5px"><small>Reported upcoming project. Confirm the registered phase, construction stage and payment terms.</small></div>':'';}
 function nearestMetro(p){
+  if(p.legacyReview)return '<div style="margin-top:5px;color:#e6b800"><b>Metro distances withheld:</b> this restored legacy point needs identity/location review. Confirm the parcel and entrance before assessing station access.</div>';
   const best=PropertyUtils.nearestStations(p,METRO,(a,b,c,d)=>L.latLng(a,b).distanceTo(L.latLng(c,d)));
   const labels={op:'Operating',uc:'Under construction',approved:'Union-approved Phase 3',proposed:'Other proposal (Union approval unverified)'};
   return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Nearest metro by stage</b> <small>(straight-line to station point; not walking distance)</small>'+Object.keys(labels).map(k=>best[k]?'<div>'+labels[k]+': <b>'+esc(best[k].station)+'</b> ('+esc(best[k].line)+') — '+(best[k].d/1000).toFixed(1)+' km</div>':'').join('')+'</div>';
@@ -44,7 +45,7 @@ function sourceLink(url,label){return /^https:\/\//.test(url||'')?'<a target="_b
 function popup(p){
   const sources=(p.sources||[]).map((u,i)=>sourceLink(u,'Source '+(i+1))).join(' · ');
   const fields=p.fieldReview||{};
-  return '<b>'+esc(p.name)+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+esc(p.dev)+' · '+esc(p.corr)+' · '+esc(p.area)+'</small>'+
+  return (p.legacyReview?'<div style="color:#e6b800"><b>Restored legacy listing — needs review</b><br>'+esc(p.legacyReviewReason)+'</div>':'')+'<b>'+esc(p.name)+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+esc(p.dev)+' · '+esc(p.corr)+' · '+esc(p.area)+'</small>'+
     '<div style="margin-top:4px">'+esc(cap(p.type))+' · '+esc(p.config)+'</div>'+
     '<div>Project-wide asking range <b>'+priceStr(p)+'</b> (unverified; not a 3 BHK quote)</div>'+
     '<div><b>'+esc(STATUS_LABEL[p.status]||STATUS_LABEL.unknown)+'</b></div>'+
@@ -74,7 +75,7 @@ function renderProps(){
   const showLabels=document.getElementById('lLabels').checked;
   let list=PROPS.filter(p=>PropertyUtils.validPin(p)&&types.includes(p.type)&&stats.includes(p.status)&&bandOverlap(bands,p.min,p.max)&&comps.includes(compBucket(p))
     &&(devs.length===0||devs.includes(p.dev))&&(corrs.length===0||corrs.includes(p.corr))
-    &&(q===''||(p.name+' '+p.dev+' '+p.area+' '+p.corr).toLowerCase().indexOf(q)>=0));
+    &&(q===''||[p.name,p.dev,p.area,p.corr,...(p.aliases||[])].join(' ').toLowerCase().indexOf(q)>=0));
   if(sort==='pmin')list.sort((a,b)=>(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
   else if(sort==='pmax')list.sort((a,b)=>(b.max==null?(b.min==null?-1:b.min):b.max)-(a.max==null?(a.min==null?-1:a.min):a.max));
   else if(sort==='soon')list.sort((a,b)=>PropertyUtils.dateCompare(a,b)||(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
@@ -83,13 +84,13 @@ function renderProps(){
   let rows='';
   list.forEach(p=>{
     const i=shownMarkers.length;
-    const mk=L.circleMarker([p.lat,p.lng],{radius:8,weight:p.upcoming?3:2,color:p.upcoming?'#e9c46a':'#fff',fillColor:TYPECOLOR[p.type],fillOpacity:1})
+    const mk=L.circleMarker([p.lat,p.lng],{radius:8,weight:p.upcoming||p.legacyReview?3:2,color:p.legacyReview?'#e6b800':p.upcoming?'#e9c46a':'#fff',dashArray:p.legacyReview?'3,3':null,fillColor:TYPECOLOR[p.type],fillOpacity:p.legacyReview?0.55:1})
       .bindPopup(popup(p))
       .bindTooltip((p.upcoming?'★ ':'')+p.name,{permanent:showLabels,direction:'right',className:'plabel',offset:[8,0]});
     mk.on('popupopen',function(){highlightRow(i);});
     propLayer.addLayer(mk);
     shownMarkers.push({lat:p.lat,lng:p.lng,marker:mk});
-    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+esc(p.name)+'</b><br><span class="lmeta">'+esc(p.dev)+' · '+esc(p.area)+' · '+priceStr(p)+' · '+esc(STATUS_LABEL[p.status]||STATUS_LABEL.unknown)+'</span></div>';
+    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+esc(p.name)+'</b>'+(p.legacyReview?' <span style="color:#e6b800">Needs review</span>':'')+'<br><span class="lmeta">'+esc(p.dev)+' · '+esc(p.area)+' · '+priceStr(p)+' · '+esc(STATUS_LABEL[p.status]||STATUS_LABEL.unknown)+'</span></div>';
   });
   document.getElementById('count').textContent=shownMarkers.length+' of '+PROPS.length+' shown'+((devs.length||corrs.length||q)?' · filtered':'');
   var lb=document.getElementById('listBody'); if(lb) lb.innerHTML=rows;

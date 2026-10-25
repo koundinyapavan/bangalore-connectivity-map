@@ -872,5 +872,17 @@
     "url": "https://habitatventures.com/",
     "checked_date": "2026-10-25",
     "retrieval": "Direct fetch failed; official completed-residential names recovered via search index"
+  },
+  {
+    "builder": "Sumadhura",
+    "url": "https://sumadhuragroup.com/residential/hyderabad/the-olympus",
+    "checked_date": "2026-10-25",
+    "retrieval": "Developer official page confirms non-Bengaluru city; checked through web search"
+  },
+  {
+    "builder": "Lodha",
+    "url": "https://www.lodhagroup.com/projects/residential-property-in-goregaon/lodha-fiorenza/location",
+    "checked_date": "2026-10-25",
+    "retrieval": "Developer official page confirms non-Bengaluru city; checked through web search"
   }
 ]
