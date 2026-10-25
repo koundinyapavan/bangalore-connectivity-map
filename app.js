@@ -40,26 +40,30 @@ function nearestMetro(p){
   const here=L.latLng(p.lat,p.lng), best={};
   METRO.forEach(l=>l.pts.forEach(s=>{
     const k=l.status==='op'?'op':'up', d=here.distanceTo(L.latLng(s[1],s[2]));
-    if(!best[k]||d<best[k].d||(d===best[k].d&&l.status==='uc'))best[k]={d:d,stn:s[0],line:l.name.replace(/ \(.*\)$/,''),status:l.status};
+    if(!best[k]||d<best[k].d||(d===best[k].d&&l.status==='uc'))best[k]={d:d,stn:s[0],line:l.name.replace(/ \(.*\)$/,'').replace(/ — .*$/,''),status:l.status};
   }));
   const row=(label,b)=>b?'<div>'+label+' <b>'+b.stn+'</b> ('+b.line+(b.status!=='op'?', '+METRO_STATUS[b.status]:'')+') — '+(b.d/1000).toFixed(1)+' km</div>':'';
   return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Nearest metro</b> <small>(straight-line)</small>'+row('Running:',best.op)+row('Upcoming:',best.up)+'</div>';
 }
+function priceStr(p){return p.min==null?'not confirmed':'₹'+p.min+(p.max==null?'+':'–'+p.max)+' Cr';}
+const META_NOTE={partial:'Price/possession partly unverified (listing sites disagree)',est:'Price/possession largely unverified',none:'No price/possession details found'};
 function popup(p){
   const st=p.status==='uc'?'<span class="pill uc">Under construction</span>':'<span class="pill op">Ready / resale</span>';
-  const geo=p.geo==='verified'?'<span style="color:#2ec27e">GPS-verified (site visit)</span>':p.geo==='osm'?'<span style="color:#7fbfff">OpenStreetMap project footprint (Oct 2026)</span>':p.geo==='geocoded'?'<span style="color:#7fbfff">geocoded via Google Places (project-level)</span>':'<span style="color:#e6b800">approx (locality-level)</span>';
+  const geo=p.geo==='verified'?'<span style="color:#2ec27e">GPS-verified (site visit)</span>':p.geo==='csv'?'<span style="color:#7fbfff">coordinates from your project list (Oct 2026)</span>':p.geo==='osm'?'<span style="color:#7fbfff">OpenStreetMap project footprint (Oct 2026)</span>':p.geo==='geocoded'?'<span style="color:#7fbfff">geocoded via Google Places (project-level)</span>':'<span style="color:#e6b800">approx (locality-level)</span>';
   return '<b>'+p.name+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+p.dev+' · '+p.corr+' · '+p.area+'</small>'+
     '<div style="margin-top:4px">'+cap(p.type)+' · '+p.config+'</div>'+
-    '<div>Price <b>₹'+p.min+'–'+p.max+' Cr</b> · '+st+'</div>'+
+    '<div>Price <b>'+priceStr(p)+'</b> · '+st+'</div>'+
     '<div><b>Completion:</b> '+p.poss+'</div>'+
     nearestMetro(p)+
     '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Transit (by ~2030)</b><br>'+(CORR_TRANSIT[p.corr]||'')+'</div>'+
-    '<div style="margin-top:4px"><small>Pin: '+geo+' — verify exact plot</small></div>'+
+    '<div style="margin-top:4px"><small>Pin: '+geo+' — verify exact plot</small></div>'+(META_NOTE[p.meta]?'<div style="margin-top:4px;color:#e6b800"><small>⚠ '+META_NOTE[p.meta]+' — confirm on RERA</small></div>':'')+
     upcomingSchedule(p);
 }
 function cap(s){return s.charAt(0).toUpperCase()+s.slice(1);}
 
 function bandOverlap(sel,min,max){
+  if(min==null) return true;
+  if(max==null) max=999;
   const R={lo:[0,3],mid:[3,6],hi:[6,999]};
   return sel.some(k=>R[k][0]<=max && min<=R[k][1]);
 }
@@ -81,9 +85,9 @@ function renderProps(){
   let list=PROPS.filter(p=>types.includes(p.type)&&stats.includes(p.status)&&bandOverlap(bands,p.min,p.max)&&comps.includes(compBucket(p))
     &&(devs.length===0||devs.includes(p.dev))&&(corrs.length===0||corrs.includes(p.corr))
     &&(q===''||(p.name+' '+p.dev+' '+p.area+' '+p.corr).toLowerCase().indexOf(q)>=0));
-  if(sort==='pmin')list.sort((a,b)=>a.min-b.min);
-  else if(sort==='pmax')list.sort((a,b)=>b.max-a.max);
-  else if(sort==='soon')list.sort((a,b)=>projDate(a)-projDate(b)||a.min-b.min);
+  if(sort==='pmin')list.sort((a,b)=>(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
+  else if(sort==='pmax')list.sort((a,b)=>(b.max==null?(b.min==null?-1:b.min):b.max)-(a.max==null?(a.min==null?-1:a.min):a.max));
+  else if(sort==='soon')list.sort((a,b)=>projDate(a)-projDate(b)||(a.min==null?1e9:a.min)-(b.min==null?1e9:b.min));
   else if(sort==='late')list.sort((a,b)=>projDate(b)-projDate(a));
   else if(sort==='name')list.sort((a,b)=>a.name.localeCompare(b.name));
   let rows='';
@@ -95,7 +99,7 @@ function renderProps(){
     mk.on('popupopen',function(){highlightRow(i);});
     propLayer.addLayer(mk);
     shownMarkers.push({lat:p.lat,lng:p.lng,marker:mk});
-    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+p.name+'</b><br><span class="lmeta">'+p.dev+' · '+p.area+' · ₹'+p.min+'–'+p.max+' Cr · '+(p.status==='uc'?('UC '+p.poss):'Ready')+'</span></div>';
+    rows+='<div class="lrow" id="lrow-'+i+'" onclick="focusProp('+i+')"><span class="dot" style="background:'+TYPECOLOR[p.type]+'"></span> '+(p.upcoming?'★ ':'')+'<b>'+p.name+'</b><br><span class="lmeta">'+p.dev+' · '+p.area+' · '+priceStr(p)+' · '+(p.status==='uc'?('UC '+p.poss):'Ready')+'</span></div>';
   });
   document.getElementById('count').textContent=shownMarkers.length+' of '+PROPS.length+' shown'+((devs.length||corrs.length||q)?' · filtered':'');
   var lb=document.getElementById('listBody'); if(lb) lb.innerHTML=rows;
