@@ -195,12 +195,12 @@ const DASH={op:null,uc:'8,7',pl:'3,7'};
 const metroLayer=L.layerGroup(),krideLayer=L.layerGroup(),roadsLayer=L.layerGroup(),bottLayer=L.layerGroup(),ringsLayer=L.layerGroup(),schoolLayer=L.layerGroup(),hospLayer=L.layerGroup(),propLayer=L.markerClusterGroup({chunkedLoading:true,maxClusterRadius:46,spiderfyOnMaxZoom:true,showCoverageOnHover:false,disableClusteringAtZoom:15});
 
 METRO.forEach(l=>{
-  l.grp=L.layerGroup().addTo(l.grp);
+  l.grp=L.layerGroup().addTo(metroLayer);
   L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:5,opacity:l.status==='pl'?0.6:0.9,dashArray:DASH[l.status]}).bindTooltip(l.name,{sticky:true}).addTo(l.grp);
   l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3.4,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(l.grp));
 });
 KRIDE.forEach(l=>{
-  l.grp=L.layerGroup().addTo(l.grp);
+  l.grp=L.layerGroup().addTo(krideLayer);
   L.polyline(l.pts.map(p=>[p[1],p[2]]),{color:l.color,weight:4,opacity:0.85,dashArray:'6,6'}).bindTooltip(l.name,{sticky:true}).addTo(l.grp);
   l.pts.forEach(p=>L.circleMarker([p[1],p[2]],{radius:3,color:'#fff',weight:1,fillColor:l.color,fillOpacity:1}).bindTooltip(p[0]+' · '+l.name,{direction:'top'}).addTo(l.grp));
 });
