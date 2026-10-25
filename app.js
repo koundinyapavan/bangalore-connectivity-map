@@ -25,10 +25,10 @@ BaseCtl.addTo(map);
 
 const TYPECOLOR={villa:'#C0392B',apartment:'#2E86C1',plot:'#8E44AD'};
 const CORR_TRANSIT={
-  East:'ORR/Whitefield tech belt — Purple metro (live) + Blue ORR (~2028) + Kanaka suburban (~2029). Sarjapur end: no near-term metro (Red 3A ~2033+).',
-  North:'Airport/Manyata corridor — Blue airport metro (2027–28) + Sampige/Kanaka suburban (~2029). Devanahalli is not an ORR commute.',
-  South:'Bannerghatta / E-City / Kanakapura — Pink (~2026, Bannerghatta) · Yellow (live, E-City/Hosur Rd) · Green (live, Kanakapura).',
-  Central:'Central Bengaluru — Purple/Green (live) + Pink (~2026).',
+  East:'ORR/Whitefield tech belt — Purple metro (live) + Blue ORR (~2027) + Kanaka suburban (~2029). Sarjapur end: no near-term metro (Red 3A ~2033+).',
+  North:'Airport/Manyata corridor — Blue airport metro (2028–29) + Sampige/Kanaka suburban (~2029). Devanahalli is not an ORR commute.',
+  South:'Bannerghatta / E-City / Kanakapura — Pink (elevated ~Nov 2026, Bannerghatta Rd) · Yellow (live, E-City/Hosur Rd) · Green (live, Kanakapura).',
+  Central:'Central Bengaluru — Purple/Green (live) + Pink (elevated ~Nov 2026, UG 2027–28).',
   West:'West Bengaluru — Purple/Green metro (live).'
 };
 function upcomingSchedule(p){
