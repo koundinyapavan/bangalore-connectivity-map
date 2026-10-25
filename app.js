@@ -35,13 +35,24 @@ function upcomingSchedule(p){
   if(!p.upcoming) return '';
   return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><span class="rn">Upcoming project</span> — usually sold on a construction-linked payment plan (pay in slabs as it is built), so you can enter before completion while the metro / suburban-rail / ring-road network matures around it.</div>';
 }
+const METRO_STATUS={op:'running',uc:'under construction',pl:'planned'};
+function nearestMetro(p){
+  const here=L.latLng(p.lat,p.lng), best={};
+  METRO.forEach(l=>l.pts.forEach(s=>{
+    const k=l.status==='op'?'op':'up', d=here.distanceTo(L.latLng(s[1],s[2]));
+    if(!best[k]||d<best[k].d||(d===best[k].d&&l.status==='uc'))best[k]={d:d,stn:s[0],line:l.name.replace(/ \(.*\)$/,''),status:l.status};
+  }));
+  const row=(label,b)=>b?'<div>'+label+' <b>'+b.stn+'</b> ('+b.line+(b.status!=='op'?', '+METRO_STATUS[b.status]:'')+') — '+(b.d/1000).toFixed(1)+' km</div>':'';
+  return '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Nearest metro</b> <small>(straight-line)</small>'+row('Running:',best.op)+row('Upcoming:',best.up)+'</div>';
+}
 function popup(p){
   const st=p.status==='uc'?'<span class="pill uc">Under construction</span>':'<span class="pill op">Ready / resale</span>';
-  const geo=p.geo==='verified'?'<span style="color:#2ec27e">GPS-verified (site visit)</span>':p.geo==='geocoded'?'<span style="color:#7fbfff">geocoded via Google Places (project-level)</span>':'<span style="color:#e6b800">approx (locality-level)</span>';
+  const geo=p.geo==='verified'?'<span style="color:#2ec27e">GPS-verified (site visit)</span>':p.geo==='osm'?'<span style="color:#7fbfff">OpenStreetMap project footprint (Oct 2026)</span>':p.geo==='geocoded'?'<span style="color:#7fbfff">geocoded via Google Places (project-level)</span>':'<span style="color:#e6b800">approx (locality-level)</span>';
   return '<b>'+p.name+'</b> '+(p.upcoming?'<span class="rn">★</span>':'')+'<br><small>'+p.dev+' · '+p.corr+' · '+p.area+'</small>'+
     '<div style="margin-top:4px">'+cap(p.type)+' · '+p.config+'</div>'+
     '<div>Price <b>₹'+p.min+'–'+p.max+' Cr</b> · '+st+'</div>'+
     '<div><b>Completion:</b> '+p.poss+'</div>'+
+    nearestMetro(p)+
     '<div style="margin-top:5px;border-top:1px solid #333;padding-top:4px"><b>Transit (by ~2030)</b><br>'+(CORR_TRANSIT[p.corr]||'')+'</div>'+
     '<div style="margin-top:4px"><small>Pin: '+geo+' — verify exact plot</small></div>'+
     upcomingSchedule(p);
