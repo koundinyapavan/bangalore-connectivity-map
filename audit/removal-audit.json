@@ -1,0 +1,4737 @@
+[
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Park Grove (Residences)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Park Grove"
+    ],
+    "current_map_names": [
+      "Prestige Park Grove"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.019068,
+        "before_expansion": 13.015728
+      },
+      "lng": {
+        "pr_base": 77.757448,
+        "before_expansion": 77.754
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "The Willows @ Park Grove",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Park Grove - The Willows"
+    ],
+    "current_map_names": [
+      "Prestige Park Grove - The Willows"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige White Meadows",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige White Meadows"
+    ],
+    "current_map_names": [
+      "Prestige White Meadows"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Lakeside Habitat",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Lakeside Habitat"
+    ],
+    "current_map_names": [
+      "Prestige Lakeside Habitat"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.930858,
+        "before_expansion": 12.93152
+      },
+      "lng": {
+        "pr_base": 77.738085,
+        "before_expansion": 77.734439
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Serenity Shores",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Serenity Shores"
+    ],
+    "current_map_names": [
+      "Prestige Serenity Shores"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Raintree Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Raintree Park"
+    ],
+    "current_map_names": [
+      "Prestige Raintree Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.95332,
+        "before_expansion": 12.95429
+      },
+      "lng": {
+        "pr_base": 77.745464,
+        "before_expansion": 77.748456
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Rosewood (Raintree Ph3)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Prestige Rosewood (Raintree Ph3)"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.95332,
+        "before_expansion": 12.955194
+      },
+      "lng": {
+        "pr_base": 77.745464,
+        "before_expansion": 77.752039
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Avalon Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Avalon Park"
+    ],
+    "current_map_names": [
+      "Prestige City - Avalon Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Eden Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Eden Park"
+    ],
+    "current_map_names": [
+      "Prestige City - Eden Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Meridian Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Meridian Park"
+    ],
+    "current_map_names": [
+      "Prestige City - Meridian Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Eaton Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Eaton Park"
+    ],
+    "current_map_names": [
+      "Prestige City - Eaton Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Fernvale",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Fernvale"
+    ],
+    "current_map_names": [
+      "Prestige City - Fernvale"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Aspen Greens",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Aspen Greens"
+    ],
+    "current_map_names": [
+      "Prestige City - Aspen Greens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige City - Great Acres",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige City - Great Acres"
+    ],
+    "current_map_names": [
+      "Prestige City - Great Acres"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Waterford",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Waterford"
+    ],
+    "current_map_names": [
+      "Prestige Waterford"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Shantiniketan",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Shantiniketan"
+    ],
+    "current_map_names": [
+      "Prestige Shantiniketan"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Sanctuary",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Sanctuary"
+    ],
+    "current_map_names": [
+      "Prestige Sanctuary"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Dew Drops",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Dew Drops"
+    ],
+    "current_map_names": [
+      "Prestige Dew Drops"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Golfshire",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Golfshire"
+    ],
+    "current_map_names": [
+      "Prestige Golfshire"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.308073,
+        "before_expansion": 13.312175
+      },
+      "lng": {
+        "pr_base": 77.697484,
+        "before_expansion": 77.690243
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Finsbury Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Finsbury Park"
+    ],
+    "current_map_names": [
+      "Prestige Finsbury Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Southern Star",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Southern Star"
+    ],
+    "current_map_names": [
+      "Prestige Southern Star"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Suncrest",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Suncrest"
+    ],
+    "current_map_names": [
+      "Prestige Suncrest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Falcon City",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Falcon City"
+    ],
+    "current_map_names": [
+      "Prestige Falcon City"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Kingfisher Towers",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Kingfisher Towers"
+    ],
+    "current_map_names": [
+      "Prestige Kingfisher Towers"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Leela Residences",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Leela Residences"
+    ],
+    "current_map_names": [
+      "Prestige Leela Residences"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Neopolis",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Neopolis"
+    ],
+    "current_map_names": [
+      "Sobha Neopolis"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.93357,
+        "before_expansion": 12.932433
+      },
+      "lng": {
+        "pr_base": 77.716604,
+        "before_expansion": 77.714238
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Altair",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Altair"
+    ],
+    "current_map_names": [
+      "Sobha Altair"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha OneWorld",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha OneWorld"
+    ],
+    "current_map_names": [
+      "Sobha OneWorld"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Galera",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Galera"
+    ],
+    "current_map_names": [
+      "Sobha Galera"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Royal Pavilion",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Royal Pavilion"
+    ],
+    "current_map_names": [
+      "Sobha Royal Pavilion"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Dream Acres",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Dream Acres"
+    ],
+    "current_map_names": [
+      "Sobha Dream Acres"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.93854,
+        "before_expansion": 12.936692
+      },
+      "lng": {
+        "pr_base": 77.720212,
+        "before_expansion": 77.722849
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Dream Gardens",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Dream Gardens"
+    ],
+    "current_map_names": [
+      "Sobha Dream Gardens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Oakshire",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Oakshire"
+    ],
+    "current_map_names": [
+      "Sobha Oakshire"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha HRC Pristine",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha HRC Pristine"
+    ],
+    "current_map_names": [
+      "Sobha HRC Pristine"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Lifestyle Legacy",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Lifestyle Legacy"
+    ],
+    "current_map_names": [
+      "Sobha Lifestyle Legacy"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha City (Athena)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha City"
+    ],
+    "current_map_names": [
+      "Sobha City"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.077258,
+        "before_expansion": 13.07628
+      },
+      "lng": {
+        "pr_base": 77.634749,
+        "before_expansion": 77.638686
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Town Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Town Park"
+    ],
+    "current_map_names": [
+      "Sobha Town Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Arena",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Arena"
+    ],
+    "current_map_names": [
+      "Sobha Arena"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Indraprastha",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Indraprastha"
+    ],
+    "current_map_names": [
+      "Sobha Indraprastha"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Cornerstone Utopia",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Cornerstone Utopia"
+    ],
+    "current_map_names": [
+      "Brigade Cornerstone Utopia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.934569,
+        "before_expansion": 12.931254
+      },
+      "lng": {
+        "pr_base": 77.743866,
+        "before_expansion": 77.745581
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Avalon",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Avalon"
+    ],
+    "current_map_names": [
+      "Brigade Avalon"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Sanctuary",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Sanctuary"
+    ],
+    "current_map_names": [
+      "Brigade Sanctuary"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.895062,
+        "before_expansion": 12.894516
+      },
+      "lng": {
+        "pr_base": 77.749062,
+        "before_expansion": 77.751376
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Cosmopolis",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Cosmopolis"
+    ],
+    "current_map_names": [
+      "Brigade Cosmopolis"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Exotica",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Exotica"
+    ],
+    "current_map_names": [
+      "Brigade Exotica"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Lakecrest",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Lakecrest"
+    ],
+    "current_map_names": [
+      "Brigade Lakecrest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Citrine",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Citrine"
+    ],
+    "current_map_names": [
+      "Brigade Citrine"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Belvedere",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Belvedere"
+    ],
+    "current_map_names": [
+      "Brigade Belvedere"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Orchards",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Orchards"
+    ],
+    "current_map_names": [
+      "Brigade Orchards"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.235271,
+        "before_expansion": 13.230385
+      },
+      "lng": {
+        "pr_base": 77.722443,
+        "before_expansion": 77.722999
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Eternia",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Eternia"
+    ],
+    "current_map_names": [
+      "Brigade Eternia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Insignia",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Insignia"
+    ],
+    "current_map_names": [
+      "Brigade Insignia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade El Dorado",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade El Dorado"
+    ],
+    "current_map_names": [
+      "Brigade El Dorado"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Northridge",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Northridge"
+    ],
+    "current_map_names": [
+      "Brigade Northridge"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Valencia",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Valencia"
+    ],
+    "current_map_names": [
+      "Brigade Valencia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.805023,
+        "before_expansion": 12.803042
+      },
+      "lng": {
+        "pr_base": 77.699684,
+        "before_expansion": 77.698503
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Meadows",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Meadows"
+    ],
+    "current_map_names": [
+      "Brigade Meadows"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Gateway",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Gateway"
+    ],
+    "current_map_names": [
+      "Brigade Gateway"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Woodscapes",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Woodscapes"
+    ],
+    "current_map_names": [
+      "Godrej Woodscapes"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.047076,
+        "before_expansion": 13.048991
+      },
+      "lng": {
+        "pr_base": 77.750164,
+        "before_expansion": 77.751867
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Park Retreat",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Park Retreat"
+    ],
+    "current_map_names": [
+      "Godrej Park Retreat"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Regent Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Regent Park"
+    ],
+    "current_map_names": [
+      "Godrej Regent Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Splendour",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Splendour"
+    ],
+    "current_map_names": [
+      "Godrej Splendour"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Reserve",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Reserve"
+    ],
+    "current_map_names": [
+      "Godrej Reserve"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Ananda",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Ananda"
+    ],
+    "current_map_names": [
+      "Godrej Ananda"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Royale Woods",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Royale Woods"
+    ],
+    "current_map_names": [
+      "Godrej Royale Woods"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Eternity",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Eternity"
+    ],
+    "current_map_names": [
+      "Godrej Eternity"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Sound of Water",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Sound of Water"
+    ],
+    "current_map_names": [
+      "Purva Sound of Water"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Smiling Willows",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Smiling Willows"
+    ],
+    "current_map_names": [
+      "Purva Smiling Willows"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Meraki",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Meraki"
+    ],
+    "current_map_names": [
+      "Purva Meraki"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Zenium",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Zenium"
+    ],
+    "current_map_names": [
+      "Purva Zenium"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Aerocity",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Aerocity"
+    ],
+    "current_map_names": [
+      "Purva Aerocity"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Atmosphere",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Atmosphere"
+    ],
+    "current_map_names": [
+      "Purva Atmosphere"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.064856,
+        "before_expansion": 13.063575
+      },
+      "lng": {
+        "pr_base": 77.633852,
+        "before_expansion": 77.636329
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Eminora",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Purva Eminora"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.865,
+        "before_expansion": 12.872
+      },
+      "lng": {
+        "pr_base": 77.545,
+        "before_expansion": 77.542
+      }
+    }
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Aurum",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Purva Aurum"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Park Hill",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Park Hill"
+    ],
+    "current_map_names": [
+      "Purva Park Hill"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Provident",
+    "original_name": "Provident Park Square",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Provident Park Square"
+    ],
+    "current_map_names": [
+      "Provident Park Square"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Provident",
+    "original_name": "Provident Sunworth",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Provident Sunworth"
+    ],
+    "current_map_names": [
+      "Provident Sunworth"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.883517,
+        "before_expansion": 12.881277
+      },
+      "lng": {
+        "pr_base": 77.469266,
+        "before_expansion": 77.470317
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Provident",
+    "original_name": "Provident Ecopolitan",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Provident Ecopolitan"
+    ],
+    "current_map_names": [
+      "Provident Ecopolitan"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Boulevard",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Boulevard"
+    ],
+    "current_map_names": [
+      "Embassy Boulevard"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Springs",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Springs"
+    ],
+    "current_map_names": [
+      "Embassy Springs"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Edge",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Edge"
+    ],
+    "current_map_names": [
+      "Embassy Edge"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Grove",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Grove"
+    ],
+    "current_map_names": [
+      "Embassy Grove"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Lake Terraces",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Lake Terraces"
+    ],
+    "current_map_names": [
+      "Embassy Lake Terraces"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Pristine",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Pristine"
+    ],
+    "current_map_names": [
+      "Embassy Pristine"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Aqua Vista",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Aqua Vista"
+    ],
+    "current_map_names": [
+      "Sattva Aqua Vista"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva City / Park Cubix",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Sattva City / Park Cubix"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Vasanta Skye",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Vasanta Skye"
+    ],
+    "current_map_names": [
+      "Sattva Vasanta Skye"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Greenage",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Greenage"
+    ],
+    "current_map_names": [
+      "Sattva Greenage"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE Pursuit of a Radical Rhapsody",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Pursuit of a Radical Rhapsody"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE Windmills of Your Mind",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Windmills of Your Mind"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE In That Quiet Earth",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "In That Quiet Earth"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE After The Rain",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "After The Rain"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE Down by the Water",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Down by the Water"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE Tangled Up in Green",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Tangled Up in Green"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Total Environment",
+    "original_name": "TE Magic Faraway Tree",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Magic Faraway Tree"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Marq",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Marq"
+    ],
+    "current_map_names": [
+      "Assetz Marq"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Bloom & Dell",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Bloom & Dell"
+    ],
+    "current_map_names": [
+      "Assetz Bloom & Dell"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Sun & Sanctum",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Sun & Sanctum"
+    ],
+    "current_map_names": [
+      "Assetz Sun & Sanctum"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Soul & Soil",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Soul & Soil"
+    ],
+    "current_map_names": [
+      "Assetz Soul & Soil"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz 63 East / Leaves & Lives",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Assetz 63 East / Leaves & Lives"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Bhartiya City (Nikoo Homes)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Bhartiya City (Nikoo Homes)"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.085279,
+        "before_expansion": 13.082065
+      },
+      "lng": {
+        "pr_base": 77.644533,
+        "before_expansion": 77.641232
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Karle",
+    "original_name": "Karle Town Centre (Zenith)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Karle Zenith Residences"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Phoenix",
+    "original_name": "Phoenix One Bangalore West / Kessaku",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Phoenix One Bangalore West / Kessaku"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "L and T Realty",
+    "original_name": "L&T Raintree Boulevard",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "L&T Raintree Boulevard"
+    ],
+    "current_map_names": [
+      "L&T Raintree Boulevard"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "L and T Realty",
+    "original_name": "L&T Jakkur (Chokkanahalli Lake)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "L&T Jakkur (Chokkanahalli Lake)"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Birla Estates",
+    "original_name": "Birla Trimaya",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Birla Trimaya"
+    ],
+    "current_map_names": [
+      "Birla Trimaya"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.187355,
+        "before_expansion": 13.189357
+      },
+      "lng": {
+        "pr_base": 77.667747,
+        "before_expansion": 77.669935
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Birla Estates",
+    "original_name": "Birla Ojasvi",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Birla Ojasvi"
+    ],
+    "current_map_names": [
+      "Birla Ojasvi"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.907058,
+        "before_expansion": 12.907073
+      },
+      "lng": {
+        "pr_base": 77.505243,
+        "before_expansion": 77.507819
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Birla Estates",
+    "original_name": "Birla Evara",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Birla Evara"
+    ],
+    "current_map_names": [
+      "Birla Evara"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.885123,
+        "before_expansion": 12.881838
+      },
+      "lng": {
+        "pr_base": 77.703991,
+        "before_expansion": 77.701039
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Mirabelle",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lodha Mirabelle"
+    ],
+    "current_map_names": [
+      "Lodha Mirabelle"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Azur",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lodha Azur"
+    ],
+    "current_map_names": [
+      "Lodha Azur"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Fiorenza",
+    "in_pr_base": true,
+    "in_pre_expansion": false,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [],
+    "outcome": "Excluded wrong-city, retained in catalogue",
+    "exclusion_source": "https://www.lodhagroup.com/projects/residential-property-in-goregaon/lodha-fiorenza/location",
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Mahindra",
+    "original_name": "Mahindra Zen",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Mahindra Zen"
+    ],
+    "current_map_names": [
+      "Mahindra Zen"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Mahindra",
+    "original_name": "Mahindra Blossom",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Mahindra Blossom"
+    ],
+    "current_map_names": [
+      "Mahindra Blossom"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Tata Housing",
+    "original_name": "Tata Carnatica (Varnam/Carnasa)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Tata Carnatica (Varnam/Carnasa)"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Shapoorji Pallonji",
+    "original_name": "Shapoorji Parkwest",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Shapoorji Parkwest"
+    ],
+    "current_map_names": [
+      "Shapoorji Parkwest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Century",
+    "original_name": "Century Ethos",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Century Ethos"
+    ],
+    "current_map_names": [
+      "Century Ethos"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Century",
+    "original_name": "Century Wintersun",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Century Wintersun"
+    ],
+    "current_map_names": [
+      "Century Wintersun"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.231032,
+        "before_expansion": 13.229882
+      },
+      "lng": {
+        "pr_base": 77.550517,
+        "before_expansion": 77.552853
+      },
+      "area": {
+        "pr_base": "North Bangalore (verify)",
+        "before_expansion": "Doddaballapur Rd / Kasuvanahalli"
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Century",
+    "original_name": "Century Immencity (Astoria)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Century Immencity (Astoria)"
+    ],
+    "current_map_names": [
+      "Century Immencity (Astoria)"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Century",
+    "original_name": "Century Central",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Century Central"
+    ],
+    "current_map_names": [
+      "Century Central"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "House of Hiranandani",
+    "original_name": "House of Hiranandani",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "House of Hiranandani Devanahalli"
+    ],
+    "current_map_names": [
+      "House of Hiranandani Devanahalli"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Palm Retreat / Lakefront",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Adarsh Palm Retreat / Lakefront"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.918467,
+        "before_expansion": 12.919821
+      },
+      "lng": {
+        "pr_base": 77.682779,
+        "before_expansion": 77.691624
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Welkin Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Welkin Park"
+    ],
+    "current_map_names": [
+      "Adarsh Welkin Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.872596,
+        "before_expansion": 12.871362
+      },
+      "lng": {
+        "pr_base": 77.692036,
+        "before_expansion": 77.685923
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Welkin Park Villas",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Welkin Park Villas"
+    ],
+    "current_map_names": [
+      "Adarsh Welkin Park Villas"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Palm Meadows",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Palm Meadows"
+    ],
+    "current_map_names": [
+      "Adarsh Palm Meadows"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Stratuss",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Stratuss"
+    ],
+    "current_map_names": [
+      "Adarsh Stratuss"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Savana",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Savana"
+    ],
+    "current_map_names": [
+      "Adarsh Savana"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.206952,
+        "before_expansion": 13.208752
+      },
+      "lng": {
+        "pr_base": 77.603541,
+        "before_expansion": 77.599913
+      },
+      "area": {
+        "pr_base": "Off Kanakapura",
+        "before_expansion": "Chapparkallu Rd / Devanahalli"
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Nambiar",
+    "original_name": "Nambiar Bellezea",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nambiar Bellezea"
+    ],
+    "current_map_names": [
+      "Nambiar Bellezea"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.845012,
+        "before_expansion": 12.842928
+      },
+      "lng": {
+        "pr_base": 77.725084,
+        "before_expansion": 77.724042
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Nambiar",
+    "original_name": "Nambiar Ellegenza",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nambiar Ellegenza"
+    ],
+    "current_map_names": [
+      "Nambiar Ellegenza"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Nambiar",
+    "original_name": "Nambiar Bannerghatta",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nambiar Bannerghatta"
+    ],
+    "current_map_names": [
+      "Nambiar Bannerghatta"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SNN",
+    "original_name": "SNN Raj Viviente",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SNN Raj Viviente"
+    ],
+    "current_map_names": [
+      "SNN Raj Viviente"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SNN",
+    "original_name": "SNN Clermont",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SNN Clermont"
+    ],
+    "current_map_names": [
+      "SNN Clermont"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Folium",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Folium"
+    ],
+    "current_map_names": [
+      "Sumadhura Folium"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura The Olympus",
+    "in_pr_base": true,
+    "in_pre_expansion": false,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [],
+    "outcome": "Excluded wrong-city, retained in catalogue",
+    "exclusion_source": "https://sumadhuragroup.com/residential/hyderabad/the-olympus",
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Elysium",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Elysium"
+    ],
+    "current_map_names": [
+      "Sumadhura Elysium"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Abhee",
+    "original_name": "Abhee Silicon Shine",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Abhee Silicon Shine"
+    ],
+    "current_map_names": [
+      "Abhee Silicon Shine"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Habitat",
+    "original_name": "Habitat Iluminar",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Habitat Iluminar"
+    ],
+    "current_map_names": [
+      "Habitat Iluminar"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "area": {
+        "pr_base": "Whitefield",
+        "before_expansion": "Mylasandra / Kengeri (Mysore Rd)"
+      }
+    }
+  },
+  {
+    "builder": "Rohan",
+    "original_name": "Rohan Upavan",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Rohan Upavan"
+    ],
+    "current_map_names": [
+      "Rohan Upavan"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Rohan",
+    "original_name": "Rohan Ekanta",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Rohan Ekanta"
+    ],
+    "current_map_names": [
+      "Rohan Ekanta"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "area": {
+        "pr_base": "Kanakapura / Uttarahalli",
+        "before_expansion": "Varthur / Gunjur (RERA: Kyalasanahalli)"
+      }
+    }
+  },
+  {
+    "builder": "Concorde",
+    "original_name": "Concorde Abode 99",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Concorde Abode 99"
+    ],
+    "current_map_names": [
+      "Concorde Abode 99"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Concorde",
+    "original_name": "Concorde Napa Valley",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Concorde Napa Valley"
+    ],
+    "current_map_names": [
+      "Concorde Napa Valley"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.787248,
+        "before_expansion": 12.785905
+      },
+      "lng": {
+        "pr_base": 77.51207,
+        "before_expansion": 77.515199
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Mana",
+    "original_name": "Mana Dale / Capitol",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Mana Dale / Capitol"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 12.900761,
+        "before_expansion": 12.886962
+      },
+      "lng": {
+        "pr_base": 77.703293,
+        "before_expansion": 77.706887
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "Mana",
+    "original_name": "Mana Foresta",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Mana Foresta"
+    ],
+    "current_map_names": [
+      "Mana Foresta"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DSR",
+    "original_name": "DSR Parkway",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "DSR Parkway"
+    ],
+    "current_map_names": [
+      "DSR Parkway"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Goyal",
+    "original_name": "Goyal Orchid",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Goyal Orchid"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "lat": {
+        "pr_base": 13.08663,
+        "before_expansion": 13.090226
+      },
+      "lng": {
+        "pr_base": 77.63411,
+        "before_expansion": 77.634347
+      },
+      "geo": {
+        "pr_base": "geocoded",
+        "before_expansion": "osm"
+      }
+    }
+  },
+  {
+    "builder": "NCC Urban",
+    "original_name": "NCC Urban (Aster Park)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "NCC Aster Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {
+      "area": {
+        "pr_base": "Whitefield",
+        "before_expansion": "Yelahanka (Major Sandeep Unnikrishnan Rd)"
+      }
+    }
+  },
+  {
+    "builder": "Casagrand",
+    "original_name": "Casagrand Aquene",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Casagrand Aquene"
+    ],
+    "current_map_names": [
+      "Casagrand Aquene"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Arvind",
+    "original_name": "Arvind Sylva / Orchards",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Arvind Sylva / Orchards"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Reliaable",
+    "original_name": "Reliaable Developers",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Reliaable Developers"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sizzle",
+    "original_name": "Sizzle Properties",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Sizzle Properties"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "L and T Realty",
+    "original_name": "L&T Elara Celestia",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "L&T Elara Celestia"
+    ],
+    "current_map_names": [
+      "L&T Elara Celestia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Woods",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Woods"
+    ],
+    "current_map_names": [
+      "Godrej Woods"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Astra",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy Astra"
+    ],
+    "current_map_names": [
+      "Embassy Astra"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Avaline",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Aveline"
+    ],
+    "current_map_names": [
+      "Godrej Aveline"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy Knowledge Park",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Embassy Knowledge Park"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Mizu & Ki (Codename Paradise)",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Mizu & Ki"
+    ],
+    "current_map_names": [
+      "Assetz Mizu & Ki"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva La Vita",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva La Vita"
+    ],
+    "current_map_names": [
+      "Sattva La Vita"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Tranquille",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Tranquille"
+    ],
+    "current_map_names": [
+      "Adarsh Tranquille"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Greens",
+    "in_pr_base": true,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Greens"
+    ],
+    "current_map_names": [
+      "Adarsh Greens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Fiorana (Sadahalli)",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Lodha Fiorana (Sadahalli)"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "2getherments",
+    "original_name": "2G Tula",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "2G Tula"
+    ],
+    "current_map_names": [
+      "2G Tula"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Palm Retreat Mayberry",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Palm Retreat Mayberry"
+    ],
+    "current_map_names": [
+      "Adarsh Palm Retreat Mayberry"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Adarsh",
+    "original_name": "Adarsh Park Heights",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Adarsh Park Heights"
+    ],
+    "current_map_names": [
+      "Adarsh Park Heights"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Address Maker",
+    "original_name": "The Grand Strand Address",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "The Grand Strand Address"
+    ],
+    "current_map_names": [
+      "The Grand Strand Address"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Akme",
+    "original_name": "Akme Ballet",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Akme Ballet"
+    ],
+    "current_map_names": [
+      "Akme Ballet"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Alembic",
+    "original_name": "Alembic Cloud Forest",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Alembic Cloud Forest"
+    ],
+    "current_map_names": [
+      "Alembic Cloud Forest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Alembic",
+    "original_name": "Alembic Urban Forest",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Alembic Urban Forest"
+    ],
+    "current_map_names": [
+      "Alembic Urban Forest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Alpine",
+    "original_name": "Alpine Eco",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Alpine Eco"
+    ],
+    "current_map_names": [
+      "Alpine Eco"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Alpine",
+    "original_name": "Alpine Viva",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Alpine Viva"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Aratt",
+    "original_name": "Aratt Premier",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Aratt Premier"
+    ],
+    "current_map_names": [
+      "Aratt Premier"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz 66 & Shibui",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz 66 & Shibui"
+    ],
+    "current_map_names": [
+      "Assetz 66 & Shibui"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Mizumi Reserve",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Mizumi Reserve"
+    ],
+    "current_map_names": [
+      "Assetz Mizumi Reserve"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Soho & Sky",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Soho & Sky"
+    ],
+    "current_map_names": [
+      "Assetz Soho & Sky"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Sora & Saki",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Sora & Saki"
+    ],
+    "current_map_names": [
+      "Assetz Sora & Saki"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Assetz",
+    "original_name": "Assetz Trees & Tandem",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Assetz Trees & Tandem"
+    ],
+    "current_map_names": [
+      "Assetz Trees & Tandem"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes 6",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nikoo Homes 6"
+    ],
+    "current_map_names": [
+      "Nikoo Homes 6"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes 7 - Garden Estate",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Nikoo Homes 7 - Garden Estate"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes 8 - Garden Enclave",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Nikoo Homes 8 - Garden Enclave"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes I",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nikoo Homes I"
+    ],
+    "current_map_names": [
+      "Nikoo Homes I"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes II",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nikoo Homes II"
+    ],
+    "current_map_names": [
+      "Nikoo Homes II"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes IV",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nikoo Homes IV"
+    ],
+    "current_map_names": [
+      "Nikoo Homes IV"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes V",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Nikoo Homes V"
+    ],
+    "current_map_names": [
+      "Nikoo Homes V"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bhartiya",
+    "original_name": "Nikoo Homes 9 Alpine - Bhartiya Garden Hill",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Nikoo Homes 9 Alpine - Bhartiya Garden Hill"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bren",
+    "original_name": "Bren Aspera",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Bren Aspera"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "Felicity",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Felicity"
+    ],
+    "current_map_names": [
+      "Felicity"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "Lagos",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lagos"
+    ],
+    "current_map_names": [
+      "Lagos"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "New Dawn",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "New Dawn"
+    ],
+    "current_map_names": [
+      "New Dawn"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "Solcrest",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Solcrest"
+    ],
+    "current_map_names": [
+      "Solcrest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "The Earthscape",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "The Earthscape"
+    ],
+    "current_map_names": [
+      "The Earthscape"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "original_name": "Wonderwall",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Wonderwall"
+    ],
+    "current_map_names": [
+      "Wonderwall"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Golden Triangle",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Golden Triangle"
+    ],
+    "current_map_names": [
+      "Brigade Golden Triangle"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Granada",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Granada"
+    ],
+    "current_map_names": [
+      "Brigade Granada"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Lakefront",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Lakefront"
+    ],
+    "current_map_names": [
+      "Brigade Lakefront"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Brigade",
+    "original_name": "Brigade Metropolis",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Brigade Metropolis"
+    ],
+    "current_map_names": [
+      "Brigade Metropolis"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Candeur",
+    "original_name": "Candeur Carlisle",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Candeur Carlisle"
+    ],
+    "current_map_names": [
+      "Candeur Carlisle"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Candeur",
+    "original_name": "Candeur Landmark",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Candeur Landmark"
+    ],
+    "current_map_names": [
+      "Candeur Landmark"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Candeur",
+    "original_name": "Candeur Novo Gardenia",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Candeur Novo Gardenia"
+    ],
+    "current_map_names": [
+      "Candeur Novo Gardenia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Candeur",
+    "original_name": "Candeur Signature",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Candeur Signature"
+    ],
+    "current_map_names": [
+      "Candeur Signature"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Casagrand",
+    "original_name": "Casagrand Keatsway",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Casagrand Keatsway"
+    ],
+    "current_map_names": [
+      "Casagrand Keatsway"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Casagrand",
+    "original_name": "Casagrand Lorenza",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Casagrand Lorenza"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Casagrand",
+    "original_name": "Casagrand Orlena",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Casagrand Orlena"
+    ],
+    "current_map_names": [
+      "Casagrand Orlena"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Century",
+    "original_name": "Century Mirai",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Century Mirai"
+    ],
+    "current_map_names": [
+      "Century Mirai"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DNR",
+    "original_name": "DNR Arista",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "DNR Arista"
+    ],
+    "current_map_names": [
+      "DNR Arista"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DNR",
+    "original_name": "DNR Atmosphere",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "DNR Atmosphere"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DNR",
+    "original_name": "DNR Casablanca",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "DNR Casablanca"
+    ],
+    "current_map_names": [
+      "DNR Casablanca"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DNR",
+    "original_name": "DNR Highline",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "DNR Highline"
+    ],
+    "current_map_names": [
+      "DNR Highline"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "DNR",
+    "original_name": "DNR Parklink",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "DNR Parklink"
+    ],
+    "current_map_names": [
+      "DNR Parklink"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Durga",
+    "original_name": "Durga Petals",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Durga Petals"
+    ],
+    "current_map_names": [
+      "Durga Petals"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Embassy",
+    "original_name": "Embassy East Avenue",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Embassy East Avenue"
+    ],
+    "current_map_names": [
+      "Embassy East Avenue"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Air",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Air"
+    ],
+    "current_map_names": [
+      "Godrej Air"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Air NXT",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Air NXT"
+    ],
+    "current_map_names": [
+      "Godrej Air NXT"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Athena",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Athena"
+    ],
+    "current_map_names": [
+      "Godrej Athena"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Lakeside Orchard",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Lakeside Orchard"
+    ],
+    "current_map_names": [
+      "Godrej Lakeside Orchard"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej MSR City",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej MSR City"
+    ],
+    "current_map_names": [
+      "Godrej MSR City"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej Tiara",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej Tiara"
+    ],
+    "current_map_names": [
+      "Godrej Tiara"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Godrej",
+    "original_name": "Godrej United",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Godrej United"
+    ],
+    "current_map_names": [
+      "Godrej United"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Gopalan",
+    "original_name": "Gopalan Celestial Greens",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Gopalan Celestial Greens"
+    ],
+    "current_map_names": [
+      "Gopalan Celestial Greens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Gopalan",
+    "original_name": "Gopalan Grandeur",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Gopalan Grandeur"
+    ],
+    "current_map_names": [
+      "Gopalan Grandeur"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Goyal",
+    "original_name": "Orchid Platinum",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Orchid Platinum"
+    ],
+    "current_map_names": [
+      "Orchid Platinum"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Habitat",
+    "original_name": "Habitat Eden Heights",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Habitat Eden Heights"
+    ],
+    "current_map_names": [
+      "Habitat Eden Heights"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Keerthi",
+    "original_name": "Keerthi Surya Shakthi Towers",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Keerthi Surya Shakti Towers"
+    ],
+    "current_map_names": [
+      "Keerthi Surya Shakti Towers"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Keya",
+    "original_name": "Keya Around the Life",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Keya Around the Life"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Elanza",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lodha Elanza"
+    ],
+    "current_map_names": [
+      "Lodha Elanza"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Haven",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lodha Haven"
+    ],
+    "current_map_names": [
+      "Lodha Haven"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Lodha",
+    "original_name": "Lodha Whitefield",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Lodha Whitefield"
+    ],
+    "current_map_names": [
+      "Lodha Whitefield"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Mahaveer",
+    "original_name": "Mahaveer Tuscan",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Mahaveer Tuscan"
+    ],
+    "current_map_names": [
+      "Mahaveer Tuscan"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "NCC Urban",
+    "original_name": "NCC Ivory Heights",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "NCC Urban Ivory Heights"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Camden Gardens",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Camden Gardens"
+    ],
+    "current_map_names": [
+      "Prestige Camden Gardens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Elm Park",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Elm Park"
+    ],
+    "current_map_names": [
+      "Prestige Elm Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Evergreen at Raintree Park",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Evergreen at Raintree Park"
+    ],
+    "current_map_names": [
+      "Prestige Evergreen at Raintree Park"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Glenbrook",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Glenbrook"
+    ],
+    "current_map_names": [
+      "Prestige Glenbrook"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Green Gables",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Green Gables"
+    ],
+    "current_map_names": [
+      "Prestige Green Gables"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Grove Hills",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Prestige Grove Hills"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Highland Hideaway",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Prestige Highland Hideaway"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Lavender Fields",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Lavender Fields"
+    ],
+    "current_map_names": [
+      "Prestige Lavender Fields"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Oakville",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Prestige Oakville"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Pine Forest",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Pine Forest"
+    ],
+    "current_map_names": [
+      "Prestige Pine Forest"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Prestige",
+    "original_name": "Prestige Somerville",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Prestige Somerville"
+    ],
+    "current_map_names": [
+      "Prestige Somerville"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Pride",
+    "original_name": "Pride Euphora",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Pride Euphora"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Fountain Square",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Fountain Square"
+    ],
+    "current_map_names": [
+      "Purva Fountain Square"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Midtown",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Midtown"
+    ],
+    "current_map_names": [
+      "Purva Midtown"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Riviera",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Riviera"
+    ],
+    "current_map_names": [
+      "Purva Riviera"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Puravankara",
+    "original_name": "Purva Whitehall",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Purva Whitehall"
+    ],
+    "current_map_names": [
+      "Purva Whitehall"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "RJ",
+    "original_name": "RJ Lake Gardenia",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "RJ Lake Gardenia"
+    ],
+    "current_map_names": [
+      "RJ Lake Gardenia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Rohan",
+    "original_name": "Rohan Avriti",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Rohan Avriti"
+    ],
+    "current_map_names": [
+      "Rohan Avriti"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Rohan",
+    "original_name": "Rohan Vasantha",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Rohan Vasantha"
+    ],
+    "current_map_names": [
+      "Rohan Vasantha"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Celesta",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Celesta"
+    ],
+    "current_map_names": [
+      "Sattva Celesta"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Divinity",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Divinity"
+    ],
+    "current_map_names": [
+      "Sattva Divinity"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Magnificia",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Magnificia"
+    ],
+    "current_map_names": [
+      "Sattva Magnificia"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Songbird",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Songbird"
+    ],
+    "current_map_names": [
+      "Sattva Songbird"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sattva",
+    "original_name": "Sattva Songbird Phase II",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sattva Songbird"
+    ],
+    "current_map_names": [
+      "Sattva Songbird"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SBR",
+    "original_name": "SBR One Residence",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SBR One Residence"
+    ],
+    "current_map_names": [
+      "SBR One Residence"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Shriram",
+    "original_name": "Shriram Greenfield",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Shriram Greenfield"
+    ],
+    "current_map_names": [
+      "Shriram Greenfield"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SJR",
+    "original_name": "SJR Vogue",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SJR Vogue"
+    ],
+    "current_map_names": [
+      "SJR Vogue"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Skylark",
+    "original_name": "Skylark Esta",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Skylark Esta"
+    ],
+    "current_map_names": [
+      "Skylark Esta"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SMR",
+    "original_name": "SMR Vinay Endeavour",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SMR Vinay Endeavour"
+    ],
+    "current_map_names": [
+      "SMR Vinay Endeavour"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "SMR",
+    "original_name": "SMR Vinay Galaxy",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "SMR Vinay Galaxy"
+    ],
+    "current_map_names": [
+      "SMR Vinay Galaxy"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Ayana",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Ayana"
+    ],
+    "current_map_names": [
+      "Sobha Ayana"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Iris",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Iris"
+    ],
+    "current_map_names": [
+      "Sobha Iris"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sobha",
+    "original_name": "Sobha Magnus",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sobha Magnus"
+    ],
+    "current_map_names": [
+      "Sobha Magnus"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sowparnika",
+    "original_name": "Sowparnika Indradhanush",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sowparnika Indradhanush"
+    ],
+    "current_map_names": [
+      "Sowparnika Indradhanush"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Shriram",
+    "original_name": "Sriram Samruddhi",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Shriram Samruddhi"
+    ],
+    "current_map_names": [
+      "Shriram Samruddhi"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Capitol Residences",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Capitol Residences"
+    ],
+    "current_map_names": [
+      "Sumadhura Capitol Residences"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Edition",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Edition"
+    ],
+    "current_map_names": [
+      "Sumadhura Edition"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Epitome",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Epitome"
+    ],
+    "current_map_names": [
+      "Sumadhura Epitome"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Nandanam",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Nandanam"
+    ],
+    "current_map_names": [
+      "Sumadhura Nandanam"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Sarang",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Sarang"
+    ],
+    "current_map_names": [
+      "Sumadhura Sarang"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Solace",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Sumadhura Solace"
+    ],
+    "current_map_names": [
+      "Sumadhura Solace"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Sumadhura",
+    "original_name": "Sumadhura Solea",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Sumadhura Solea"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trendsquares",
+    "original_name": "Trendsquares World of Gardens",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trendsquares World of Gardens"
+    ],
+    "current_map_names": [
+      "Trendsquares World of Gardens"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Bueno",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Trifecta Bueno"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Esplanade",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Esplanade"
+    ],
+    "current_map_names": [
+      "Trifecta Esplanade"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Joli",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Joli"
+    ],
+    "current_map_names": [
+      "Trifecta Joli"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Retto",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Retto"
+    ],
+    "current_map_names": [
+      "Trifecta Retto"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Sollievo",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Sollievo"
+    ],
+    "current_map_names": [
+      "Trifecta Sollievo"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Starlight",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Starlight"
+    ],
+    "current_map_names": [
+      "Trifecta Starlight"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Vanto",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Trifecta Vanto"
+    ],
+    "current_map_names": [
+      "Trifecta Vanto"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Veranza",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Trifecta Veranza"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Verde en Resplandor",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Trifecta Verde en Resplandor"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Trifecta",
+    "original_name": "Trifecta Verdure",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": true,
+    "published_expansion_names": [],
+    "current_map_names": [
+      "Trifecta Verdure"
+    ],
+    "outcome": "Restored with explicit review warning",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Vaswani",
+    "original_name": "Vaswani Exquisite",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Vaswani Exquisite"
+    ],
+    "current_map_names": [
+      "Vaswani Exquisite"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  },
+  {
+    "builder": "Vaswani",
+    "original_name": "Vaswani Starlight",
+    "in_pr_base": false,
+    "in_pre_expansion": true,
+    "missing_from_published_expansion": false,
+    "published_expansion_names": [
+      "Vaswani Starlight"
+    ],
+    "current_map_names": [
+      "Vaswani Starlight"
+    ],
+    "outcome": "Retained / restored, including aliases",
+    "exclusion_source": null,
+    "changes_before_expansion": {}
+  }
+]

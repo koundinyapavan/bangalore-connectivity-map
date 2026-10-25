@@ -64,3 +64,8 @@
     #controls{top:auto;bottom:8px}
     .leaflet-popup-content{width:210px!important}
   }
+  /* ---- per-line layer filters ---- */
+  .sublist{margin:0 0 4px 22px}
+  .sublist label{margin:2px 0;font-size:11px;color:var(--muted)}
+  .sublist label.off{opacity:.45}
+  .sublist .sw{width:16px;height:0;border-top:3px solid;flex:0 0 16px}

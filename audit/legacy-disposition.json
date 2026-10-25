@@ -1,0 +1,2210 @@
+[
+  {
+    "original_name": "Prestige Park Grove (Residences)",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Park Grove"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "The Willows @ Park Grove",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Park Grove - The Willows"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige White Meadows",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige White Meadows"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Lakeside Habitat",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Lakeside Habitat"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Serenity Shores",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Serenity Shores"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Raintree Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Raintree Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Rosewood (Raintree Ph3)",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Rosewood (Raintree Ph3)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Avalon Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Avalon Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Eden Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Eden Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Meridian Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Meridian Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Eaton Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Eaton Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Fernvale",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Fernvale"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Aspen Greens",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Aspen Greens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige City - Great Acres",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige City - Great Acres"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Waterford",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Waterford"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Shantiniketan",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Shantiniketan"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Sanctuary",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Sanctuary"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Dew Drops",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Dew Drops"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Golfshire",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Golfshire"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Finsbury Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Finsbury Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Southern Star",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Southern Star"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Suncrest",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Suncrest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Falcon City",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Falcon City"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Kingfisher Towers",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Kingfisher Towers"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Leela Residences",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Leela Residences"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Neopolis",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Neopolis"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Altair",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Altair"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha OneWorld",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha OneWorld"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Galera",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Galera"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Royal Pavilion",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Royal Pavilion"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Dream Acres",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Dream Acres"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Dream Gardens",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Dream Gardens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Oakshire",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Oakshire"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha HRC Pristine",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha HRC Pristine"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Lifestyle Legacy",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Lifestyle Legacy"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha City (Athena)",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha City"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Town Park",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Town Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Arena",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Arena"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Indraprastha",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Indraprastha"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Cornerstone Utopia",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Cornerstone Utopia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Avalon",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Avalon"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Sanctuary",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Sanctuary"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Cosmopolis",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Cosmopolis"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Exotica",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Exotica"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Lakecrest",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Lakecrest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Citrine",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Citrine"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Belvedere",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Belvedere"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Orchards",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Orchards"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Eternia",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Eternia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Insignia",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Insignia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade El Dorado",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade El Dorado"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Northridge",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Northridge"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Valencia",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Valencia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Meadows",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Meadows"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Gateway",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Gateway"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Woodscapes",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Woodscapes"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Park Retreat",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Park Retreat"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Regent Park",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Regent Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Splendour",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Splendour"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Reserve",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Reserve"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Ananda",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Ananda"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Royale Woods",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Royale Woods"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Eternity",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Eternity"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Sound of Water",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Sound of Water"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Smiling Willows",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Smiling Willows"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Meraki",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Meraki"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Zenium",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Zenium"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Aerocity",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Aerocity"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Atmosphere",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Atmosphere"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Eminora",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Eminora"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Aurum",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Aurum"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Park Hill",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Park Hill"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Provident Park Square",
+    "builder": "Provident",
+    "mapped_as": [
+      "Provident Park Square"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Provident Sunworth",
+    "builder": "Provident",
+    "mapped_as": [
+      "Provident Sunworth"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Provident Ecopolitan",
+    "builder": "Provident",
+    "mapped_as": [
+      "Provident Ecopolitan"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Boulevard",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Boulevard"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Springs",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Springs"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Edge",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Edge"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Grove",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Grove"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Lake Terraces",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Lake Terraces"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Pristine",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Pristine"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Aqua Vista",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Aqua Vista"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva City / Park Cubix",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva City / Park Cubix"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Vasanta Skye",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Vasanta Skye"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Greenage",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Greenage"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE Pursuit of a Radical Rhapsody",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "Pursuit of a Radical Rhapsody"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE Windmills of Your Mind",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "Windmills of Your Mind"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE In That Quiet Earth",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "In That Quiet Earth"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE After The Rain",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "After The Rain"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE Down by the Water",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "Down by the Water"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE Tangled Up in Green",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "Tangled Up in Green"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "TE Magic Faraway Tree",
+    "builder": "Total Environment",
+    "mapped_as": [
+      "Magic Faraway Tree"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Marq",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Marq"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Bloom & Dell",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Bloom & Dell"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Sun & Sanctum",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Sun & Sanctum"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Soul & Soil",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Soul & Soil"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz 63 East / Leaves & Lives",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz 63 East / Leaves & Lives"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Bhartiya City (Nikoo Homes)",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Bhartiya City (Nikoo Homes)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Karle Town Centre (Zenith)",
+    "builder": "Karle",
+    "mapped_as": [
+      "Karle Zenith Residences"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Phoenix One Bangalore West / Kessaku",
+    "builder": "Phoenix",
+    "mapped_as": [
+      "Phoenix One Bangalore West / Kessaku"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "L&T Raintree Boulevard",
+    "builder": "L and T Realty",
+    "mapped_as": [
+      "L&T Raintree Boulevard"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "L&T Jakkur (Chokkanahalli Lake)",
+    "builder": "L and T Realty",
+    "mapped_as": [
+      "L&T Jakkur (Chokkanahalli Lake)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Birla Trimaya",
+    "builder": "Birla Estates",
+    "mapped_as": [
+      "Birla Trimaya"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Birla Ojasvi",
+    "builder": "Birla Estates",
+    "mapped_as": [
+      "Birla Ojasvi"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Birla Evara",
+    "builder": "Birla Estates",
+    "mapped_as": [
+      "Birla Evara"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Mirabelle",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Mirabelle"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Azur",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Azur"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Fiorana (Sadahalli)",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Fiorana (Sadahalli)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Mahindra Zen",
+    "builder": "Mahindra",
+    "mapped_as": [
+      "Mahindra Zen"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Mahindra Blossom",
+    "builder": "Mahindra",
+    "mapped_as": [
+      "Mahindra Blossom"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Tata Carnatica (Varnam/Carnasa)",
+    "builder": "Tata Housing",
+    "mapped_as": [
+      "Tata Carnatica (Varnam/Carnasa)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Shapoorji Parkwest",
+    "builder": "Shapoorji Pallonji",
+    "mapped_as": [
+      "Shapoorji Parkwest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Century Ethos",
+    "builder": "Century",
+    "mapped_as": [
+      "Century Ethos"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Century Wintersun",
+    "builder": "Century",
+    "mapped_as": [
+      "Century Wintersun"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Century Immencity (Astoria)",
+    "builder": "Century",
+    "mapped_as": [
+      "Century Immencity (Astoria)"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Century Central",
+    "builder": "Century",
+    "mapped_as": [
+      "Century Central"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "House of Hiranandani",
+    "builder": "House of Hiranandani",
+    "mapped_as": [
+      "House of Hiranandani Devanahalli"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Palm Retreat / Lakefront",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Palm Retreat / Lakefront"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Welkin Park",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Welkin Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Welkin Park Villas",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Welkin Park Villas"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Palm Meadows",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Palm Meadows"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Stratuss",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Stratuss"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Savana",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Savana"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nambiar Bellezea",
+    "builder": "Nambiar",
+    "mapped_as": [
+      "Nambiar Bellezea"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nambiar Ellegenza",
+    "builder": "Nambiar",
+    "mapped_as": [
+      "Nambiar Ellegenza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nambiar Bannerghatta",
+    "builder": "Nambiar",
+    "mapped_as": [
+      "Nambiar Bannerghatta"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SNN Raj Viviente",
+    "builder": "SNN",
+    "mapped_as": [
+      "SNN Raj Viviente"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SNN Clermont",
+    "builder": "SNN",
+    "mapped_as": [
+      "SNN Clermont"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Folium",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Folium"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Elysium",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Elysium"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Abhee Silicon Shine",
+    "builder": "Abhee",
+    "mapped_as": [
+      "Abhee Silicon Shine"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Habitat Iluminar",
+    "builder": "Habitat",
+    "mapped_as": [
+      "Habitat Iluminar"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Rohan Upavan",
+    "builder": "Rohan",
+    "mapped_as": [
+      "Rohan Upavan"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Rohan Ekanta",
+    "builder": "Rohan",
+    "mapped_as": [
+      "Rohan Ekanta"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Concorde Abode 99",
+    "builder": "Concorde",
+    "mapped_as": [
+      "Concorde Abode 99"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Concorde Napa Valley",
+    "builder": "Concorde",
+    "mapped_as": [
+      "Concorde Napa Valley"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Mana Dale / Capitol",
+    "builder": "Mana",
+    "mapped_as": [
+      "Mana Dale / Capitol"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Mana Foresta",
+    "builder": "Mana",
+    "mapped_as": [
+      "Mana Foresta"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DSR Parkway",
+    "builder": "DSR",
+    "mapped_as": [
+      "DSR Parkway"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Goyal Orchid",
+    "builder": "Goyal",
+    "mapped_as": [
+      "Goyal Orchid"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "NCC Urban (Aster Park)",
+    "builder": "NCC Urban",
+    "mapped_as": [
+      "NCC Aster Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Casagrand Aquene",
+    "builder": "Casagrand",
+    "mapped_as": [
+      "Casagrand Aquene"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Arvind Sylva / Orchards",
+    "builder": "Arvind",
+    "mapped_as": [
+      "Arvind Sylva / Orchards"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Reliaable Developers",
+    "builder": "Reliaable",
+    "mapped_as": [
+      "Reliaable Developers"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sizzle Properties",
+    "builder": "Sizzle",
+    "mapped_as": [
+      "Sizzle Properties"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "L&T Elara Celestia",
+    "builder": "L and T Realty",
+    "mapped_as": [
+      "L&T Elara Celestia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Woods",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Woods"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Astra",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Astra"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Avaline",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Aveline"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy Knowledge Park",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy Knowledge Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Mizu & Ki (Codename Paradise)",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Mizu & Ki"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva La Vita",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva La Vita"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Tranquille",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Tranquille"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Greens",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Greens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "2G Tula",
+    "builder": "2getherments",
+    "mapped_as": [
+      "2G Tula"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Palm Retreat Mayberry",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Palm Retreat Mayberry"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Adarsh Park Heights",
+    "builder": "Adarsh",
+    "mapped_as": [
+      "Adarsh Park Heights"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "The Grand Strand Address",
+    "builder": "Address Maker",
+    "mapped_as": [
+      "The Grand Strand Address"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Akme Ballet",
+    "builder": "Akme",
+    "mapped_as": [
+      "Akme Ballet"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Alembic Cloud Forest",
+    "builder": "Alembic",
+    "mapped_as": [
+      "Alembic Cloud Forest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Alembic Urban Forest",
+    "builder": "Alembic",
+    "mapped_as": [
+      "Alembic Urban Forest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Alpine Eco",
+    "builder": "Alpine",
+    "mapped_as": [
+      "Alpine Eco"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Alpine Viva",
+    "builder": "Alpine",
+    "mapped_as": [
+      "Alpine Viva"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Aratt Premier",
+    "builder": "Aratt",
+    "mapped_as": [
+      "Aratt Premier"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz 66 & Shibui",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz 66 & Shibui"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Mizumi Reserve",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Mizumi Reserve"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Soho & Sky",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Soho & Sky"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Sora & Saki",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Sora & Saki"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Assetz Trees & Tandem",
+    "builder": "Assetz",
+    "mapped_as": [
+      "Assetz Trees & Tandem"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes 6",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes 6"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes 7 - Garden Estate",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes 7 - Garden Estate"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes 8 - Garden Enclave",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes 8 - Garden Enclave"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes I",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes I"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes II",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes II"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes IV",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes IV"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes V",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes V"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Nikoo Homes 9 Alpine - Bhartiya Garden Hill",
+    "builder": "Bhartiya",
+    "mapped_as": [
+      "Nikoo Homes 9 Alpine - Bhartiya Garden Hill"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Bren Aspera",
+    "builder": "Bren",
+    "mapped_as": [
+      "Bren Aspera"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Felicity",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "Felicity"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lagos",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "Lagos"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "New Dawn",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "New Dawn"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Solcrest",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "Solcrest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "The Earthscape",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "The Earthscape"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Wonderwall",
+    "builder": "Bricks & Milestones",
+    "mapped_as": [
+      "Wonderwall"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Golden Triangle",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Golden Triangle"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Granada",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Granada"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Lakefront",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Lakefront"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Brigade Metropolis",
+    "builder": "Brigade",
+    "mapped_as": [
+      "Brigade Metropolis"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Candeur Carlisle",
+    "builder": "Candeur",
+    "mapped_as": [
+      "Candeur Carlisle"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Candeur Landmark",
+    "builder": "Candeur",
+    "mapped_as": [
+      "Candeur Landmark"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Candeur Novo Gardenia",
+    "builder": "Candeur",
+    "mapped_as": [
+      "Candeur Novo Gardenia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Candeur Signature",
+    "builder": "Candeur",
+    "mapped_as": [
+      "Candeur Signature"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Casagrand Keatsway",
+    "builder": "Casagrand",
+    "mapped_as": [
+      "Casagrand Keatsway"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Casagrand Lorenza",
+    "builder": "Casagrand",
+    "mapped_as": [
+      "Casagrand Lorenza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Casagrand Orlena",
+    "builder": "Casagrand",
+    "mapped_as": [
+      "Casagrand Orlena"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Century Mirai",
+    "builder": "Century",
+    "mapped_as": [
+      "Century Mirai"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DNR Arista",
+    "builder": "DNR",
+    "mapped_as": [
+      "DNR Arista"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DNR Atmosphere",
+    "builder": "DNR",
+    "mapped_as": [
+      "DNR Atmosphere"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DNR Casablanca",
+    "builder": "DNR",
+    "mapped_as": [
+      "DNR Casablanca"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DNR Highline",
+    "builder": "DNR",
+    "mapped_as": [
+      "DNR Highline"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "DNR Parklink",
+    "builder": "DNR",
+    "mapped_as": [
+      "DNR Parklink"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Durga Petals",
+    "builder": "Durga",
+    "mapped_as": [
+      "Durga Petals"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Embassy East Avenue",
+    "builder": "Embassy",
+    "mapped_as": [
+      "Embassy East Avenue"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Air",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Air"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Air NXT",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Air NXT"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Athena",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Athena"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Lakeside Orchard",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Lakeside Orchard"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej MSR City",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej MSR City"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej Tiara",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej Tiara"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Godrej United",
+    "builder": "Godrej",
+    "mapped_as": [
+      "Godrej United"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Gopalan Celestial Greens",
+    "builder": "Gopalan",
+    "mapped_as": [
+      "Gopalan Celestial Greens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Gopalan Grandeur",
+    "builder": "Gopalan",
+    "mapped_as": [
+      "Gopalan Grandeur"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Orchid Platinum",
+    "builder": "Goyal",
+    "mapped_as": [
+      "Orchid Platinum"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Habitat Eden Heights",
+    "builder": "Habitat",
+    "mapped_as": [
+      "Habitat Eden Heights"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Keerthi Surya Shakthi Towers",
+    "builder": "Keerthi",
+    "mapped_as": [
+      "Keerthi Surya Shakti Towers"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Keya Around the Life",
+    "builder": "Keya",
+    "mapped_as": [
+      "Keya Around the Life"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Elanza",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Elanza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Haven",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Haven"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Lodha Whitefield",
+    "builder": "Lodha",
+    "mapped_as": [
+      "Lodha Whitefield"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Mahaveer Tuscan",
+    "builder": "Mahaveer",
+    "mapped_as": [
+      "Mahaveer Tuscan"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "NCC Ivory Heights",
+    "builder": "NCC Urban",
+    "mapped_as": [
+      "NCC Urban Ivory Heights"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Camden Gardens",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Camden Gardens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Elm Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Elm Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Evergreen at Raintree Park",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Evergreen at Raintree Park"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Glenbrook",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Glenbrook"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Green Gables",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Green Gables"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Grove Hills",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Grove Hills"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Highland Hideaway",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Highland Hideaway"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Lavender Fields",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Lavender Fields"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Oakville",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Oakville"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Pine Forest",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Pine Forest"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Prestige Somerville",
+    "builder": "Prestige",
+    "mapped_as": [
+      "Prestige Somerville"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Pride Euphora",
+    "builder": "Pride",
+    "mapped_as": [
+      "Pride Euphora"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Fountain Square",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Fountain Square"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Midtown",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Midtown"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Riviera",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Riviera"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Purva Whitehall",
+    "builder": "Puravankara",
+    "mapped_as": [
+      "Purva Whitehall"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "RJ Lake Gardenia",
+    "builder": "RJ",
+    "mapped_as": [
+      "RJ Lake Gardenia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Rohan Avriti",
+    "builder": "Rohan",
+    "mapped_as": [
+      "Rohan Avriti"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Rohan Vasantha",
+    "builder": "Rohan",
+    "mapped_as": [
+      "Rohan Vasantha"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Celesta",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Celesta"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Divinity",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Divinity"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Magnificia",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Magnificia"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Songbird",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Songbird"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sattva Songbird Phase II",
+    "builder": "Sattva",
+    "mapped_as": [
+      "Sattva Songbird"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SBR One Residence",
+    "builder": "SBR",
+    "mapped_as": [
+      "SBR One Residence"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Shriram Greenfield",
+    "builder": "Shriram",
+    "mapped_as": [
+      "Shriram Greenfield"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SJR Vogue",
+    "builder": "SJR",
+    "mapped_as": [
+      "SJR Vogue"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Skylark Esta",
+    "builder": "Skylark",
+    "mapped_as": [
+      "Skylark Esta"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SMR Vinay Endeavour",
+    "builder": "SMR",
+    "mapped_as": [
+      "SMR Vinay Endeavour"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "SMR Vinay Galaxy",
+    "builder": "SMR",
+    "mapped_as": [
+      "SMR Vinay Galaxy"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Ayana",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Ayana"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Iris",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Iris"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sobha Magnus",
+    "builder": "Sobha",
+    "mapped_as": [
+      "Sobha Magnus"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sowparnika Indradhanush",
+    "builder": "Sowparnika",
+    "mapped_as": [
+      "Sowparnika Indradhanush"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sriram Samruddhi",
+    "builder": "Shriram",
+    "mapped_as": [
+      "Shriram Samruddhi"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Capitol Residences",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Capitol Residences"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Edition",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Edition"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Epitome",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Epitome"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Nandanam",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Nandanam"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Sarang",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Sarang"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Solace",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Solace"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Sumadhura Solea",
+    "builder": "Sumadhura",
+    "mapped_as": [
+      "Sumadhura Solea"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trendsquares World of Gardens",
+    "builder": "Trendsquares",
+    "mapped_as": [
+      "Trendsquares World of Gardens"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Bueno",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Bueno"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Esplanade",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Esplanade"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Joli",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Joli"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Retto",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Retto"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Sollievo",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Sollievo"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Starlight",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Starlight"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Vanto",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Vanto"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Veranza",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Veranza"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Verde en Resplandor",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Verde en Resplandor"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Trifecta Verdure",
+    "builder": "Trifecta",
+    "mapped_as": [
+      "Trifecta Verdure"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Vaswani Exquisite",
+    "builder": "Vaswani",
+    "mapped_as": [
+      "Vaswani Exquisite"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  },
+  {
+    "original_name": "Vaswani Starlight",
+    "builder": "Vaswani",
+    "mapped_as": [
+      "Vaswani Starlight"
+    ],
+    "outcome": "retained / corrected (including explicit aliases)"
+  }
+]

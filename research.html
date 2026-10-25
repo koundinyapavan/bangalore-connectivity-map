@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Property catalogue and builder coverage — Bengaluru</title>
+  <link rel="stylesheet" href="research.css">
+  <script src="property-utils.js" defer></script>
+  <script src="research.js" defer></script>
+</head>
+<body>
+<main>
+  <nav><a href="index.html">← Connectivity map</a> · <a href="audit/README.md">Method and limitations</a> · <a href="audit/removal-audit.json">Original-listing audit</a> · <a href="audit/properties.json" download>Catalogue JSON</a></nav>
+  <h1>More names. Visible gaps.</h1>
+  <p class="lede">A builder-by-builder catalogue review for Bengaluru's metro corridors, checked 25 October 2026.</p>
+  <p id="summary" role="status">Loading catalogue…</p>
+  <aside>These are projects, phases and research leads, including plotted layouts and small buildings. Inclusion does not establish a gated township, available 3 BHK, reasonable price, clear title or a safe walk. Source-backed project points are not verified gates. Restored legacy points with uncertain identities/locations are explicitly marked and receive no metro-distance claims; new leads without points stay unpinned.</aside>
+  <details id="coverage">
+    <summary>Builder coverage: what was checked and what remains open</summary>
+    <p>No builder is certified historically exhaustive. Current marketing catalogues can omit delivered buildings, sold-out phases and projects held under other promoter entities. Retrieval failures and dynamic shells are recorded in the <a href="audit/sources.json">source manifest</a>.</p>
+    <div class="scroll"><table><thead><tr><th>Builder</th><th>Original map</th><th>Catalogue records</th><th>Coverage and sources</th></tr></thead><tbody id="builders"></tbody></table></div>
+  </details>
+  <section class="filters" aria-label="Catalogue filters">
+    <label>Search name, alias, builder or area<input type="search" id="query" placeholder="e.g. Hoodi, Woods, Trifecta"></label>
+    <label>Builder<select id="builder"><option value="">All builders</option></select></label>
+    <label>Metro line<select id="line"><option value="">All lines / no location</option></select></label>
+    <label>Aerial distance<select id="distance"><option value="3">≤3 km from a station</option><option value="1">≤1 km from a station</option><option value="0.5">≤500 m from a station</option><option value="all">Any distance</option></select></label>
+    <label>Map admission<select id="admission"><option value="">All records</option><option value="mapped">Mapped</option><option value="unmapped">Not mapped / unresolved</option></select></label>
+  </section>
+  <p class="hint">Distance filtering applies when a line is selected. All eight lines and both directions are covered. Proposed stations are labelled separately from construction and operating lines. Distance is calculated to the nearest station on each line, not to the track.</p>
+  <p id="count" aria-live="polite"></p>
+  <div class="scroll"><table id="projects"><thead><tr><th>Project / phase</th><th>Product and stage</th><th>Metro proximity</th><th>Evidence and location</th></tr></thead><tbody id="rows"></tbody></table></div>
+  <button id="more" hidden>Show next 100 records</button>
+  <p class="hint">Legal/RERA, OC, occupancy, live inventory, specific 3 BHK quotes and gate-to-station walking routes remain project-level checks. Forum reports are leads, not verified findings. Neither a proposed line nor a marketing name is a purchase recommendation.</p>
+</main>
+</body>
+</html>

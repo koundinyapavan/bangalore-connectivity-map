@@ -1,0 +1,24 @@
+{
+  "checked_date": "2026-10-25",
+  "builders": 63,
+  "catalogue_records": 983,
+  "mapped_records": 530,
+  "new_mapped_records": 255,
+  "retained_or_corrected_legacy_records": 275,
+  "original_map_records": 276,
+  "unmapped_catalogue_records": 453,
+  "with_candidate_coordinates": 599,
+  "source_checks": 92,
+  "builders_with_additional_candidates": 56,
+  "within_3km_of_any_station": 406,
+  "by_line": {
+    "Purple": 152,
+    "Blue": 163,
+    "Green": 80,
+    "Pink": 66,
+    "Yellow": 47,
+    "Orange": 56,
+    "Grey": 9,
+    "Red": 125
+  }
+}

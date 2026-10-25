@@ -1,0 +1,632 @@
+[
+  {
+    "builder": "2getherments",
+    "pr_entries": 1,
+    "inventory_records": 1,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "One Bengaluru community confirmed in the checked source: 2g Tula. The official page distinguishes Block A ready from Block B possession target December 2027. Do not apply one stage to the entire project.",
+    "omission_examples": "",
+    "source_urls": "https://www.2gtula.com/"
+  },
+  {
+    "builder": "Abhee",
+    "pr_entries": 1,
+    "inventory_records": 9,
+    "additional_records": 8,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Abhee Aaria; Abhee Celestial City; Abhee Kings Court; Abhee Natura; Abhee Pride; Abhee Riviera Royale; Abhee Serenity Springs; Abhee Tranquila",
+    "source_urls": "https://abheeventures.com/bangalore/projects/"
+  },
+  {
+    "builder": "Adarsh",
+    "pr_entries": 10,
+    "inventory_records": 24,
+    "additional_records": 13,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Adarsh Crest; Adarsh Euphoria; Adarsh Forest Glen; Adarsh Garden Estate; Adarsh Lumina; Adarsh Palm Acres \u2013 Phase III; Adarsh Parkland \u2013 Phase II; Adarsh Premia; Adarsh Primrose; Adarsh Rosewood; Adarsh Sanctuary; Adarsh Tropica \u2013 Phase II",
+    "source_urls": "https://www.adarshdevelopers.com/"
+  },
+  {
+    "builder": "Address Maker",
+    "pr_entries": 1,
+    "inventory_records": 20,
+    "additional_records": 19,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Apollo Address; Artemis Address; Artemis Arena; Classic Amara; Classic Bulwark Village; Classic Canaan; Gempark Address; Gokul Vatika Address; IVC Northshire Address; The Akshara Valley Address; The Central Regency Address; The County Address",
+    "source_urls": "https://addressmaker.in/"
+  },
+  {
+    "builder": "Akme",
+    "pr_entries": 1,
+    "inventory_records": 5,
+    "additional_records": 4,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Official historical catalogue not available in retrieval. Named resale leads drawn from a secondary directory. No current developer-sales availability implied.",
+    "omission_examples": "Akme Encore; Akme Gold Symphony; Akme Harmony; Akme Lakeside",
+    "source_urls": "https://www.squareyards.com/projects-by-akme-projects-in-bangalore"
+  },
+  {
+    "builder": "Alembic",
+    "pr_entries": 2,
+    "inventory_records": 2,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "The checked official catalogue lists two Bengaluru residential communities: Urban Forest and Cloud Forest. Both were already present. Excludes Vadodara and commercial Forest Village / Chikoo Grove.",
+    "omission_examples": "",
+    "source_urls": "https://www.alembicrealestate.com/projects"
+  },
+  {
+    "builder": "Alpine",
+    "pr_entries": 2,
+    "inventory_records": 3,
+    "additional_records": 1,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Alpine Iris",
+    "source_urls": "https://www.alpinehousing.com/"
+  },
+  {
+    "builder": "Aratt",
+    "pr_entries": 1,
+    "inventory_records": 5,
+    "additional_records": 4,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Aratt Alchemy Elixir; Aratt Alchemy One; Aratt Cityscapes; Aratt Twilight",
+    "source_urls": "https://aratt.in/"
+  },
+  {
+    "builder": "Arvind",
+    "pr_entries": 1,
+    "inventory_records": 11,
+    "additional_records": 9,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Arvind Bel Air; Arvind Expansia; Arvind Forest Trails; Arvind Greatlands; Arvind Oasis; Arvind Skycrest; Arvind Skylands; Arvind Sporcia; Arvind The Park",
+    "source_urls": "https://www.arvindsmartspaces.com/location/properties-in-bangalore/"
+  },
+  {
+    "builder": "Assetz",
+    "pr_entries": 11,
+    "inventory_records": 32,
+    "additional_records": 19,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Assetz 18 & Oak; Assetz 22 & Crest; Assetz 38 & Banyan; Assetz Atmos & Aura; Assetz Canvas & Cove; Assetz Earth & Essence; Assetz East Point; Assetz Here & Now; Assetz Lumos; Assetz Melodies Of Life Apartments; Assetz Meru & Meadow; Assetz Miru & Miyo",
+    "source_urls": "https://www.assetzproperty.com/projects/bangalore"
+  },
+  {
+    "builder": "Bhartiya",
+    "pr_entries": 9,
+    "inventory_records": 9,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official footer identifies Nikoo I, II, IV, V, 6, Garden Estate, 8 and 9 and lists phase RERAs. Do not mix the Thanisandra umbrella campus with Kogilu Nikoo 6 or Garden Estate / Enclave / Hill locations.",
+    "omission_examples": "",
+    "source_urls": "https://nikoohomes.com/our-projects/"
+  },
+  {
+    "builder": "Birla Estates",
+    "pr_entries": 3,
+    "inventory_records": 5,
+    "additional_records": 2,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "All five named Bengaluru communities on the checked official city page are represented. Tisya and Alokya were missing from PR #3.",
+    "omission_examples": "Birla Alokya; Birla Tisya",
+    "source_urls": "https://www.birlaestates.com/bengaluru.aspx"
+  },
+  {
+    "builder": "Bren",
+    "pr_entries": 1,
+    "inventory_records": 12,
+    "additional_records": 11,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Bren Ananta; Bren Avaana; Bren Champions Square; Bren Cosmo; Bren Edgewaters; Bren Imperia; Bren Imperia Grande; Bren Northern Lights; Bren Park City; Bren Zahara; Soho By Bren",
+    "source_urls": "https://bren.com/ ; https://bren.com/residential.php ; https://www.dosl.in/builders/bren-corporation-private-limited"
+  },
+  {
+    "builder": "Bricks & Milestones",
+    "pr_entries": 6,
+    "inventory_records": 6,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "All six currently named residential projects on the checked official catalogue are represented. Felicity and Lagos are plotted developments; New Dawn is row villas. This does not certify unannounced or archived projects.",
+    "omission_examples": "",
+    "source_urls": "https://bricksandmilestones.com/residential-property/"
+  },
+  {
+    "builder": "Brigade",
+    "pr_entries": 20,
+    "inventory_records": 72,
+    "additional_records": 51,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Azalea at Brigade Meadows; Brigade 7 Gardens; Brigade Altamont; Brigade Bricklane - Jakkur; Brigade Buena Vista - Budigere Cross; Brigade Caladium; Brigade Classic; Brigade Coronet; Brigade Crescent; Brigade Gardenia; Brigade Gardenia Annexe; Brigade Gem",
+    "source_urls": "https://www.brigadegroup.com/residential/projects/bengaluru ; https://www.brigadegroup.com/residential/delivered-projects"
+  },
+  {
+    "builder": "Candeur",
+    "pr_entries": 4,
+    "inventory_records": 4,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official catalogue is dynamic; four inherited Bengaluru names retained. Hyderabad project names were not imported as Bengaluru projects. Full historical completeness remains unverified.",
+    "omission_examples": "",
+    "source_urls": "https://candeur.in/projects"
+  },
+  {
+    "builder": "Casagrand",
+    "pr_entries": 4,
+    "inventory_records": 16,
+    "additional_records": 12,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Casagrand Amor; Casagrand Boulevard; Casagrand Casablanca; Casagrand Estancia; Casagrand Flamingo; Casagrand Hazen; Casagrand Meridian; Casagrand Moondance; Casagrand Promenade; Casagrand Regal; Casagrand Vivacity; Casagrand Zaiden",
+    "source_urls": "https://www.casagrand.co.in/apartments-villas-plots/ongoing-projects-bangalore/"
+  },
+  {
+    "builder": "Century",
+    "pr_entries": 5,
+    "inventory_records": 20,
+    "additional_records": 15,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Century Bliss; Century Breeze; Century Eden; Century Greens; Century Horizon; Century Kindle; Century Linea; Century Liva; Century Novus; Century Regalia; Century Renata; Century Seasons",
+    "source_urls": "https://www.centuryrealestate.in/residential/projects"
+  },
+  {
+    "builder": "Concorde",
+    "pr_entries": 2,
+    "inventory_records": 9,
+    "additional_records": 7,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Concorde Antares; Concorde Eleve; Concorde Equity; Concorde Hillcrest; Concorde Mayfair; Concorde NEO; Concorde Sienna",
+    "source_urls": "https://www.concorde.in/"
+  },
+  {
+    "builder": "DNR",
+    "pr_entries": 5,
+    "inventory_records": 8,
+    "additional_records": 3,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "DNR Reflection; DNR Solace; DNR Springleaf",
+    "source_urls": "https://dnrgroup.in/residential-projects/"
+  },
+  {
+    "builder": "DSR",
+    "pr_entries": 1,
+    "inventory_records": 13,
+    "additional_records": 12,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Official Bengaluru catalogue has conflicting title/locality labels and mixes residential / commercial. Named leads retained, but parcel, entity, product and location require individual verification.",
+    "omission_examples": "DSR Elite; DSR Elixir; DSR EVOQ; DSR Green Fields; DSR Highland Greenz; DSR Krishna Royale; DSR RR Avenues; DSR The Address; DSR Ultima; DSR Waterscape; DSR White Waters; DSR Woodwinds",
+    "source_urls": "https://www.dsrinfra.com/ ; https://www.dsrinfra.com/bengaluru/"
+  },
+  {
+    "builder": "Durga",
+    "pr_entries": 1,
+    "inventory_records": 2,
+    "additional_records": 1,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Durga Flute",
+    "source_urls": "https://www.durgaprojects.in/"
+  },
+  {
+    "builder": "Embassy",
+    "pr_entries": 9,
+    "inventory_records": 14,
+    "additional_records": 5,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Embassy Greenshore; Embassy Origins; Embassy Riverine; Embassy South Reserve; Embassy Verde",
+    "source_urls": "https://embassyindia.com/projects/"
+  },
+  {
+    "builder": "Godrej",
+    "pr_entries": 17,
+    "inventory_records": 32,
+    "additional_records": 15,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official listing retrieval is partial. Supplemented with named secondary records and a bank directory. Azure was excluded because the official project is in Chennai. Historical and SPV coverage remain incomplete.",
+    "omission_examples": "Godrej Aqua; Godrej Aravya Estate; Godrej Avenues; Godrej Gold County; Godrej Park Retreat Phase 2; Godrej Parkshire (Hoskote); Godrej Platinum; Godrej Reflections; Godrej Splendour Phase II; Godrej Vanantara; Godrej Woodland; Godrej Woodland Phase 2",
+    "source_urls": "https://www.godrejproperties.com/Bangalore_projects/corporate ; https://www.dosl.in/builders/godrej-properties"
+  },
+  {
+    "builder": "Gopalan",
+    "pr_entries": 2,
+    "inventory_records": 26,
+    "additional_records": 24,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Admirality Avenue; Admirality Premier; Admiralty Square; Casa Gopalan; Gopalan Admirality Court; Gopalan Admirality Manor; Gopalan Admirality Royal; Gopalan Aqua; Gopalan Aristocrat; Gopalan Atlantis; Gopalan Florenza; Gopalan Habitat Splendor",
+    "source_urls": "https://www.gopalanenterprises.com/residential-completed-projects.html ; https://www.gopalanenterprises.com/our-projects.html"
+  },
+  {
+    "builder": "Goyal",
+    "pr_entries": 2,
+    "inventory_records": 17,
+    "additional_records": 15,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Alanoville; Orchid Bloomsberry; Orchid Enclave; Orchid Greens; Orchid Lakeview; Orchid Life; Orchid Park; Orchid Piccadilly; Orchid Salisbury; Orchid South Park; Orchid Whitefield; Orchid Woods",
+    "source_urls": "https://goyalco.com/project/residential/"
+  },
+  {
+    "builder": "Habitat",
+    "pr_entries": 2,
+    "inventory_records": 2,
+    "additional_records": 0,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Both named residential communities on the checked official homepage, Iluminar and Eden Heights, were already present. Historical completeness beyond this public catalogue is not established.",
+    "omission_examples": "",
+    "source_urls": "https://habitatventures.com/"
+  },
+  {
+    "builder": "House of Hiranandani",
+    "pr_entries": 1,
+    "inventory_records": 3,
+    "additional_records": 2,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "House of Hiranandani Bannerghatta; House of Hiranandani Hebbal",
+    "source_urls": "https://www.houseofhiranandani.com/residential-projects/properties-in-bengaluru"
+  },
+  {
+    "builder": "Karle",
+    "pr_entries": 1,
+    "inventory_records": 2,
+    "additional_records": 1,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Karle Vario Homes",
+    "source_urls": "https://karleinfra.com/bangalore/"
+  },
+  {
+    "builder": "Keerthi",
+    "pr_entries": 1,
+    "inventory_records": 11,
+    "additional_records": 10,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Keerthi Ascent; Keerthi Bandapura; Keerthi Chalet; Keerthi Gardenia; Keerthi Harmony; Keerthi Krishna Viva; Keerthi Regalia; Keerthi Royal Palms; Keerthi Signature; Keerthi Splendour",
+    "source_urls": "https://keerthiestates.in/ ; https://keerthiestates.in/k_bangalore-projects/"
+  },
+  {
+    "builder": "Keya",
+    "pr_entries": 1,
+    "inventory_records": 6,
+    "additional_records": 5,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Keya Life by the Lake; Keya Spring; Keya The Green Terraces; Keya The Lake Terraces; Keya The Urban Forest",
+    "source_urls": "https://keyahomes.in/"
+  },
+  {
+    "builder": "L and T Realty",
+    "pr_entries": 3,
+    "inventory_records": 4,
+    "additional_records": 1,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "L&T South City",
+    "source_urls": "https://www.lntrealty.com/residences/"
+  },
+  {
+    "builder": "Lodha",
+    "pr_entries": 6,
+    "inventory_records": 7,
+    "additional_records": 1,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Six named Bengaluru projects found on the checked current official all-projects page. Beaumont Estate was missing. Fiorana remains an unresolved possible prior / marketing name and is not a separately verified offering.",
+    "omission_examples": "Lodha Beaumont Estate",
+    "source_urls": "https://www.lodhagroup.com/all-projects"
+  },
+  {
+    "builder": "Mahaveer",
+    "pr_entries": 1,
+    "inventory_records": 27,
+    "additional_records": 26,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Mahaveer Camellia; Mahaveer Carnation; Mahaveer Celesse; Mahaveer Crest; Mahaveer Cygnet; Mahaveer Edenfield; Mahaveer Grandis; Mahaveer Highlands; Mahaveer Hillstone; Mahaveer Horizon; Mahaveer Jonquil; Mahaveer Laurel",
+    "source_urls": "https://mahaveergroup.in/projects/"
+  },
+  {
+    "builder": "Mahindra",
+    "pr_entries": 2,
+    "inventory_records": 7,
+    "additional_records": 5,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Great Eastern Chalet; Mahindra Eden; Mahindra Great Eastern Villa; Mahindra NewHaven; Mahindra Windchimes",
+    "source_urls": "https://www.mahindralifespaces.com/residential/flats-in-bangalore/"
+  },
+  {
+    "builder": "Mana",
+    "pr_entries": 2,
+    "inventory_records": 13,
+    "additional_records": 10,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Daintree by MANA; Forest Province at The Right Life; Lake Province at The Right Life; MANA Cresta; MANA Jardin Neo; MANA Verdant Terraces; MANA Vista; Sports Province at The Right Life; The Right Life; The Solitaire at The Right Life",
+    "source_urls": "https://www.manaprojects.com/residential/"
+  },
+  {
+    "builder": "NCC Urban",
+    "pr_entries": 2,
+    "inventory_records": 8,
+    "additional_records": 6,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "NCC Urban Green Province II; NCC Urban Lake Springs; NCC Urban Mayfair; NCC Urban Misty Woods; NCC Urban Park View; NCC Urban Retreat",
+    "source_urls": "https://www.nccurban.com/ongoing-projects-in-bengaluru.html ; https://www.nccurban.com/completed-projects-in-bengaluru.html"
+  },
+  {
+    "builder": "Nambiar",
+    "pr_entries": 3,
+    "inventory_records": 7,
+    "additional_records": 4,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Nambiar District25; Nambiar Ellegenza Phase - 1; Nambiar Ellegenza Purple Crest Edition; Nambiar Millenia",
+    "source_urls": "https://nambiarbuilders.com/"
+  },
+  {
+    "builder": "Phoenix",
+    "pr_entries": 1,
+    "inventory_records": 2,
+    "additional_records": 0,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "No additional individually named Bengaluru project confirmed in the checked sources. Public catalogue coverage is limited; do not treat this as proof of an exhaustive portfolio.",
+    "omission_examples": "",
+    "source_urls": "https://www.phoenixmills.com/residential"
+  },
+  {
+    "builder": "Prestige",
+    "pr_entries": 36,
+    "inventory_records": 88,
+    "additional_records": 51,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official catalogue is dynamic and does not expose the full historical list in retrieval. Supplemented with named secondary records. Numerous omissions found, but this is not an exhaustive RERA or historical audit.",
+    "omission_examples": "Aston Park @ The Prestige City; Meridian Park Phase I @ The Prestige City; Meridian Park Phase II @ The Prestige City; Meridian Park Phase III @ The Prestige City; Prestige Andree Residences; Prestige Autumn Leaves; Prestige Bagamane Temple Bells; Prestige Botanique; Prestige Boulevard; Prestige Crystal Lawns; Prestige Dolce Vita; Prestige Edwardian",
+    "source_urls": "https://www.prestigeconstructions.com/residential-projects/bangalore ; https://www.prestigeconstructions.com/residential-projects ; https://www.dosl.in/builders/prestige"
+  },
+  {
+    "builder": "Pride",
+    "pr_entries": 1,
+    "inventory_records": 5,
+    "additional_records": 4,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Pride Altius; Pride Crosswinds Villa; Pride Crosswinds Villa Plots Phase - II; Pride Vatika phase-II",
+    "source_urls": "https://www.pridegroup.net/bangalore/residential/ongoing-projects"
+  },
+  {
+    "builder": "Provident",
+    "pr_entries": 3,
+    "inventory_records": 9,
+    "additional_records": 6,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Provident Botanico; Provident Capella; Provident Deansgate; Provident The Tree; Provident TooGoodHomes; Provident Welworth City",
+    "source_urls": "https://www.providenthousing.com/projects/bangalore/"
+  },
+  {
+    "builder": "Puravankara",
+    "pr_entries": 13,
+    "inventory_records": 46,
+    "additional_records": 30,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Purva Blubelle; Purva Celestial; Purva Coronation Square; Purva Esplanade; Purva Graces; Purva Heritage; Purva Highlands; Purva Kensho Hills; Purva Northern Lights; Purva Oakshire; Purva Orient Grand; Purva Palm Beach",
+    "source_urls": "https://www.puravankara.com/residential/bengaluru ; https://www.puravankara.com/campaigns/completed-projects/ ; https://www.dosl.in/builders/puravankara"
+  },
+  {
+    "builder": "RJ",
+    "pr_entries": 1,
+    "inventory_records": 1,
+    "additional_records": 0,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Official residential index found, but full project pages were blocked in direct retrieval. Lake Gardenia retained. One retained name does not establish a complete historical portfolio.",
+    "omission_examples": "",
+    "source_urls": "https://www.rjbuilders.in/residential-property-in-bangalore.php"
+  },
+  {
+    "builder": "Reliaable",
+    "pr_entries": 1,
+    "inventory_records": 13,
+    "additional_records": 12,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "The PR entry was a builder-level placeholder. Replaced in screening with named secondary-directory leads. Mostly plotted layouts; individual plot approvals and home availability are not checked.",
+    "omission_examples": "Reliaable Acacia; Reliaable Dollar Colony; Reliaable eCity; Reliaable Elements; Reliaable Gardeniaa; Reliaable Lakedew Residency; Reliaable Lifestyle; Reliaable Magnoliaa; Reliaable Prime City; Reliaable Residenza; Reliaable Tranquil; Reliaable Woods",
+    "source_urls": "https://www.magicbricks.com/Reliaable-Developers-buid-4d423536383335"
+  },
+  {
+    "builder": "Rohan",
+    "pr_entries": 4,
+    "inventory_records": 9,
+    "additional_records": 5,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "All nine named Bengaluru communities on the checked official city page are represented. Five additional completed-project names found. Historical completeness beyond that page is not established.",
+    "omission_examples": "Rohan Akriti; Rohan Ashima; Rohan Iksha; Rohan Jharoka II; Rohan Mihira",
+    "source_urls": "https://rohanbuilders.com/homes/bangalore-homes/"
+  },
+  {
+    "builder": "SBR",
+    "pr_entries": 1,
+    "inventory_records": 12,
+    "additional_records": 11,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "SBR Earth & Sky; SBR Florenso; SBR Global Queen's Ville; SBR Gokulam; SBR Horizon; SBR Keerthi; SBR Keerthi Prime; SBR Magnus; SBR Minara; SBR Pravanika; SBR Tejas",
+    "source_urls": "https://sbrgroup.in/residential.php"
+  },
+  {
+    "builder": "SJR",
+    "pr_entries": 1,
+    "inventory_records": 9,
+    "additional_records": 8,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "SJR Blue Waters; SJR Crystal Cove; SJR Fiesta Homes; SJR Hamilton Homes; SJR Mayfair Residences; SJR Parkway Homes; SJR The Pavilion; SJR Watermark",
+    "source_urls": "https://sjrprime.com/project"
+  },
+  {
+    "builder": "SMR",
+    "pr_entries": 2,
+    "inventory_records": 5,
+    "additional_records": 3,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "SMR Vinay Estella; SMR Vinay Gateway; SMR Vinay Harmony",
+    "source_urls": "https://www.smrholdings.in/residential-projects.php"
+  },
+  {
+    "builder": "SNN",
+    "pr_entries": 2,
+    "inventory_records": 18,
+    "additional_records": 16,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Raj Azaleas; Raj Bay Vista; Raj Boulevard; Raj Elegante; Raj High Gardens; Raj Viviente; SNN ESTATES DUOMONT; SNN Estates Felicity; SNN Estates Serenity Garden; SNN Raj Etternia; SNN Raj Grandeur; SNN Raj Greenbay",
+    "source_urls": "https://snnestates.com/projects/ ; https://snnrajcorp.com/projects/"
+  },
+  {
+    "builder": "Sattva",
+    "pr_entries": 10,
+    "inventory_records": 30,
+    "additional_records": 20,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Current and product pages expose more names than the apartment-category index. City and Park Cubix split. Aaranya, Aangane and Forest Ridge among omissions; product-page copy conflicts require RERA checks.",
+    "omission_examples": "Sattva Aangane; Sattva Aaranya; Sattva Aeropolis; Sattva Aeropolis II; Sattva Anugraha; Sattva Ashraya; Sattva Bhumi; Sattva Bliss; Sattva Casa Crescent; Sattva Ekatra; Sattva Forest Ridge; Sattva Gold Summit",
+    "source_urls": "https://sattvagroup.com/residential/apartments-in-bengaluru/ ; https://sattvagroup.com/our-business-verticals/residential/"
+  },
+  {
+    "builder": "Shapoorji Pallonji",
+    "pr_entries": 1,
+    "inventory_records": 1,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "No additional individually named Bengaluru project confirmed in the checked sources. Public catalogue coverage is limited; do not treat this as proof of an exhaustive portfolio.",
+    "omission_examples": "",
+    "source_urls": "https://shapoorjirealestate.com/residential/parkwest-20/"
+  },
+  {
+    "builder": "Shriram",
+    "pr_entries": 2,
+    "inventory_records": 39,
+    "additional_records": 37,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Shriram 107 SouthEast; Shriram Adithya; Shriram Blue; Shriram Chirping Grove; Shriram Chirping Ridge; Shriram Chirping Woods; Shriram Earth; Shriram Earth Whitefield; Shriram Elite Sai Gardens; Shriram Esquire; Shriram Liberty Square; Shriram Luxor",
+    "source_urls": "https://www.shriramproperties.com/residential-property/bangalore"
+  },
+  {
+    "builder": "Sizzle",
+    "pr_entries": 1,
+    "inventory_records": 4,
+    "additional_records": 3,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "The PR entry was a builder-level placeholder. Three named current official-site layout phases added. Plotted layouts do not constitute ready 3 BHK apartments.",
+    "omission_examples": "Ruby Sizzle Heritage; Sizzle East Coast Phase IV; Sizzle White Willows Phase 3",
+    "source_urls": "https://www.sizzleproperties.com/on-going-projects.html"
+  },
+  {
+    "builder": "Skylark",
+    "pr_entries": 1,
+    "inventory_records": 17,
+    "additional_records": 16,
+    "primary_catalogue_access": "Limited / unavailable",
+    "coverage_finding": "Official historical catalogue unavailable in retrieval. Supplementary directory used for named Bengaluru projects. No current developer-sales availability implied.",
+    "omission_examples": "Skylark Arcadia; Skylark Arcadia Phase 2; Skylark Carmel; Skylark City; Skylark Eden; Skylark Enclave; Skylark Gold Nest; Skylark Greens; Skylark Ithaca; Skylark Jewel; Skylark Opal Nest; Skylark Pearl Nest",
+    "source_urls": "https://www.squareyards.com/projects-by-skylark-in-bangalore"
+  },
+  {
+    "builder": "Sobha",
+    "pr_entries": 17,
+    "inventory_records": 63,
+    "additional_records": 46,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "SOBHA 25 RICHMOND; SOBHA ALTHEA; Sobha Avenue; SOBHA AZALEA; SOBHA BROOKLYN TOWERS \u2013 TOWNPARK; SOBHA CANVAS; SOBHA CHRYSANTHEMUM; SOBHA CLASSIC; SOBHA CLOVELLY; SOBHA DAFFODIL; SOBHA DAHLIA; SOBHA DEWFLOWER",
+    "source_urls": "https://www.sobha.com/city/bengaluru/"
+  },
+  {
+    "builder": "Sowparnika",
+    "pr_entries": 1,
+    "inventory_records": 14,
+    "additional_records": 13,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Sowparnika Capital County; Sowparnika Elania; Sowparnika Euphoria in the East; Sowparnika Florenzza; Sowparnika Ista; Sowparnika Life on the Green; Sowparnika Pragati; Sowparnika Rhythm of Rain; Sowparnika Signature Tower; Sowparnika Sunray; Sowparnika West Holmes; Sowparnika Whispering Petals",
+    "source_urls": "https://www.sowparnika.com/residential-projects-in-bengaluru/"
+  },
+  {
+    "builder": "Sumadhura",
+    "pr_entries": 9,
+    "inventory_records": 11,
+    "additional_records": 2,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Sumadhura Belfort; Sumadhura Pramoda",
+    "source_urls": "https://sumadhuragroup.com/residential"
+  },
+  {
+    "builder": "Tata Housing",
+    "pr_entries": 1,
+    "inventory_records": 3,
+    "additional_records": 0,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "No additional individually named Bengaluru project confirmed in the checked sources. Public catalogue coverage is limited; do not treat this as proof of an exhaustive portfolio.",
+    "omission_examples": "",
+    "source_urls": "https://www.tatahousing.com/residential-property-in-bangalore"
+  },
+  {
+    "builder": "Total Environment",
+    "pr_entries": 7,
+    "inventory_records": 8,
+    "additional_records": 1,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official public sites were inaccessible / dynamically empty in retrieval. Seven inherited PR names retained and Learning to Fly added as a secondary-source lead. Full current/historical completeness not established.",
+    "omission_examples": "Learning to Fly",
+    "source_urls": "https://www.totalenvironment.in/ ; https://www.total-environment.com/"
+  },
+  {
+    "builder": "Trendsquares",
+    "pr_entries": 1,
+    "inventory_records": 9,
+    "additional_records": 8,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Trendsquares Akino; Trendsquares Ambience; Trendsquares Callisto; Trendsquares East Park Residences; Trendsquares Ortus \u2013 1; Trendsquares Ortus \u2013 2; Trendsquares Ortus \u2013 3; Trendsquares Synergy",
+    "source_urls": "https://www.trendsquares.com/projects/"
+  },
+  {
+    "builder": "Trifecta",
+    "pr_entries": 10,
+    "inventory_records": 19,
+    "additional_records": 7,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Official ongoing and completed pages checked. Phase and housing-form records preserved. Adatto and Fait Pour are commercial and excluded from home searches.",
+    "omission_examples": "Trifecta Beaumonde; Trifecta Verde En Resplandor Row Homes Phase 1; Trifecta Verde En Resplandor Row Homes Phase 2; Trifecta Verde En Resplandor Row Homes Phase 3; Trifecta Verde En Resplandor Villas Phase 1; Trifecta Verde En Resplandor Villas Phase 2; Trifecta Verde En Resplandor Villas Phase 3",
+    "source_urls": "https://trifectaprojects.com/projects-in-bangalore/ ; https://trifectaprojects.com/completed-projects/"
+  },
+  {
+    "builder": "Vaswani",
+    "pr_entries": 2,
+    "inventory_records": 5,
+    "additional_records": 3,
+    "primary_catalogue_access": "Accessible",
+    "coverage_finding": "Additional named catalogue / resale records found. The checked public pages improve coverage but do not establish a complete historical, SPV-level, or unannounced-project inventory.",
+    "omission_examples": "Brookefield Manor; Vaswani Brentwood; Vaswani Reserve",
+    "source_urls": "https://vaswanigroup.com/?city=bangalore ; https://vaswanigroup.com/about-us/"
+  }
+]
